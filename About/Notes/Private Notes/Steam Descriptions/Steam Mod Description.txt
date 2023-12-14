@@ -1,1 +1,5 @@
-Put full direct-workshop (what you see on the front page) text here
+Rimworld Genes Extended is a mod that enhances Expanded Biotech Style Genes, extends on other mods genes, along with making some new ones.
+
+Some features that are in the works are some more genes for Super Hero Genes, along with genes for the mod "Godly Trait Genes".
+
+As for why this requires royalty, that's because a good amount of the genes rely on psycast-based genes, and are interwoven enough that it's nigh-impossible to seperate them. Ideology-based ones can be isolated slightly easier, hence it's optional.
