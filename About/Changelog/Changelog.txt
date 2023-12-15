@@ -1,2 +1,7 @@
 V 1.0.0
 Uploaded
+
+V 1.0.1
+Wrote Description
+modified about file
+made a FAQ section

@@ -1,5 +1,12 @@
-Rimworld Genes Extended is a mod that enhances Expanded Biotech Style Genes, extends on other mods genes, along with making some new ones.
+Rimworld Genes Extended is a mod that enhances Expanded Biotech Style Genes, extents on other mods genes, and makes new genes.
 
-Some features that are in the works are some more genes for Super Hero Genes, along with genes for the mod "Godly Trait Genes".
+Do note, however, that this mod contains primarily basic interactions. More advanced things, like genes for Save our Ship integration, will be seperate mods as there will be many more modules to that.
 
-As for why this requires royalty, that's because a good amount of the genes rely on psycast-based genes, and are interwoven enough that it's nigh-impossible to seperate them. Ideology-based ones can be isolated slightly easier, hence it's optional.
+Currently, some of the features that are in the works include: [olist]
+[*]More features for Super Hero Genes (by alite)
+[*]genes for the mod "Godly Trait Genes".
+[/olist]
+[url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4032474633912009568/]FAQ (Fun read. Enjoy!)[/url]
+
+
+For a mod that adds in xenos based off [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Genes Extended[/url] (and it's dependencies), look at [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others!

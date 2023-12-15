@@ -1,0 +1,10 @@
+[olist]
+[*]Q: Is this Combat Extended compatible?
+A: Uh... sure. There might be "unintented features" (especially as more code is added) that we can't guarentee to fix, but you do you and all!
+[*]Q: Why does this mod need both biotech and royalty?
+A: Simple. Many of the features are so interwoven between the too, that removing one is outright impossible!
+[*]Q: Why is this mod called Rimworld Genes Extended, not Rimworld Biotech Extended
+A: That is because I have a plan for a mod called Rimworld Biotech Extended. It involes genetic synthesyze, cloning, growth vat improvments, and more!
+[*]Q: With all these mods, did you bite off more than you can chew?
+A: Uh... I do have the right to remain silent, right?
+[/olist]
