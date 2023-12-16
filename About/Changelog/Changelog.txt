@@ -5,3 +5,11 @@ V 1.0.1
 Wrote Description
 modified about file
 made a FAQ section
+
+V 1.0.2
+Imrpved Description
+Improved FAQ
+Made Public
+Altered Xenotypes expanded and More to fit this better (description, FAQ, and requirments)
+made it use Super Hero Genes: Base
+added incompatibilities

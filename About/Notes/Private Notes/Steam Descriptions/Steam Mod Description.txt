@@ -1,12 +1,31 @@
 Rimworld Genes Extended is a mod that enhances Expanded Biotech Style Genes, extents on other mods genes, and makes new genes.
 
-Do note, however, that this mod contains primarily basic interactions. More advanced things, like genes for Save our Ship integration, will be seperate mods as there will be many more modules to that.
+Do note, however, that this mod mostly adds single-mod affecting/ simpler multi-mod genes. More advanced genes [i]and[/i] new mechanics will be in addons. In other words, this mod series (still working on finalizing a name for it. Once that happens, the title might change) has a few "teirs"
+
+[olist]
+[*]Rimworld Genes Extended: adds in some new genes of my own invention, as well as genes integrated with other mods.
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url]: New xenotypes based on this mods genes, and a few others
+[*]Rimworld Genes Integrated
+	This mod will make new genes requiring multiple mods. For instance, integration between 2 specific mods, as optional dependencies won't allow them. Examples include:[olist]
+[*]All Vanilla Expanded Races
+[*]All Big and Small Races
+[*]Those 2 mentioned mods
+[/olist]
+[*]Xenotypes Integrated: uses all of the Rimworld Genes Integrated to produce new inter-connected xenos
+[*]Biotech Expanded: mods that add new mechanics. Examples include [list]
+[*]Cloneing
+[*]Synthesyzing genes
+[*]Archite production
+[*]Save our Ship features (genes, weapons, ship components)
+[/list]
+[*]Xenotypes Combined: A mod that combines xenotypes integrated and all Biotech Expanded into one mod!
+[*]More?
+[/olist]
 
 Currently, some of the features that are in the works include: [olist]
-[*]More features for Super Hero Genes (by alite)
 [*]genes for the mod "Godly Trait Genes".
 [/olist]
 [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4032474633912009568/]FAQ (Fun read. Enjoy!)[/url]
 
 
-For a mod that adds in xenos based off [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Genes Extended[/url] (and it's dependencies), look at [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others!
+For a mod that adds in xenos based off [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Genes Extended[/url] (and it's dependencies), look at [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], , the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others!
