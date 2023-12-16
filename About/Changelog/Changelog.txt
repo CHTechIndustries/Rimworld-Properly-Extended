@@ -13,3 +13,6 @@ Made Public
 Altered Xenotypes expanded and More to fit this better (description, FAQ, and requirments)
 made it use Super Hero Genes: Base
 added incompatibilities
+
+V 1.1.0
+Improved about files

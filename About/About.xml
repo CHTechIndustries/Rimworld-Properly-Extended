@@ -68,8 +68,12 @@ Do note, however, that this mod contains primarily basic interactions. More adva
 
 	</modDependencies>
 	<loadAfter>
-		<li>tdt.core</li>
 		<li>TdT.devOrder</li>
+		<li>com.torodo.godlytraits</li>
+		<li>petre27.biotechbalancedcapacitorgenes</li>
+		<li>petre27.biotechcapacitorgenes</li>
+		<li>petre27.biotechcapacitorgenesextra</li>
+		<li>mlem.metaadjuster</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
