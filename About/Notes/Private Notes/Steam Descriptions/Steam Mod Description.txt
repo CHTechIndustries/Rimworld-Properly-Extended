@@ -29,3 +29,5 @@ Currently, some of the features that are in the works include: [olist]
 
 
 For a mod that adds in xenos based off [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Genes Extended[/url] (and it's dependencies), look at [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], , the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others!
+
+[b]NOTE: THE ICONS IN THIS MOD ARE [i]PLACEHOLDERS[/i], UNTILL I CAN FIGURE OUT HOW TO MAKE "GOOD" ICONS, AND HAVE TIME TO DO THAT[/b]

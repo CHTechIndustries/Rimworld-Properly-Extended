@@ -10,7 +10,9 @@
 	</supportedVersions>
 	<description>Rimworld Genes Extended is a mod that enhances Expanded Biotech Style Genes, extents on other mods genes, and makes new genes.
 
-Do note, however, that this mod contains primarily basic interactions. More advanced things, like genes for Save our Ship integration, along with more mechanics for Vanilla Races Expanded: Android, will be seperate mods as there will be many more modules to that.</description>
+Do note, however, that this mod contains primarily basic interactions. More advanced things, like genes for Save our Ship integration, along with more mechanics for Vanilla Races Expanded: Android, will be seperate mods as there will be many more modules to that.
+
+NOTE: THE ICONS IN THIS MOD ARE PLACEHOLDERS</description>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
