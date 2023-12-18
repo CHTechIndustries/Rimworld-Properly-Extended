@@ -2,23 +2,41 @@
 <Defs>
 	<GeneDef Name="TdT_BioStabilize_base" Abstract="True">
 		<displayCategory>TdT_BioStabilizers</displayCategory>
-		<description>Bio-Stable Genes</description>
+		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain</description>
+		<label>Bio-Stabale</label>
 		<exclusionTags>
 			<li>BioStable</li>
 		</exclusionTags>
 		<iconPath>GeneIcons/BioStable</iconPath>
+		<capMods>
+			<li>
+				<capacity>Consciousness</capacity>
+				<offset>1</offset>
+			</li>
+		</capMods>
+		<statFactors>
+			<RestRateMultiplier>0.7</RestRateMultiplier>
+		</statFactors>
+		<painOffset>5</painOffset>
 	</GeneDef>
+	<GeneDef ParentName="TdT_BioStabilize_base" >
+		<displayOrderInCategory>0</displayOrderInCategory>
+		<biostatCpx>10</biostatCpx>
+		<biostatMet>-5</biostatMet>
+		<defName>BioStable_test</defName>
+	</GeneDef>	
+
 
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize1" Abstract="True">
 		<displayOrderInCategory>1</displayOrderInCategory>
-			<biostatCpx>10</biostatCpx>
-			<biostatMet>-5</biostatMet>
-			<marketValueFactor>1.5</marketValueFactor>
-			<statFactors>
-				<RestRateMultiplier>0.7</RestRateMultiplier>
-			</statFactors>
-			<painOffset>0.20</painOffset>
-		</GeneDef>
+		<biostatCpx>10</biostatCpx>
+		<biostatMet>-5</biostatMet>
+		<marketValueFactor>1.5</marketValueFactor>
+		<statFactors>
+			<RestRateMultiplier>0.7</RestRateMultiplier>
+		</statFactors>
+		<painOffset>0.30</painOffset>
+	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize2" Abstract="True">
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
