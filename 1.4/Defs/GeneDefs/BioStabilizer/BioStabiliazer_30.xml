@@ -5,8 +5,10 @@
 		<label>Cognitive Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.	
 	
-This one specifically prevents conscisness from passing 30%, but makes it take a whole lot more to even begin to drop it. This allows them to survive almost complete brain destruction
-		</description>
+This one specifically prevents conscisness from passing 30%, but makes it take a whole lot more to even begin to drop it. This allows them to survive almost complete brain destruction</description>
+		<exclusionTags>
+			<li>Consciousness</li>
+		</exclusionTags>
 		<displayOrderInCategory>1.01</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -24,8 +26,10 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 		<label>Movement Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
-This one specifically stabalizes movment, keeping it at a maximum of 30%,  allowing even the legless some mobility.
-		</description>
+This one specifically stabalizes movment, keeping it at a maximum of 30%,  allowing even the almost-legless some mobility.</description>
+		<exclusionTags>
+			<li>Moving</li>
+		</exclusionTags>
 		<displayOrderInCategory>1.02</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -43,7 +47,10 @@ This one specifically stabalizes movment, keeping it at a maximum of 30%,  allow
 		<label>Manipulation Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 
-This one specifically stabalizies manipulation, preventing it from passing 30%, but makeing it so even major injurys (such as loosing both arms) doesn't completly stop their manipulation capabilities! </description>
+This one specifically stabalizies manipulation, preventing it from passing 30%, but makeing it so even major injurys (such as loosing 1 arm, and almost all of the other) doesn't completly stop their manipulation capabilities! </description>
+		<exclusionTags>
+			<li>Manipulation</li>
+		</exclusionTags>
 		<displayOrderInCategory>1.03</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -56,12 +63,16 @@ This one specifically stabalizies manipulation, preventing it from passing 30%, 
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Talking -->
+	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Talking -->			<!-- Missing exclusion tags -->
 		<defName>BioStable_Talking_30</defName>
 		<label>Communication Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies talking, by keeping it at 30%. Not very good for communication, but better than nothing</description>
+		<exclusionTags>
+			<li>Talking</li>
+			<!--Anything that prevents talking -->
+		</exclusionTags>
 		<displayOrderInCategory>1.04</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -80,6 +91,9 @@ This one specifically stabalizies talking, by keeping it at 30%. Not very good f
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies eating, which makes it harder to eat in general, but makes it almost impossible to make them incapable of eating!</description>
+		<exclusionTags>
+			<li>Eating</li>
+		</exclusionTags>
 		<displayOrderInCategory>1.05</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -92,30 +106,38 @@ This one specifically stabalizies eating, which makes it harder to eat in genera
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Sight -->
+	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Sight -->			<!-- Missing exclusion tags -->
 		<defName>BioStable_Sight_30</defName>
 		<label>Visual Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies sight, allowing them to see no matter the injury, at the cost of severely impaired sight</description>
+		<exclusionTags>
+			<li>Sight</li>
+			<!-- Anything that causes blindness -->
+		</exclusionTags>
 		<displayOrderInCategory>1.06</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Sight</capacity>
 				<setMax>0.3</setMax>
+			</li>
 			<li>
 				<capacity>Sight</capacity>
 				<offset>1</offset>
 			</li>
-			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Hearing -->
+	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Hearing -->		<!-- Missing exclusion tags -->
 		<defName>BioStable_Hearing_30</defName>
 		<label>Auditory Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies hearing, allowing them to hear except in the most extreme of cases, but at the cost severely impaired hearing</description>
+		<exclusionTags>
+			<li>Hearing</li>
+			<!-- Anything that causes deafness -->
+		</exclusionTags>
 		<displayOrderInCategory>1.07</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -134,6 +156,9 @@ This one specifically stabalizies hearing, allowing them to hear except in the m
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically breathing, making it very hard to drop bellow 30%. While that low value is not useful, being able to withstand severe injuries with no change in breathing is quite good!</description>
+		<exclusionTags>
+			<li>Breathing</li>
+		</exclusionTags>
 		<displayOrderInCategory>1.08</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -142,7 +167,7 @@ This one specifically breathing, making it very hard to drop bellow 30%. While t
 			</li>
 			<li>
 				<capacity>Breathing</capacity>
-				<setMin>0.3</setMin>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
@@ -152,6 +177,9 @@ This one specifically breathing, making it very hard to drop bellow 30%. While t
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically blood filtration. While being limited to 30% does make you more sensitive to diseases, the fact that severe injury won't have an effect on the filtration will assist if you have to, say, remove a kidney!</description>
+		<exclusionTags>
+			<li>BloodFiltration</li>
+		</exclusionTags>
 		<displayOrderInCategory>1.09</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -169,7 +197,10 @@ This one specifically blood filtration. While being limited to 30% does make you
 		<label>Cardiac Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
-This one specifically stabalizies the heart, meaning even destruction of said organ shouldn't destroy them!</description>
+This one specifically stabalizies the heart, meaning that, so long as just a fragment of the heart remains, it works! if they loose it completley though...</description>
+		<exclusionTags>
+			<li>BloodPumping</li>
+		</exclusionTags>
 		<displayOrderInCategory>1.1</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -189,6 +220,9 @@ This one specifically stabalizies the heart, meaning even destruction of said or
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizes digestion, making it harder to digest food, but where almost no injury will impeede it!</description>
+		<exclusionTags>
+			<li>Metabolism</li>
+		</exclusionTags>
 		<displayOrderInCategory>1.11</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -204,17 +238,25 @@ This one specifically stabalizes digestion, making it harder to digest food, but
 	
 	
 	
-	<GeneDef ParentName="TdT_BioStabilize1">		<!--All -->
+	<GeneDef ParentName="TdT_BioStabilize1">		<!--All -->			<!-- Missing exclusion tags -->
 		<defName>BioStable_All_30</defName>
 		<label>Complete Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one stabalizes everything, utilizing archites. As you can imagine, such pawns are highly weakened, but can take a lot of injury before any ill effects!</description>
 		<displayOrderInCategory>1.5</displayOrderInCategory>
-		<archite>10</archite>
+		<iconPath>GeneIcons/BioStable_Arc</iconPath>
+		<exclusionTags>
+			<li>all</li>
+			<!-- anything causing blindness, mute, deaf, ect -->
+		</exclusionTags>
+		<biostatArc>5</biostatArc>
 		<biostatCpx>50</biostatCpx>
-		<biostatMet>-22</biostatMet>
-		<painFactor>3</painFactor>
+		<biostatMet>-10</biostatMet>
+		<painFactor>1.5</painFactor>
+		<statFactors>
+			<RestRateMultiplier>0.5</RestRateMultiplier>
+		</statFactors>
 		<capMods>
 			<li>
 				<capacity>Consciousness</capacity>
