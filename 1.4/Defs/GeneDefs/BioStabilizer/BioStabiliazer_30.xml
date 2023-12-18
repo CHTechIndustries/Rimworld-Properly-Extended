@@ -3,7 +3,9 @@
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Consciousness_30</defName>
 		<label>Cognitive Stability: 30%</label>
-		
+		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain. \n
+This one specifically prevents conscisness from passing 30%, but makes it take a whole lot more to even begin to drop it.
+		</description>
 		<displayOrderInCategory>1.01</displayOrderInCategory>
 		<capMods>
 			<li>
