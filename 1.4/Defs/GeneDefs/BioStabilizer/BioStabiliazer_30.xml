@@ -3,8 +3,8 @@
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Consciousness_30</defName>
 		<label>Cognitive Stability: 30%</label>
-		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain. \n
-This one specifically prevents conscisness from passing 30%, but makes it take a whole lot more to even begin to drop it.
+		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.		
+This one specifically prevents conscisness from passing 30%, but makes it take a whole lot more to even begin to drop it. This allows them to survive almost complete brain destruction
 		</description>
 		<displayOrderInCategory>1.01</displayOrderInCategory>
 		<capMods>
@@ -17,11 +17,16 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Moving_30</defName>
 		<label>Movement Stability: 30%</label>
-		
+		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.		
+		This one specifically stabalizes movment, keeping it at a maximum of 30%, but allowing even the legless some mobility.
+		</description>
 		<displayOrderInCategory>1.02</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -33,11 +38,16 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Manipulation_30</defName>
 		<label>Manipulation Stability: 30%</label>
+		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
+This one specifically stabalizies manipulation, preventing it from passing 30%, but makeing it so even major injurys (such as loosing both arms) doesn't completly stop their manipulation capabilities!
 		<displayOrderInCategory>1.03</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -65,6 +75,9 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Eating_30</defName>
@@ -81,6 +94,9 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Sight_30</defName>
@@ -97,6 +113,9 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Hearing_30</defName>
@@ -113,6 +132,9 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Breathing_30</defName>
@@ -129,6 +151,9 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_BloodFiltration_30</defName>
@@ -145,6 +170,9 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_BloodPumping_30</defName>
@@ -161,11 +189,14 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<setMax>0.3</setMax>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Metabolism_30</defName>
 		<label>Digestive Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n/ The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		<description></description>
 		<displayOrderInCategory>1.07</displayOrderInCategory>
 		<capMods>
 			<li>
@@ -177,5 +208,8 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 				<offset>1</offset>
 			</li>
 		</capMods>
+		<statFactors>
+			
+		</statFactors>
 	</GeneDef>
 </Defs>

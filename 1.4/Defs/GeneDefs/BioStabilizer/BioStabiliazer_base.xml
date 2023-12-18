@@ -8,24 +8,15 @@
 			<li>BioStable</li>
 		</exclusionTags>
 		<iconPath>GeneIcons/BioStable</iconPath>
-		<capMods>
-			<li>
-				<capacity>Consciousness</capacity>
-				<offset>1</offset>
-			</li>
-		</capMods>
-		<statFactors>
-			<RestRateMultiplier>0.7</RestRateMultiplier>
-		</statFactors>
-		<painOffset>5</painOffset>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_base" >
-		<displayOrderInCategory>0</displayOrderInCategory>
-		<biostatCpx>10</biostatCpx>
-		<biostatMet>-5</biostatMet>
-		<defName>BioStable_test</defName>
+	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize_arc_base" Abstract="True">
+		<archite>10</archite>
+		<label>Bio-Stabale</label>
+		<exclusionTags>
+			<li>BioStable</li>
+		</exclusionTags>
+		<iconPath>GeneIcons/BioStable</iconPath>
 	</GeneDef>	
-
 
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize1" Abstract="True">
 		<displayOrderInCategory>1</displayOrderInCategory>
@@ -42,19 +33,19 @@
 		<biostatCpx>15</biostatCpx>
 		<biostatMet>-10</biostatMet>
 		<marketValueFactor>2</marketValueFactor>
-			<statFactors>
-				<RestRateMultiplier>0.8</RestRateMultiplier>
-			</statFactors>
-			<painOffset>0.20</painOffset>
+		<statFactors>
+			<RestRateMultiplier>0.8</RestRateMultiplier>
+		</statFactors>
+		<painOffset>0.20</painOffset>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize3" Abstract="True">
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
 		<biostatMet>-15</biostatMet>
 		<marketValueFactor>3</marketValueFactor>
-			<statFactors>
-				<RestRateMultiplier>0.9</RestRateMultiplier>
-			</statFactors>
-			<painOffset>0.10</painOffset>
+		<statFactors>
+			<RestRateMultiplier>0.9</RestRateMultiplier>
+		</statFactors>
+		<painOffset>0.10</painOffset>
 	</GeneDef>
 </Defs>
