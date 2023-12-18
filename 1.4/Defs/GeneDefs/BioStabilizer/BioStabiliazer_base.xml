@@ -8,29 +8,18 @@ This one specifically stabalizies...</description>
 		<label>Bio-Stabale</label>
 		<exclusionTags>
 			<li>BioStable</li>
+			<li>Pain</li>
+			<li>EBSG_Wimp</li>
 		</exclusionTags>
 		<iconPath>GeneIcons/BioStable</iconPath>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize_arc_base" Abstract="True">		<!--Archite Base -->
 		<archite>10</archite>
 		<label>Bio-Stabale (Archite)</label>
-		<exclusionTags>
-			<li>BioStable_Arc</li>
-		</exclusionTags>
 		<iconPath>GeneIcons/BioStable_Arc</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize_main_base" Abstract="True">		<!--Non-Archite Base-->
-		<exclusionTags>
-			<li>Pain</li>
-			<li>EBSG_Wimp</li>
-		</exclusionTags>
-		<statFactors>
-			<RestRateMultiplier>0.7</RestRateMultiplier>
-		</statFactors>
-		<painOffset>0.30</painOffset>
-	</GeneDef>		
 
-	<GeneDef ParentName="TdT_BioStabilize_main_base" Name="TdT_BioStabilize1" Abstract="True">			<!-- 30% -->
+	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize1" Abstract="True">			<!-- 30% -->
 		<displayOrderInCategory>1</displayOrderInCategory>
 		<biostatCpx>10</biostatCpx>
 		<biostatMet>-5</biostatMet>
@@ -40,7 +29,7 @@ This one specifically stabalizies...</description>
 		</statFactors>
 		<painOffset>0.30</painOffset>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_main_base" Name="TdT_BioStabilize2" Abstract="True">			<!-- 60%-->
+	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize2" Abstract="True">			<!-- 60%-->
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
 		<biostatMet>-10</biostatMet>
@@ -50,7 +39,7 @@ This one specifically stabalizies...</description>
 		</statFactors>
 		<painOffset>0.20</painOffset>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_main_base" Name="TdT_BioStabilize3" Abstract="True">			<!-- 90%-->
+	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize3" Abstract="True">			<!-- 90%-->
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
 		<biostatMet>-15</biostatMet>
