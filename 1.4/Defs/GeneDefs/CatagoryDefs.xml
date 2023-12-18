@@ -3,6 +3,6 @@
     <GeneCategoryDef>
         <defName>TdT_BioStabilizers</defName>
         <label>Bio-Stabilizer</label>
-        <displayPriorityInXenotype>499.99</displayPriorityInXenotype>
+        <displayPriorityInXenotype>499.999</displayPriorityInXenotype>
     </GeneCategoryDef>
 </Defs>
