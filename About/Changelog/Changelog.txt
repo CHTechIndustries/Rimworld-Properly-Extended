@@ -16,3 +16,4 @@ added incompatibilities
 
 V 1.1.0
 Improved about files
+added a note about placeholder icons (I put it on the steam description well before this update, so it's more like "V 1.0.2-b"
