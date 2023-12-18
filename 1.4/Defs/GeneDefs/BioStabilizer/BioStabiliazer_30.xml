@@ -3,49 +3,48 @@
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Consciousness_30</defName>
 		<label>Cognitive Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.01</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Consciousness</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>Consciousness</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Moving_30</defName>
 		<label>Movement Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n
-		The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.02</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Moving</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>Moving</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Manipulation_30</defName>
 		<label>Manipulation Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n/ The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.03</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Manipulation</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>Manipulation</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
@@ -57,107 +56,107 @@
 		<capMods>
 			<li>
 				<capacity>Talking</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>Talking</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Eating_30</defName>
 		<label>Eating Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n/ The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.05</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Eating</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>Eating</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Sight_30</defName>
 		<label>Visual Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n/ The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.6</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Sight</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>Sight</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Hearing_30</defName>
 		<label>Auditory Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n/ The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.7</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Hearing</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>Hearing</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_Breathing_30</defName>
 		<label>Respiratory Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n/ The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.8</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Breathing</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>Breathing</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_BloodFiltration_30</defName>
 		<label>Blood Filtration Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n/ The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.9</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>BloodFiltration</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>BloodFiltration</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">
 		<defName>BioStable_BloodPumping_30</defName>
 		<label>Cardiac Stability: 30%</label>
-		<description>The Bio-Stable Genes where designed to make a specific stat higher, at the cost of preventing it from going past a specific amount. /n/ The 30% adds 100% to any stat, conteracting many issues. However, it also prevents said stat from passing 30% \n\ . This one stabilizes conscisness, allowing them to survive major brain injuries</description>
+		
 		<displayOrderInCategory>1.06</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>BloodPumping</capacity>
-				<setMax>0.3</setMax>
+				<offset>1</offset>
 			</li>
 			<li>
 				<capacity>BloodPumping</capacity>
-				<offset>1</offset>
+				<setMax>0.3</setMax>
 			</li>
 		</capMods>
 	</GeneDef>

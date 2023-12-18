@@ -2,6 +2,7 @@
 <Defs>
 	<GeneDef Name="TdT_BioStabilize_base" Abstract="True">
 		<displayCategory>TdT_BioStabilizers</displayCategory>
+		<description>Bio-Stable Genes</description>
 		<exclusionTags>
 			<li>BioStable</li>
 		</exclusionTags>
