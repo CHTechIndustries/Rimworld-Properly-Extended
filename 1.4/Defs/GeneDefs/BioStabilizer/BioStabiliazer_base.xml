@@ -12,10 +12,14 @@ This one specifically stabalizies...</description>
 			<li>EBSG_Wimp</li>
 		</exclusionTags>
 		<iconPath>GeneIcons/BioStable</iconPath>
+		<statFactors>
+			<RestFallRateFactor>1.25</RestFallRateFactor>
+		</statFactors>
 	</GeneDef>
 
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize1" Abstract="True">			<!-- 30% -->
 		<displayOrderInCategory>1</displayOrderInCategory>
+		<labelShortAdj>Biostable 30%</labelShortAdj>
 		<biostatCpx>10</biostatCpx>
 		<biostatMet>-3</biostatMet>
 		<marketValueFactor>1.6</marketValueFactor>
@@ -23,8 +27,10 @@ This one specifically stabalizies...</description>
 			<RestRateMultiplier>0.7</RestRateMultiplier>
 		</statFactors>
 		<painOffset>0.30</painOffset>
+		<painFactor>1.3</painFactor>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize2" Abstract="True">			<!-- 60%-->
+		<labelShortAdj>Biostable 60%</labelShortAdj>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
 		<biostatMet>-6</biostatMet>
@@ -33,8 +39,10 @@ This one specifically stabalizies...</description>
 			<RestRateMultiplier>0.8</RestRateMultiplier>
 		</statFactors>
 		<painOffset>0.20</painOffset>
+		<painFactor>1.2</painFactor>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize3" Abstract="True">			<!-- 90%-->
+		<labelShortAdj>Biostable 90%</labelShortAdj>
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
 		<biostatMet>-9</biostatMet>
@@ -43,16 +51,9 @@ This one specifically stabalizies...</description>
 			<RestRateMultiplier>0.9</RestRateMultiplier>
 		</statFactors>
 		<painOffset>0.10</painOffset>
+		<painFactor>1.1</painFactor>
 	</GeneDef>
 
-	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize100" Abstract="True">			<!-- 100%-->
-		<displayOrderInCategory>3</displayOrderInCategory>
-		<biostatCpx>30</biostatCpx>
-		<biostatMet>-20</biostatMet>
-		<marketValueFactor>2.5</marketValueFactor>
-		<statFactors>
-			<RestRateMultiplier>0.95</RestRateMultiplier>
-		</statFactors>
-	</GeneDef>
+<!-- 100% will be modular (not mutually exclusive)-->
 </Defs>
 
