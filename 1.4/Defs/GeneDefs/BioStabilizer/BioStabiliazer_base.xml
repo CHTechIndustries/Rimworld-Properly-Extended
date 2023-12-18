@@ -13,16 +13,11 @@ This one specifically stabalizies...</description>
 		</exclusionTags>
 		<iconPath>GeneIcons/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize_arc_base" Abstract="True">		<!--Archite Base -->
-		<archite>10</archite>
-		<label>Bio-Stabale (Archite)</label>
-		<iconPath>GeneIcons/BioStable_Arc</iconPath>
-	</GeneDef>
 
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize1" Abstract="True">			<!-- 30% -->
 		<displayOrderInCategory>1</displayOrderInCategory>
 		<biostatCpx>10</biostatCpx>
-		<biostatMet>-5</biostatMet>
+		<biostatMet>-3</biostatMet>
 		<marketValueFactor>1.6</marketValueFactor>
 		<statFactors>
 			<RestRateMultiplier>0.7</RestRateMultiplier>
@@ -32,7 +27,7 @@ This one specifically stabalizies...</description>
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize2" Abstract="True">			<!-- 60%-->
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
-		<biostatMet>-10</biostatMet>
+		<biostatMet>-6</biostatMet>
 		<marketValueFactor>2</marketValueFactor>
 		<statFactors>
 			<RestRateMultiplier>0.8</RestRateMultiplier>
@@ -42,7 +37,7 @@ This one specifically stabalizies...</description>
 	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize3" Abstract="True">			<!-- 90%-->
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
-		<biostatMet>-15</biostatMet>
+		<biostatMet>-9</biostatMet>
 		<marketValueFactor>1.9</marketValueFactor>
 		<statFactors>
 			<RestRateMultiplier>0.9</RestRateMultiplier>
