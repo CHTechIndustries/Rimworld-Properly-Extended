@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-    <GeneDef Name="TdT_BioStabilize_base" Abstract="True">
-        <displayCategory>TdT_BioStabilizers</displayCategory>
-	<exclusionTags>
-            <li>BioStable</li>
-        </exclusionTags>
-	<iconPath>GeneIcons/BioStable</iconPath>
-    </GeneDef>
+	<GeneDef Name="TdT_BioStabilize_base" Abstract="True">
+		<displayCategory>TdT_BioStabilizers</displayCategory>
+		<exclusionTags>
+			<li>BioStable</li>
+		</exclusionTags>
+		<iconPath>GeneIcons/BioStable</iconPath>
+	</GeneDef>
 
-    <GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize1" Abstract="True">
-	<displayOrderInCategory>1</displayOrderInCategory>
-        <biostatCpx>4</biostatCpx>
-        <biostatMet>-3</biostatMet>
-        <marketValueFactor>1.25</marketValueFactor>
-    </GeneDef>
-    <GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize2" Abstract="True">
-	<displayOrderInCategory>2</displayOrderInCategory>
-        <biostatCpx>4</biostatCpx>
-        <biostatMet>-5</biostatMet>
-        <marketValueFactor>1.5</marketValueFactor>
-    </GeneDef>
-    <GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize3" Abstract="True">
-	<displayOrderInCategory>3</displayOrderInCategory>
-        <biostatCpx>4</biostatCpx>
-        <biostatMet>-7</biostatMet>
-        <marketValueFactor>2</marketValueFactor>
-    </GeneDef>
+	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize1" Abstract="True">
+		<displayOrderInCategory>1</displayOrderInCategory>
+			<biostatCpx>10</biostatCpx>
+			<biostatMet>-5</biostatMet>
+			<marketValueFactor>1.5</marketValueFactor>
+			<statFactors>
+				<RestRateMultiplier>0.7</RestRateMultiplier>
+			</statFactors>
+			<painOffset>0.20</painOffset>
+		</GeneDef>
+	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize2" Abstract="True">
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<biostatCpx>15</biostatCpx>
+		<biostatMet>-10</biostatMet>
+		<marketValueFactor>2</marketValueFactor>
+			<statFactors>
+				<RestRateMultiplier>0.8</RestRateMultiplier>
+			</statFactors>
+			<painOffset>0.20</painOffset>
+	</GeneDef>
+	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize3" Abstract="True">
+		<displayOrderInCategory>3</displayOrderInCategory>
+		<biostatCpx>20</biostatCpx>
+		<biostatMet>-15</biostatMet>
+		<marketValueFactor>3</marketValueFactor>
+			<statFactors>
+				<RestRateMultiplier>0.9</RestRateMultiplier>
+			</statFactors>
+			<painOffset>0.10</painOffset>
+	</GeneDef>
 </Defs>
