@@ -6,14 +6,17 @@
 		
 This one specifically stabalizies...</description>
 		<label>Bio-Stabale</label>
+		<!-- if possible, find a way to have a custom description like shown: <customEffectDescriptions>
+			<li>This keeps stats bellow a certain point, but adds a large amount. So long as you have a fragment of the original limb, this will boost it to the target number! But, if you loose all, then there's a multiplication by 0, and you are out of luck!</li>
+		</customEffectDescriptions> -->
 		<exclusionTags>
 			<li>BioStable</li>
 			<li>Pain</li>
-			<li>EBSG_Wimp</li>
+			<li>EBSG_PainTraits</li>
 		</exclusionTags>
 		<iconPath>GeneIcons/BioStable</iconPath>
 		<statFactors>
-			<RestFallRateFactor>1.25</RestFallRateFactor>
+			<LifespanFactor>0.9</LifespanFactor>
 		</statFactors>
 	</GeneDef>
 
