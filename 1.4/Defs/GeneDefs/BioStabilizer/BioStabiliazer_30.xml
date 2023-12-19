@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<GeneDef ParentName="TdT_BioStabilize1">		<!--Conscisness-->
-		<defName>BioStable_Consciousness_30</defName>
+		<defName>TdT_BioStable_Consciousness_30</defName>
 		<label>Cognitive Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.	
 	
 This one specifically prevents conscisness from passing 30%, but makes it take a whole lot more to even begin to drop it. This allows them to survive almost complete brain destruction</description>
 		<exclusionTags>
-			<li>Consciousness</li>
+			<li>Stable_Consciousness</li>
 		</exclusionTags>
 		<displayOrderInCategory>1.01</displayOrderInCategory>
 		<capMods>
@@ -22,13 +22,13 @@ This one specifically prevents conscisness from passing 30%, but makes it take a
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Moveing -->
-		<defName>BioStable_Moving_30</defName>
+		<defName>TdT_BioStable_Moving_30</defName>
 		<label>Movement Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizes movment, keeping it at a maximum of 30%,  allowing even the almost-legless some mobility.</description>
 		<exclusionTags>
-			<li>Moving</li>
+			<li>Stable_Moving</li>
 		</exclusionTags>
 		<displayOrderInCategory>1.02</displayOrderInCategory>
 		<capMods>
@@ -43,13 +43,13 @@ This one specifically stabalizes movment, keeping it at a maximum of 30%,  allow
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">		<!--Manipulation -->
-		<defName>BioStable_Manipulation_30</defName>
+		<defName>TdT_BioStable_Manipulation_30</defName>
 		<label>Manipulation Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 
 This one specifically stabalizies manipulation, preventing it from passing 30%, but makeing it so even major injurys (such as loosing 1 arm, and almost all of the other) doesn't completly stop their manipulation capabilities! </description>
 		<exclusionTags>
-			<li>Manipulation</li>
+			<li>Stable_Manipulation</li>
 		</exclusionTags>
 		<displayOrderInCategory>1.03</displayOrderInCategory>
 		<capMods>
@@ -63,15 +63,17 @@ This one specifically stabalizies manipulation, preventing it from passing 30%, 
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Talking -->			<!-- Missing exclusion tags -->
-		<defName>BioStable_Talking_30</defName>
+	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Talking -->		<!-- Needs the tags of anything that manipulates talking -->
+		<defName>TdT_BioStable_Talking_30</defName>
 		<label>Communication Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies talking, by keeping it at 30%. Not very good for communication, but better than nothing</description>
 		<exclusionTags>
-			<li>Talking</li>
-			<!--Anything that prevents talking -->
+			<li>Stable_Talking</li>
+			<li>EBSG_Talking</li>
+			<!-- alpha genes has a mute gene somewhere, find it -->
+			<!--Anything that manipulates talking -->
 		</exclusionTags>
 		<displayOrderInCategory>1.04</displayOrderInCategory>
 		<capMods>
@@ -86,13 +88,13 @@ This one specifically stabalizies talking, by keeping it at 30%. Not very good f
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">		<!--Eating -->
-		<defName>BioStable_Eating_30</defName>
+		<defName>TdT_BioStable_Eating_30</defName>
 		<label>Eating Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies eating, which makes it harder to eat in general, but makes it almost impossible to make them incapable of eating!</description>
 		<exclusionTags>
-			<li>Eating</li>
+			<li>Stable_Eating</li>
 		</exclusionTags>
 		<displayOrderInCategory>1.05</displayOrderInCategory>
 		<capMods>
@@ -106,15 +108,18 @@ This one specifically stabalizies eating, which makes it harder to eat in genera
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Sight -->			<!-- Missing exclusion tags -->
+	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Sight -->		<!-- Needs the tags of anything that manipulates sight -->
 		<defName>BioStable_Sight_30</defName>
 		<label>Visual Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies sight, allowing them to see no matter the injury, at the cost of severely impaired sight</description>
 		<exclusionTags>
-			<li>Sight</li>
-			<!-- Anything that causes blindness -->
+			<li>Stable_Sight</li>
+			<li>EBSG_Sight</li>
+			<li>ShootingAccuracy</li>
+			<!-- find how to allow nearsighted, farsighted, ect, but not eyes. Block psycic sight? -->
+			<!-- Anything that manipulates sight -->
 		</exclusionTags>
 		<displayOrderInCategory>1.06</displayOrderInCategory>
 		<capMods>
@@ -128,15 +133,16 @@ This one specifically stabalizies sight, allowing them to see no matter the inju
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Hearing -->		<!-- Missing exclusion tags -->
-		<defName>BioStable_Hearing_30</defName>
+	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Hearing -->	<!-- Needs the tags of anything that manipulates hearing -->
+		<defName>TdT_BioStable_Hearing_30</defName>
 		<label>Auditory Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies hearing, allowing them to hear except in the most extreme of cases, but at the cost severely impaired hearing</description>
 		<exclusionTags>
-			<li>Hearing</li>
-			<!-- Anything that causes deafness -->
+			<li>Stable_Hearing</li>
+			<li>EBSG_Hearing</li>
+			<!-- Anything that manipulates hearing -->
 		</exclusionTags>
 		<displayOrderInCategory>1.07</displayOrderInCategory>
 		<capMods>
@@ -151,13 +157,13 @@ This one specifically stabalizies hearing, allowing them to hear except in the m
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">		<!--Breathing -->
-		<defName>BioStable_Breathing_30</defName>
+		<defName>TdT_BioStable_Breathing_30</defName>
 		<label>Respiratory Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically breathing, making it very hard to drop bellow 30%. While that low value is not useful, being able to withstand severe injuries with no change in breathing is quite good!</description>
 		<exclusionTags>
-			<li>Breathing</li>
+			<li>Stable_Breathing</li>
 		</exclusionTags>
 		<displayOrderInCategory>1.08</displayOrderInCategory>
 		<capMods>
@@ -172,13 +178,13 @@ This one specifically breathing, making it very hard to drop bellow 30%. While t
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">		<!-- Blood Filtration -->
-		<defName>BioStable_BloodFiltration_30</defName>
+		<defName>TdT_BioStable_BloodFiltration_30</defName>
 		<label>Blood Filtration Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically blood filtration. While being limited to 30% does make you more sensitive to diseases, the fact that severe injury won't have an effect on the filtration will assist if you have to, say, remove a kidney!</description>
 		<exclusionTags>
-			<li>BloodFiltration</li>
+			<li>Stable_BloodFiltration</li>
 		</exclusionTags>
 		<displayOrderInCategory>1.09</displayOrderInCategory>
 		<capMods>
@@ -193,13 +199,13 @@ This one specifically blood filtration. While being limited to 30% does make you
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">		<!--Blood Pumping-->
-		<defName>BioStable_BloodPumping_30</defName>
+		<defName>TdT_BioStable_BloodPumping_30</defName>
 		<label>Cardiac Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies the heart, meaning that, so long as just a fragment of the heart remains, it works! if they loose it completley though...</description>
 		<exclusionTags>
-			<li>BloodPumping</li>
+			<li>Stable_BloodPumping</li>
 		</exclusionTags>
 		<displayOrderInCategory>1.1</displayOrderInCategory>
 		<capMods>
@@ -215,13 +221,13 @@ This one specifically stabalizies the heart, meaning that, so long as just a fra
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize1">		<!--Metabolism -->
 	
-		<defName>BioStable_Metabolism_30</defName>
+		<defName>TdT_BioStable_Metabolism_30</defName>
 		<label>Digestive Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizes digestion, making it harder to digest food, but where almost no injury will impeede it!</description>
 		<exclusionTags>
-			<li>Metabolism</li>
+			<li>Stable_Metabolism</li>
 		</exclusionTags>
 		<displayOrderInCategory>1.11</displayOrderInCategory>
 		<capMods>
@@ -238,8 +244,8 @@ This one specifically stabalizes digestion, making it harder to digest food, but
 	
 	
 	
-	<GeneDef ParentName="TdT_BioStabilize1">		<!--All -->			<!-- Missing exclusion tags -->
-		<defName>BioStable_All_30</defName>
+	<GeneDef ParentName="TdT_BioStabilize1">		<!--All -->			<!-- all other exclusion tags -->
+		<defName>TdT_BioStable_All_30</defName>
 		<label>Complete Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -247,16 +253,16 @@ This one stabalizes everything, utilizing archites. As you can imagine, such paw
 		<displayOrderInCategory>1.5</displayOrderInCategory>
 		<iconPath>GeneIcons/BioStable_Arc</iconPath>
 		<exclusionTags>
-			<li>all</li>
+			<li>Stable_all</li>
+			<li>Stable_Hearing</li>
+			<li>EBSG_Hearing</li>
+			<li>EBSG_Sight</li>
+			<li>EBSG_Talking</li>
 			<!-- anything causing blindness, mute, deaf, ect -->
 		</exclusionTags>
 		<biostatArc>5</biostatArc>
 		<biostatCpx>50</biostatCpx>
 		<biostatMet>-10</biostatMet>
-		<painFactor>1.5</painFactor>
-		<statFactors>
-			<RestRateMultiplier>0.5</RestRateMultiplier>
-		</statFactors>
 		<capMods>
 			<li>
 				<capacity>Consciousness</capacity>
