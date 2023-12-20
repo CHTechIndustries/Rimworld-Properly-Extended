@@ -240,9 +240,8 @@ This one specifically stabalizes digestion, making it harder to digest food, but
 		<label>Complete Stability: 30%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
-This one stabalizes everything, utilizing archites. As you can imagine, such pawns are highly weakened, but can take a lot of injury before any ill effects!</description>
+This one stabalizes everything, utilizing archites. As you can imagine, such pawns are highly weakened, but can take a lot of injury before any ill(er) effects!</description>
 		<displayOrderInCategory>1.5</displayOrderInCategory>
-		<iconPath>GeneIcons/BioStable_Arc</iconPath>
 		<exclusionTags>
 			<li>Stable_all</li>
 		</exclusionTags>
