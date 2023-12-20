@@ -15,7 +15,7 @@
 			<!-- Anything that manipulates sight -->
 		</exclusionTags>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabalize_base_sight" > <!--Version to make a copy of base with exclusions to deafness-->
+	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabalize_base_hearing" > <!--Version to make a copy of base with exclusions to deafness-->
 		<exclusionTags>
 			<li>EBSG_Hearing</li>
 			<!-- Anything that manipulates hearing -->
