@@ -148,15 +148,15 @@ This one specifically stabalizies hearing, allowing them to maintain hearing eve
 		</capMods>
 	</GeneDef>
 	<GeneDef ParentName="TdT_BioStabilize_3">		<!--Breathing -->
-		<defName>TdT_BioStable_Breathing_60</defName>
-		<label>Respiratory Stability: 60%</label>
+		<defName>TdT_BioStable_Breathing_90</defName>
+		<label>Respiratory Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically breathing, making it very hard to drop bellow 90%. While that isn't as good as 100%, it's bareley noticible. Not to mention, highly injury resistant!</description>
 		<exclusionTags>
 			<li>Stable_Breathing</li>
 		</exclusionTags>
-		<displayOrderInCategory>2.08</displayOrderInCategory>
+		<displayOrderInCategory>3.08</displayOrderInCategory>
 		<capMods>
 			<li>
 				<capacity>Breathing</capacity>
@@ -210,7 +210,7 @@ This one specifically stabalizies the heart, meaning that, so long as just a fra
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_2">		<!--Metabolism -->
+	<GeneDef ParentName="TdT_BioStabilize_3">		<!--Metabolism -->
 		<defName>TdT_BioStable_Metabolism_90</defName>
 		<label>Digestive Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
@@ -234,7 +234,7 @@ This one specifically stabalizes digestion, making it harder to digest food, but
 	
 	
 	
-	<GeneDef ParentName="TdT_BioStabilize_archite_2">		<!--All -->			<!-- all other exclusion tags -->
+	<GeneDef ParentName="TdT_BioStabilize_archite_3">		<!--All -->			<!-- all other exclusion tags -->
 		<defName>TdT_BioStable_All_90</defName>
 		<label>Complete Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
@@ -250,85 +250,85 @@ This one stabalizes everything, utilizing archites. As you can imagine, such paw
 		<capMods>
 			<li>
 				<capacity>Consciousness</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 			<li>
 				<capacity>Moving</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 			<li>
 				<capacity>Manipulation</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 			<li>
 				<capacity>Eating</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 			<li>
 				<capacity>Sight</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 			<li>
 				<capacity>Hearing</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 			<li>
 				<capacity>Breathing</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 			<li>
 				<capacity>BloodFiltration</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 			<li>
 				<capacity>BloodPumping</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>	
 			<li>
 				<capacity>Metabolism</capacity>
-				<setMax>0.6</setMax>
+				<setMax>0.9</setMax>
 			</li>
 
 			<li>
 				<capacity>Consciousness</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>	
 			<li>
 				<capacity>Moving</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 			<li>
 				<capacity>Manipulation</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 			<li>
 				<capacity>Eating</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 			<li>
 				<capacity>Sight</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 
 			<li>
 				<capacity>Hearing</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 			<li>
 				<capacity>Breathing</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 			<li>
 				<capacity>BloodFiltration</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 			<li>
 				<capacity>BloodPumping</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 			<li>
 				<capacity>Metabolism</capacity>
-				<offset>1.5</offset>
+				<offset>2.25</offset>
 			</li>
 		</capMods>
 	</GeneDef>
