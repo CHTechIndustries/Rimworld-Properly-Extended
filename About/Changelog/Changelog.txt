@@ -26,3 +26,7 @@ V 1.1.1
 Started work on Wiki
 Mentioned Wiki on About File
 Made sure link worked
+Add "feature summary" discussion to steam
+Add link to said summary in steam
+Completely re-designed discussion
+Made a document to store ideas for improvments to the steam discussions
