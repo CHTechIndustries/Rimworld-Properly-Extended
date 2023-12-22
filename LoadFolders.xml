@@ -3,6 +3,6 @@
 	<v1.4>
 		<li>/</li>
 		<li>1.4</li>
-		<li IfModActive="aelanna.endling">1.4/Mods/Endling</li>
+		<li IfModActive="Aelanna.Endling">1.4/Mods/Endling</li>
 	</v1.4>
 </loadFolders>
