@@ -21,3 +21,5 @@ Added my first custom gene-set ("Bio-Stability")
 Added some more to steam description
 Updated FAQ
 Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)
+
+V 1.1.1
