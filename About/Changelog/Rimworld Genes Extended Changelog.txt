@@ -32,3 +32,7 @@ Add "feature summary" discussion to steam
 Add link to said summary in steam
 Completely re-designed discussion
 Made a document to store ideas for improvments to the steam discussions
+
+Decreased size of some icons that where the wrong size
+Put all those into "Base Icons"
+Moved "Endling" into it's own "base icon" folder. Not sure if it's a benificial change, might be changed one day
