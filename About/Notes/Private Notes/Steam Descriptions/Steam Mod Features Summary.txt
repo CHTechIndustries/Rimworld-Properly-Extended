@@ -16,3 +16,10 @@ So, the genes come in (currently 2) groups:
 [olist]
 [*]Endling: it gives the endling trait from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3011354315]Endling: Last of their Kind[/url]
 [/olist]
+
+[hr][/hr]
+[h1]Final Notes[/h1]Miscellaneous final notes
+
+[olist]
+[*]if this list gets too long, I will change this to a discussion soely for questions, and make a new page for  the summary. If anyone thinks this is too long (at any point) just say!
+[/olist]
