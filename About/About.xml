@@ -12,7 +12,7 @@
 
 Do note, however, that this mod contains primarily basic interactions. More advanced things, like genes for Save our Ship integration, along with more mechanics for Vanilla Races Expanded: Android, will be seperate mods as there will be many more modules to that.
 
-NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS</description>
+NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any ideas for better ones, please say!</description>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
@@ -29,17 +29,12 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS</description>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</steamWorkshopUrl>
 			<downloadUrl>https://github.com/Dynamic-Trio/TheDynamicTrio-Rimworld-Core</downloadUrl>
 		</li>
-		<li>
-			<packageId>superherogenesbase.mod</packageId>
-			<displayName>Superhero Genes - Base</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2980061828</steamWorkshopUrl>
-		</li>
 
 		<li>
 			<packageId>EBSG.Framework</packageId>
 			<displayName>Expanded Biotech Style Genes Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3112549163</steamWorkshopUrl>
-      <downloadUrl>https://github.com/KonradHeinser/EBSGFramework</downloadUrl>
+		<downloadUrl>https://github.com/KonradHeinser/EBSGFramework</downloadUrl>
 		</li>
 		<li>
 			<packageId>redmattis.betterprerequisites</packageId>
