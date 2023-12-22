@@ -1,15 +1,16 @@
-Rimworld Genes Extended is a mod that enhances Expanded Biotech Style Genes, extents on other mods genes, and makes new genes.
+Rimworld genes expanded does, get this, add new genes!
 
-Do note, however, that this mod mostly adds single-mod affecting/ simpler multi-mod genes. More advanced genes [i]and[/i] new mechanics will be in addons. In other words, this mod series (still working on finalizing a name for it. Once that happens, the title might change) has a few "teirs"
+Now, this mod adds both genes of my own design, and genes that require other mods and work with them. The whole mod is designed to (try) to fit in easily, as well as be both simple, [i]and[/i] complex. Because of that, the features are already too much too write. So, I put a (summary) of the features in [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4034726898984604842/]This discussion[/url]. If you have any questions, don't hesitate to ask. While anywhere works, that summary discussion is also designed as the questions discussion, so I will be checking it more. (still will look at the comments though)
+If you want a more in-depth explanation/ description, check out the (highly Work in Progress) [url=https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki]Rimworld Genes Extended[/url] wiki. The wiki also contains a much better [url=https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki/Changelog]Changelog[/url].
 
+Now, for the the general, long-term plan for this mod seris is to have it multi-part, going like this:
 [olist]
-[*]Rimworld Genes Extended: adds in some new genes of my own invention, as well as genes integrated with other mods.
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Genes Extended[/url] (this mod): adds in some new genes of my own invention, as well as genes integrated with other mods.
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url]: New xenotypes based on this mods genes, and a few others
 [*]Rimworld Genes Integrated
 	This mod will make new genes requiring multiple mods. For instance, integration between 2 specific mods, as optional dependencies won't allow them. Examples include:[olist]
 [*]All Vanilla Expanded Races
 [*]All Big and Small Races
-[*]Those 2 mentioned mods
 [/olist]
 [*]Xenotypes Integrated: uses all of the Rimworld Genes Integrated to produce new inter-connected xenos
 [*]Biotech Expanded: mods that add new mechanics. Examples include [list]
@@ -26,10 +27,9 @@ Currently, some of the features that are in the works include: [olist]
 [*]genes for the mod "Godly Trait Genes".
 [*]simple genes for Super Hero Genes. That quite possibly will also be my first "Rimworld Genes Integrated" module
 [/olist]
-[url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4032474633912009568/]FAQ (Fun read. Enjoy!)[/url]
+And, here's the [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4032474633912009568/]FAQ[/url] (don't worry. I made it [i]quite[/i] enjoyable to read, imo.
 
-
-For a mod that adds in xenos based off [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Genes Extended[/url] (and it's dependencies), look at [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], , the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others!
+Also, if you want more xenos based off of this mod, look no further than [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others!
 
 [b]NOTE: THE ICONS IN THIS MOD ARE [i]PLACEHOLDERS[/i], UNTILL I CAN FIGURE OUT HOW TO MAKE "GOOD" ICONS, AND HAVE TIME TO DO THAT[/b]
-P.S. the most recent update has caused some red errors. They appear to be harmless. I think...
+P.S. one of the more recent recent updates has caused some red errors. They appear to be harmless. I think...
