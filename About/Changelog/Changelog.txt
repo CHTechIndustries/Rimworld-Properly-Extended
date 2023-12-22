@@ -23,3 +23,10 @@ Updated FAQ
 Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)
 
 V 1.1.1
+Started work on Wiki
+Mentioned Wiki on About File
+Made sure link worked
+Add "feature summary" discussion to steam
+Add link to said summary in steam
+Completely re-designed discussion
+Made a document to store ideas for improvments to the steam discussions
