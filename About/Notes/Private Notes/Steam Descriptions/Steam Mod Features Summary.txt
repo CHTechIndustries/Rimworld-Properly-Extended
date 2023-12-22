@@ -20,6 +20,6 @@ So, the genes come in (currently 2) groups:
 [hr][/hr]
 [h1]Final Notes[/h1]Miscellaneous final notes
 
-[olist]
+[list]
 [*]if this list gets too long, I will change this to a discussion soely for questions, and make a new page for  the summary. If anyone thinks this is too long (at any point) just say!
-[/olist]
+[/list]
