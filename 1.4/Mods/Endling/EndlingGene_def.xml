@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<GeneDef>
+    <defName>TdT_endlingGeneKindInstinct</defName>
+    <label>Endling</label>
+    <labelShortAdj>endling</labelShortAdj>
+    <description>By choice, by tragedy, or simply by the slow, agonizing passage of time, the carrier of this gene can't meet anyone they previously knew</description>
+    <iconPath>GeneIcons/Endling/endling</iconPath>
+    <displayCategory>Miscellaneous</displayCategory>
+    <displayOrderInCategory>100</displayOrderInCategory>
+    <forcedTraits>
+      <li>
+        <def>Aelanna_Endling</def>
+      </li>
+    </forcedTraits>
+    <biostatMet>3</biostatMet>
+	<biostatCpx>2</biostatCpx>
+  </GeneDef>
+</Defs>
