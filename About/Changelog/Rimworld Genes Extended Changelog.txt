@@ -32,3 +32,5 @@ Add "feature summary" discussion to steam
 Add link to said summary in steam
 Completely re-designed discussion
 Made a document to store ideas for improvments to the steam discussions
+
+Decreased size of some icons that where the wrong size
