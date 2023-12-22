@@ -71,6 +71,7 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<li>petre27.biotechcapacitorgenes</li>
 		<li>petre27.biotechcapacitorgenesextra</li>
 		<li>mlem.metaadjuster</li>
+		<li>aelanna.endling</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
