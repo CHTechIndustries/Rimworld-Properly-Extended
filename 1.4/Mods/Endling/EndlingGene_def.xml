@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-<GeneDef>
-    <defName>TdT_endlingGene</defName>
-    <label>Endling</label>
-    <labelShortAdj>endling</labelShortAdj>
-    <description>Wether by choice, tragedy, or simply by the slow, agonizing passage of time, the carrier of this gene can't meet anyone they previously knew</description>
-    <iconPath>GeneIcons/Endling/endling</iconPath>
-    <displayCategory>Miscellaneous</displayCategory>
-    <displayOrderInCategory>100</displayOrderInCategory>
-    <forcedTraits>
-      <li>
-        <def>Aelanna_Endling</def>
-      </li>
-    </forcedTraits>
-    <biostatMet>3</biostatMet>
-	<biostatCpx>2</biostatCpx>
-  </GeneDef>
+	<GeneDef>
+		<defName>TdT_endlingGene</defName>
+		<label>Endling: Last of Their Kind</label>
+		<labelShortAdj>Endling</labelShortAdj>
+		<description>Wether by choice, tragedy, or simply by the slow, agonizing passage of time, the carrier of this gene can't meet anyone they previously knew</description>
+		<iconPath>GeneIcons/Endling/endling</iconPath>
+		<forcedTraits>
+		<li>
+			<def>Aelanna_Endling</def>
+		</li>
+		</forcedTraits>
+		<biostatMet>3</biostatMet>
+		<biostatCpx>2</biostatCpx>
+	</GeneDef>
 </Defs>
