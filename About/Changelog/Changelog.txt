@@ -19,3 +19,5 @@ Improved about files
 added a note about placeholder icons (I put it on the steam description well before this update, so it's more like "V 1.0.2-b"
 Added my first custom gene-set ("Bio-Stability")
 Added some more to steam description
+Updated FAQ
+Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)
