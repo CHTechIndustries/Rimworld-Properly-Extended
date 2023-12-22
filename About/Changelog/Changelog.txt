@@ -23,6 +23,8 @@ Updated FAQ
 Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)
 
 V 1.1.1
+Added "Endling" gene for the Endling: Last of their kind mod
+
 Started work on Wiki
 Mentioned Wiki on About File
 Made sure link worked
