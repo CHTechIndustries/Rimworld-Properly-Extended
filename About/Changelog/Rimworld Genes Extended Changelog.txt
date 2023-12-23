@@ -36,3 +36,6 @@ Made a document to store ideas for improvments to the steam discussions
 Decreased size of some icons that where the wrong size
 Put all those into "Base Icons"
 Moved "Endling" into it's own "base icon" folder. Not sure if it's a benificial change, might be changed one day
+
+1.2.0
+Found out I forgot to update the version number. Well, changeing it is a new version, so... it's 1.2.0
