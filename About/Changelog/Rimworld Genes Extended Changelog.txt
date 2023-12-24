@@ -39,4 +39,5 @@ Moved "Endling" into it's own "base icon" folder. Not sure if it's a benificial 
 
 1.1.2
 Found out I forgot to update the version number. Well, changeing it is a new version, so... it's fixed in 1.1.2
-Added a ".branch log" folder so I can keep track of changes done in seperate beta branches, withoit messing wigh the changelog
+Added a ".branch log" folder so I can keep track of changes done in seperate beta branches, without messing with the changelog
+added in folders that will be needed in the future, to allow easier mergeing
