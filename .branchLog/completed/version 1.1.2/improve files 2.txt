@@ -1,3 +1,4 @@
 made .log area
 improved folder thing
 corrected version
+added correct version to about file
