@@ -1,0 +1,3 @@
+made .log area
+improved folder thing
+corrected version
