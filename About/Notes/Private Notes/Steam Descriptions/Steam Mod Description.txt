@@ -1,7 +1,8 @@
 Rimworld genes expanded does, get this, add new genes!
 
 Now, this mod adds both genes of my own design, and genes that require other mods and work with them. The whole mod is designed to (try) to fit in easily, as well as be both simple, [i]and[/i] complex. Because of that, the features are already too much too write. So, I put a (summary) of the features in [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4034726898984604842/]This discussion[/url]. If you have any questions, don't hesitate to ask. While anywhere works, that summary discussion is also designed as the questions discussion, so I will be checking it more. (still will look at the comments though)
-If you want a more in-depth explanation/ description, check out the (highly Work in Progress) [url=https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki]Rimworld Genes Extended[/url] wiki. The wiki also contains a much better [url=https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki/Changelog]Changelog[/url].
+If you want a more in-depth explanation/ description, check out the (highly Work in Progress) [url=https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki]Rimworld Genes Extended[/url] wiki. 
+As for a changelog, you can check out the steam changelog [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3114130835]Here[/url]. however, the wiki contains a [i]much[/i] better [url=https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki/Changelog]Changelog[/url].
 
 Now, for the the general, long-term plan for this mod seris is to have it multi-part, going like this:
 [olist]
