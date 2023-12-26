@@ -22,10 +22,6 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 			<packageId>ludeon.rimworld.royalty</packageId>
 			<displayName>Royalty</displayName>
 		</li>
-		<li>
-			<packageId>ludeon.rimworld.ideology</packageId>
-			<name>Ideology</name>
-		</li>
 
 		<li>
 			<packageId>tdt.core</packageId>
