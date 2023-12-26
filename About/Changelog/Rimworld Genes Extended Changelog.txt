@@ -44,4 +44,3 @@ added in folders that will be needed in the future, to allow easier mergeing
 made description also mention the steam changelog
 added in a debug category for me to easily access genes I'm working on. Hopefully that helps development some
 Fixed author to include the The Dynamic Trio
-added ideology as a requirment
