@@ -5,9 +5,4 @@
         <label>Impossible</label>
         <displayPriorityInXenotype>-10000</displayPriorityInXenotype>
     </GeneCategoryDef>
-	
-	<GeneDef>
-		<GeneDef Name="TdT_impossible_base" Abstract="True">
-		<displayCategory>TdT_Evil</displayCategory>
-	</GeneDef>
 </Defs>
