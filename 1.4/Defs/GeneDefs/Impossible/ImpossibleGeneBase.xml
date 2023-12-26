@@ -5,7 +5,7 @@
 		<displayCategory>TdT_Evil</displayCategory>
 	</GeneDef>
 	
-	<GeneDef ParentName="TdT_impossible_balse" name="TdT_impossible_temp" Abstract="True">
+	<GeneDef ParentName="TdT_impossible_base" Name="TdT_impossible_temp" Abstract="True">
 		<statOffsets>
             <ComfyTemperatureMax>-26</ComfyTemperatureMax>
             <ComfyTemperatureMin>-16</ComfyTemperatureMin>
