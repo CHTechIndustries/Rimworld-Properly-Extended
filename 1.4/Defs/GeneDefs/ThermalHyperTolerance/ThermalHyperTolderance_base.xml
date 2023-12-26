@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<GeneDef Name="TdT_ExtremeClimate" Abstract="True">			<!--Base -->
+		<displayCategory>TdT_Test</displayCategory>
+		<exclusionTags>
+			<!-- put tempature ones here -->
+		</exclusionTags>
+		<statOffsets>
+			<ComfyTemperatureMin>5</ComfyTemperatureMin>
+		</statOffsets>
+	</GeneDef>
+</Defs>
+
