@@ -42,3 +42,4 @@ Found out I forgot to update the version number. Well, changeing it is a new ver
 Added a ".branch log" folder so I can keep track of changes done in seperate beta branches, without messing with the changelog
 added in folders that will be needed in the future, to allow easier mergeing
 made description also mention the steam changelog
+added in a debug category for me to easily access genes I'm working on. Hopefully that helps development some
