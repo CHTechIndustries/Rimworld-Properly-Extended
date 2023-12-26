@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Rimworld Genes Extended</name>
-	<author>CTH2004</author>
+	<author>The Dynamic Trio, CTH2004</author>
 	<packageId>TdT.GenesExtended</packageId>
 	<url>https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki</url>
 	<modVersion>1.1.2</modVersion>
@@ -21,6 +21,10 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<li>
 			<packageId>ludeon.rimworld.royalty</packageId>
 			<displayName>Royalty</displayName>
+		</li>
+		<li>
+			<packageId>ludeon.rimworld.ideology</packageId>
+			<name>Ideology</name>
 		</li>
 
 		<li>
@@ -71,6 +75,7 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<li>petre27.biotechcapacitorgenes</li>
 		<li>petre27.biotechcapacitorgenesextra</li>
 		<li>mlem.metaadjuster</li>
+		<li>superherogenes.villains</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
