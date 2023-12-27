@@ -4,20 +4,16 @@
 		<defName>TdT_BleedingConstant</defName>
 		<label>Constang Bleeding</label>
 		<labelShortAdj>Constant Bleeding</labelShortAdj>
-		<description>
-			For an unknown reason, this pawn is constantly bleeding from their pores. While it does have the benifit of preventing more extreme bleeding, it is quite strange<GeneDef ParentName="TdT_BioStabilize_1">
-		</description>
+		<description>For an unknown reason, this pawn is constantly bleeding from their pores. While it does have the benifit of preventing more extreme bleeding, it is quite strange</description>
 		<modExtensions>
 			<li Class="EBSGFramework.EBSGExtension">
 				<hediffsToApply>
 					<li>
 						<hediff>BloodLoss</hediff>
 						<onlyIfNew>true</onlyIfNew>
-						<!--Default (false). If true, then it will increase the severity of an existing hediff when applicable, and if false it'll abort if the hediff is already there-->
 						<severity>0.45</severity>					
 					</li>
 				</hediffsToApply>
-				<!--Makes the gene go away as soon as it's done adding the hediffs-->
 			</li>
 		</modExtensions>
 		<capMods>
