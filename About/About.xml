@@ -47,22 +47,6 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
 		</li>
 
-		<li>
-			<packageId>morebiotechstylegenes.mod</packageId>
-			<displayName>More Biotech Style Genes - All in One</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870</steamWorkshopUrl>
-		</li>
-		<li>
-			<packageId>ebsg.aio</packageId>
-			<displayName>Expanded Biotech Style Genes - All in One</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3020821838</steamWorkshopUrl>
-		</li>
-		<li>
-			<packageId>ebsg.archite</packageId>
-			<displayName>Expanded Archite Genes</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3039936922</steamWorkshopUrl>
-		</li>
-
 	</modDependencies>
 	<loadAfter>
 		<li>TdT.devOrder</li>
@@ -72,6 +56,11 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<li>petre27.biotechcapacitorgenesextra</li>
 		<li>mlem.metaadjuster</li>
 		<li>superherogenes.villains</li>
+		
+		<!-- Highly Compatible mods, many many features -->
+		<li>morebiotechstylegenes.mod</li>
+		<li>ebsg.aio</li>
+		<li>ebsg.archite</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>

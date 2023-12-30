@@ -7,10 +7,8 @@ A: Simple. Many of the features are so interwoven between the too, that removing
 A: Well, that is because this mod utilizes features from those frameworks, and thus requires them!
 [*]Q: Alright, fair enough. But, why does it need Alpha Genes?
 A: Well, Alpha Genes also has lots of useful code, so it's almost a framework in and of itself!
-[*]Q: So, is that why Expanded Biotech Style Genes, Expanded Archite Genes, & More Biotech Genes is required?
-A:Well, not quite. They are great mods, and are i'm using them as a balencing basis.
-[*]Q: Okay, that answers all requirment questions. Why, though, is it incompatible with all the other "Expanded ..." and "Biotech Style ... "?
-A: Well, the all in 1 has all those features, and subscribing to both those is redundent. Also, it could cause minor issues, so just use the better one!
+[*]Q: Okay, that answers all requirment questions. Why, though, is it incompatible with all the independent "Expanded ..." and "Biotech Style ... " mods?
+A: Well, the all in 1 has all those features, and subscribing to both those is redundent. Also, it could cause minor issues, so just use the better one! NOt to mention, it has many cross compatibilities, and for a while was a requirment. So, for major cross-compat, using the All in One will make it easier, both for me [i]and[/i] you!
 [*]Q: Why is this mod called Rimworld Genes Extended, not Rimworld Biotech Extended
 A: That is because I have a plan for a mod called Rimworld Biotech Extended. It involes genetic synthesyze, cloning, growth vat improvments, and more!
 [*]Q: With all these mods, did you bite off more than you can chew?
