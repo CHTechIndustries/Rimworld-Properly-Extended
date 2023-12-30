@@ -11,7 +11,7 @@ So, the genes come in (currently 2) groups:
 
 
 [hr][/hr]
-[h1]Group 2: Addons[/h1] (these are genes that require other mods, and add new features to them)
+[h1]Group 2: Addons[/h1] (These are genes that requre other mods, and add new features to them. For a straight up list, look [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4034727620345270147/]Here[/url])
 
 [olist]
 [*]Endling: it gives the endling trait from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3011354315]Endling: Last of their Kind[/url]
