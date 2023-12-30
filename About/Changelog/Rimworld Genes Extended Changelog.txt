@@ -44,3 +44,6 @@ added in folders that will be needed in the future, to allow easier mergeing
 made description also mention the steam changelog
 added in a debug category for me to easily access genes I'm working on. Hopefully that helps development some
 Fixed author to include the The Dynamic Trio
+Removed the entire EBSG series as a requirment, as I'm not using those genes as much as I thought. THey are still going to be the most integrated of mods, so... definitly a 100% recommendation!
+Altered FAQ and Description to match requirment changes
+Added a discussion that is just a list of optional dependencies
