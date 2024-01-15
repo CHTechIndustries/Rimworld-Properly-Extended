@@ -47,3 +47,6 @@ Fixed author to include the The Dynamic Trio
 Removed the entire EBSG series as a requirment, as I'm not using those genes as much as I thought. THey are still going to be the most integrated of mods, so... definitly a 100% recommendation!
 Altered FAQ and Description to match requirment changes
 Added a discussion that is just a list of optional dependencies
+Modified the other mod to require the EBSG series
+Integrated with Visual Studio for easier coding and updates
+Made a note of Vanilla Expanded
