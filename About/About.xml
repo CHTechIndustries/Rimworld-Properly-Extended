@@ -52,6 +52,21 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 			<displayName>Alpha Genes</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>ebsg.archite</packageId>
+			<displayName>Expanded Archite Genes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3039936922</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>morebiotechstylegenes.mod</packageId>
+			<displayName>More Biotech Style Genes - All in One</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>ebsg.aio</packageId>
+			<displayName>Expanded Biotech Style Genes - All in One</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
+		</li>
 
 	</modDependencies>
 	<loadAfter>
