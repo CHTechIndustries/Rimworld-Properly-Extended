@@ -14,4 +14,8 @@
 		<!-- <li IfModActive="vanillaracesexpanded.lycanthrope">1.4/Mods/VanillaRacesExpanded_Lycan</li> -->
 		
 	</v1.4>
+	<v1.5>
+		<li>/</li>
+		<li>1.5</li>
+	</1.5>
 </loadFolders>
