@@ -6,7 +6,7 @@
 		<li IfModActive="aelanna.endling">1.4/Mods/Endling</li>
 		
 		<!-- Xenotypes that are 100% dependent on a single mod (such as an expansion to another mods xenos) -->
-		<li IfModActive="sarg.alphagenesvfei">1.4/Defs/XenotypeDefs/Mod_Dependent/AlphaGenes_Insectoid<li>
+		<li IfModActive="sarg.alphagenesvfei">1.4/Defs/XenotypeDefs/Mod_Dependent/AlphaGenes_Insectoid</li>
 
 		<!-- <li IfModActive="biotexpans.mammalia">1.4/Mods/BiotechExpansion_Mammalia</li> -->
 		<!-- <li IfModActive="biotexpans.mythic">1.4/Mods/BiotechExpansion_Mythic</li> -->
@@ -17,5 +17,5 @@
 	<v1.5>
 		<li>/</li>
 		<li>1.5</li>
-	</1.5>
+	</v1.5>
 </loadFolders>
