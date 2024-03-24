@@ -30,7 +30,7 @@ Currently, some of the features that are in the works include: [olist]
 [/olist]
 And, here's the [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4032474633912009568/]FAQ[/url] (don't worry. I made it [i]quite[/i] enjoyable to read, imo.
 
-Also, if you want more xenos based off of this mod, look no further than [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others!
+[strike]Also, if you want more xenos based off of this mod, look no further than [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others![/strike] Now Integrated!
 
 [b]NOTE: THE ICONS IN THIS MOD ARE [i]PLACEHOLDERS[/i], UNTILL I CAN FIGURE OUT HOW TO MAKE "GOOD" ICONS, AND HAVE TIME TO DO THAT[/b]
-P.S. one of the more recent recent updates has caused some red errors. They appear to be harmless. I think...
+P.S. one of the more recent recent updates has caused some red errors. They appear to be harmless. I think... 

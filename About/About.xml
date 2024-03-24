@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Rimworld Genes Extended</name>
-	<author>The Dynamic Trio, CTH2004</author>
-	<packageId>TdT.GenesExtended</packageId>
+	<name>Rimworld Genetics Extended</name>
+	<author>CTH2004</author>
+	<packageId>CtH.RimworldExtended</packageId>
 	<url>https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki</url>
 	<modVersion>1.2.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 	</supportedVersions>
-	<description>Rimworld Genes Extended is a mod that enhances Expanded Biotech Style Genes, extents on other mods genes, and makes new genes. For a general feature summary, there is a steam discussion for that. However, if you want more info, you should check the (Work in progress) Wiki
+	<description>Rimworld Genetics Extended is a mod that enhances Expanded Biotech Style Genes, extents on other mods genes, and makes new genes. For a general feature summary, there is a steam discussion for that. However, if you want more info, you should check the (Work in progress) Wiki
 
 Do note, however, that this mod contains primarily basic interactions. More advanced things, like genes for Save our Ship integration, along with more mechanics for Vanilla Races Expanded: Android, will be seperate mods as there will be many more modules to that.
 
@@ -50,6 +50,21 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<li>
 			<packageId>sarg.alphagenes</packageId>
 			<displayName>Alpha Genes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>ebsg.archite</packageId>
+			<displayName>Expanded Archite Genes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3039936922</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>morebiotechstylegenes.mod</packageId>
+			<displayName>More Biotech Style Genes - All in One</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>ebsg.aio</packageId>
+			<displayName>Expanded Biotech Style Genes - All in One</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
 		</li>
 

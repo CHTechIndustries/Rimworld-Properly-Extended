@@ -50,3 +50,8 @@ Added a discussion that is just a list of optional dependencies
 Modified the other mod to require the EBSG series
 Integrated with Visual Studio for easier coding and updates
 Made a note of Vanilla Expanded
+
+1.2.0
+Last "major" update for 1.4 (most likley)
+Added in the folder for 1.5 (albiet with nothing but a text file)
+Transfered in the xenos from my other mod, mergeing the two into one!
