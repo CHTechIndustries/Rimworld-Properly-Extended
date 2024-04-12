@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<GeneDef ParentName="TdT_BioStabilize_3">		<!--Conscisness-->
-		<defName>TdT_BioStable_Consciousness_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_3">		<!--Conscisness-->
+		<defName>CHTech_BioStable_Consciousness_90</defName>
 		<label>Cognitive Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.	
 	
@@ -21,8 +21,8 @@ This one specifically prevents conscisness from passing 90%, and makes it exceed
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_3">		<!-- Moveing -->
-		<defName>TdT_BioStable_Moving_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_3">		<!-- Moveing -->
+		<defName>CHTech_BioStable_Moving_90</defName>
 		<label>Movement Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -42,8 +42,8 @@ This one specifically stabalizes movment, keeping it at a maximum of 30%,  allow
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_3">		<!--Manipulation -->
-		<defName>TdT_BioStable_Manipulation_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_3">		<!--Manipulation -->
+		<defName>CHTech_BioStable_Manipulation_90</defName>
 		<label>Manipulation Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 
@@ -63,8 +63,8 @@ This one specifically stabalizies manipulation, preventing it from passing 30%, 
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_speech_3">		<!-- Talking -->		<!-- Needs the tags of anything that manipulates talking -->
-		<defName>TdT_BioStable_Talking_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_speech_3">		<!-- Talking -->		<!-- Needs the tags of anything that manipulates talking -->
+		<defName>CHTech_BioStable_Talking_90</defName>
 		<label>Communication Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -84,8 +84,8 @@ This one specifically stabalizies talking, by keeping it at 90%. Not that hard t
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_3">		<!--Eating -->
-		<defName>TdT_BioStable_Eating_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_3">		<!--Eating -->
+		<defName>CHTech_BioStable_Eating_90</defName>
 		<label>Eating Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -105,7 +105,7 @@ This one specifically stabalizies eating, which makes it slightly harder to eat 
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_sight_3">		<!-- Sight -->		<!-- Needs the tags of anything that manipulates sight -->
+	<GeneDef ParentName="CHTech_BioStabilize_sight_3">		<!-- Sight -->		<!-- Needs the tags of anything that manipulates sight -->
 		<defName>BioStable_Sight_90</defName>
 		<label>Visual Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
@@ -126,8 +126,8 @@ This one specifically stabalizies sight, allowing them to see no matter the inju
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_hearing_3">		<!-- Hearing -->	<!-- Needs the tags of anything that manipulates hearing -->
-		<defName>TdT_BioStable_Hearing_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_hearing_3">		<!-- Hearing -->	<!-- Needs the tags of anything that manipulates hearing -->
+		<defName>CHTech_BioStable_Hearing_90</defName>
 		<label>Auditory Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -147,8 +147,8 @@ This one specifically stabalizies hearing, allowing them to maintain hearing eve
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_3">		<!--Breathing -->
-		<defName>TdT_BioStable_Breathing_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_3">		<!--Breathing -->
+		<defName>CHTech_BioStable_Breathing_90</defName>
 		<label>Respiratory Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -168,8 +168,8 @@ This one specifically breathing, making it very hard to drop bellow 90%. While t
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_3">		<!-- Blood Filtration -->
-		<defName>TdT_BioStable_BloodFiltration_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_3">		<!-- Blood Filtration -->
+		<defName>CHTech_BioStable_BloodFiltration_90</defName>
 		<label>Blood Filtration Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -189,8 +189,8 @@ This one specifically blood filtration. While being limited to 90% does make you
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_3">		<!--Blood Pumping-->
-		<defName>TdT_BioStable_BloodPumping_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_3">		<!--Blood Pumping-->
+		<defName>CHTech_BioStable_BloodPumping_90</defName>
 		<label>Cardiac Stability: 60%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -210,8 +210,8 @@ This one specifically stabalizies the heart, meaning that, so long as just a fra
 			</li>
 		</capMods>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_3">		<!--Metabolism -->
-		<defName>TdT_BioStable_Metabolism_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_3">		<!--Metabolism -->
+		<defName>CHTech_BioStable_Metabolism_90</defName>
 		<label>Digestive Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
@@ -234,8 +234,8 @@ This one specifically stabalizes digestion, making it harder to digest food, but
 	
 	
 	
-	<GeneDef ParentName="TdT_BioStabilize_archite_3">		<!--All -->			<!-- all other exclusion tags -->
-		<defName>TdT_BioStable_All_90</defName>
+	<GeneDef ParentName="CHTech_BioStabilize_archite_3">		<!--All -->			<!-- all other exclusion tags -->
+		<defName>CHTech_BioStable_All_90</defName>
 		<label>Complete Stability: 90%</label>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		

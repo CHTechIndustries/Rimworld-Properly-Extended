@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <GeneCategoryDef>
-        <defName>TdT_BioStabilizers</defName>
+        <defName>CHTech_BioStabilizers</defName>
         <label>Bio-Stabilizer</label>
         <displayPriorityInXenotype>499.999</displayPriorityInXenotype>
     </GeneCategoryDef>
 	<GeneCategoryDef>
-        <defName>TdT_Test</defName>
+        <defName>CHTech_Test</defName>
         <label>Test Genes</label>
         <displayPriorityInXenotype>10000</displayPriorityInXenotype>
     </GeneCategoryDef>

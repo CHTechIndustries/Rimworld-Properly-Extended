@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<GeneDef Name="TdT_BioStabilize_base" Abstract="True">			<!--Base -->
-		<displayCategory>TdT_BioStabilizers</displayCategory>
+	<GeneDef Name="CHTech_BioStabilize_base" Abstract="True">			<!--Base -->
+		<displayCategory>CHTech_BioStabilizers</displayCategory>
 		<description>The Bio-Stabalizer Genes are designed to heigten specific stats, at the cost of longer rests and minor pain.
 		
 This one specifically stabalizies...</description>
@@ -20,7 +20,7 @@ This one specifically stabalizies...</description>
 	</GeneDef>
 
 <!-- 30% -->
-	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize_1" Abstract="True">			<!-- 30% (main) -->
+	<GeneDef ParentName="CHTech_BioStabilize_base" Name="CHTech_BioStabilize_1" Abstract="True">			<!-- 30% (main) -->
 		<displayOrderInCategory>1</displayOrderInCategory>
 		<labelShortAdj>Biostable 30%</labelShortAdj>
 		<biostatCpx>10</biostatCpx>
@@ -33,7 +33,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.3</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/30/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_speech" Name="TdT_BioStabilize_speech_1" Abstract="True">			<!-- 30% (talking) -->
+	<GeneDef ParentName="CHTech_BioStabalize_base_speech" Name="CHTech_BioStabilize_speech_1" Abstract="True">			<!-- 30% (talking) -->
 		<displayOrderInCategory>1</displayOrderInCategory>
 		<labelShortAdj>Biostable 30%</labelShortAdj>
 		<biostatCpx>10</biostatCpx>
@@ -46,7 +46,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.3</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/30/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_sight" Name="TdT_BioStabilize_sight_1" Abstract="True">			<!-- 30% (eye) -->
+	<GeneDef ParentName="CHTech_BioStabalize_base_sight" Name="CHTech_BioStabilize_sight_1" Abstract="True">			<!-- 30% (eye) -->
 		<displayOrderInCategory>1</displayOrderInCategory>
 		<labelShortAdj>Biostable 30%</labelShortAdj>
 		<biostatCpx>10</biostatCpx>
@@ -59,7 +59,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.3</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/30/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_hearing" Name="TdT_BioStabilize_hearing_1" Abstract="True">			<!-- 30% (hearing) -->
+	<GeneDef ParentName="CHTech_BioStabalize_base_hearing" Name="CHTech_BioStabilize_hearing_1" Abstract="True">			<!-- 30% (hearing) -->
 		<displayOrderInCategory>1</displayOrderInCategory>
 		<labelShortAdj>Biostable 30%</labelShortAdj>
 		<biostatCpx>10</biostatCpx>
@@ -72,7 +72,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.3</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/30/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_arcite" Name="TdT_BioStabilize_archite_1" Abstract="True">			<!-- 30% (archite) -->
+	<GeneDef ParentName="CHTech_BioStabalize_base_arcite" Name="CHTech_BioStabilize_archite_1" Abstract="True">			<!-- 30% (archite) -->
 		<displayOrderInCategory>1</displayOrderInCategory>
 		<labelShortAdj>Biostable 30%</labelShortAdj>
 		<biostatCpx>10</biostatCpx>
@@ -87,7 +87,7 @@ This one specifically stabalizies...</description>
 	</GeneDef>
 
 <!-- 60% -->
-	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize_2" Abstract="True">			<!-- 60% (main) -->
+	<GeneDef ParentName="CHTech_BioStabilize_base" Name="CHTech_BioStabilize_2" Abstract="True">			<!-- 60% (main) -->
 		<labelShortAdj>Biostable 60%</labelShortAdj>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
@@ -100,7 +100,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.2</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/60/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_speech" Name="TdT_BioStabilize_speech_2" Abstract="True">			<!-- 60% (talking) -->
+	<GeneDef ParentName="CHTech_BioStabalize_base_speech" Name="CHTech_BioStabilize_speech_2" Abstract="True">			<!-- 60% (talking) -->
 		<labelShortAdj>Biostable 60%</labelShortAdj>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
@@ -113,7 +113,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.2</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/60/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_sight" Name="TdT_BioStabilize_sight_2" Abstract="True">			<!-- 60% (eye) -->
+	<GeneDef ParentName="CHTech_BioStabalize_base_sight" Name="CHTech_BioStabilize_sight_2" Abstract="True">			<!-- 60% (eye) -->
 		<labelShortAdj>Biostable 60%</labelShortAdj>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
@@ -126,7 +126,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.2</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/60/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_hearing" Name="TdT_BioStabilize_hearing_2" Abstract="True">			<!-- 60% (hearing) -->
+	<GeneDef ParentName="CHTech_BioStabalize_base_hearing" Name="CHTech_BioStabilize_hearing_2" Abstract="True">			<!-- 60% (hearing) -->
 		<labelShortAdj>Biostable 60%</labelShortAdj>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
@@ -139,7 +139,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.2</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/60/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_arcite" Name="TdT_BioStabilize_archite_2" Abstract="True">			<!-- 60% (archite) -->
+	<GeneDef ParentName="CHTech_BioStabalize_base_arcite" Name="CHTech_BioStabilize_archite_2" Abstract="True">			<!-- 60% (archite) -->
 		<labelShortAdj>Biostable 60%</labelShortAdj>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>15</biostatCpx>
@@ -154,7 +154,7 @@ This one specifically stabalizies...</description>
 	</GeneDef>
 	
 <!-- 90% -->
-	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize_3" Abstract="True">			<!-- 90% (main)-->
+	<GeneDef ParentName="CHTech_BioStabilize_base" Name="CHTech_BioStabilize_3" Abstract="True">			<!-- 90% (main)-->
 		<labelShortAdj>Biostable 90%</labelShortAdj>
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
@@ -167,7 +167,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.1</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/90/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_speech" Name="TdT_BioStabilize_speech_3" Abstract="True">			<!-- 90% (talking)-->
+	<GeneDef ParentName="CHTech_BioStabalize_base_speech" Name="CHTech_BioStabilize_speech_3" Abstract="True">			<!-- 90% (talking)-->
 		<labelShortAdj>Biostable 90%</labelShortAdj>
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
@@ -180,7 +180,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.1</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/90/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_sight" Name="TdT_BioStabilize_sight_3" Abstract="True">			<!-- 90% (sight)-->
+	<GeneDef ParentName="CHTech_BioStabalize_base_sight" Name="CHTech_BioStabilize_sight_3" Abstract="True">			<!-- 90% (sight)-->
 		<labelShortAdj>Biostable 90%</labelShortAdj>
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
@@ -193,7 +193,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.1</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/90/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabilize_base" Name="TdT_BioStabilize_hearing_3" Abstract="True">			<!-- 90% (hearing)-->
+	<GeneDef ParentName="CHTech_BioStabilize_base" Name="CHTech_BioStabilize_hearing_3" Abstract="True">			<!-- 90% (hearing)-->
 		<labelShortAdj>Biostable 90%</labelShortAdj>
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
@@ -206,7 +206,7 @@ This one specifically stabalizies...</description>
 		<painFactor>1.1</painFactor>
 		<iconPath>GeneIcons/Bio-Stable/90/BioStable</iconPath>
 	</GeneDef>
-	<GeneDef ParentName="TdT_BioStabalize_base_arcite" Name="TdT_BioStabilize_archite_3" Abstract="True">			<!-- 90% (archite)-->
+	<GeneDef ParentName="CHTech_BioStabalize_base_arcite" Name="CHTech_BioStabilize_archite_3" Abstract="True">			<!-- 90% (archite)-->
 		<labelShortAdj>Biostable 90%</labelShortAdj>
 		<displayOrderInCategory>3</displayOrderInCategory>
 		<biostatCpx>20</biostatCpx>
