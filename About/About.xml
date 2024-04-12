@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Rimworld Genetics Extended</name>
+	<name>Rimworld Properly Extended</name>
 	<author>CTH2004</author>
-	<packageId>CHTech.RimworldExtended.augment</packageId>
+	<packageId>CHTech.RimworldExtended.ultra</packageId>
 	<url>https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki</url>
 	<modVersion>1.2.0</modVersion>
 	<supportedVersions>
