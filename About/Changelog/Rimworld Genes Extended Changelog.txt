@@ -55,3 +55,14 @@ Made a note of Vanilla Expanded
 Last "major" update for 1.4 (most likley)
 Added in the folder for 1.5 (albiet with nothing but a text file)
 Transfered in the xenos from my other mod, mergeing the two into one!
+
+2.0.0
+Updated to 1.5 (not compatible with 1.4)
+Changed ID's of features (hence the 1.4 incompatibilities)
+Changed ID
+fixed name issues
+changed description, as the goal for this mod has been refined
+removed Royalty as a hard compat, as really Biotech is the only DLC I'm using as a "core" component, the rest should be able to be made as either
+	A) Soft compat
+	B) In extreme cases, addon mod
+fixed an indent (format issue)
