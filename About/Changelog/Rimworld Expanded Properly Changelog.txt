@@ -67,3 +67,5 @@ removed Royalty as a hard compat, as really Biotech is the only DLC I'm using as
 	B) In extreme cases, addon mod
 fixed an indent (format issue)
 Removed un-used placeholder folders from 1.4
+
+2.1.0
