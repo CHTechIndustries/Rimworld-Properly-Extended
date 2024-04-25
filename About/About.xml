@@ -84,6 +84,10 @@ Note 2: 1.5 has nothing, it's just a placeholder!</description>
 		<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
 	<incompatibleWith>
+		<!-- obsolete: these mods are obsolete/ now cause erros. Basically, mods that have been merged into this mod -->
+		<li>tdt.morexenos</li>
+		
+		<!-- other requirments add same features, so these are redundent. Technically no "errors", but... -->
 		<li>ebsg.bleeding</li>
 		<li>ebsg.sensory</li>
 		<li>ebsg.carrycap</li>
