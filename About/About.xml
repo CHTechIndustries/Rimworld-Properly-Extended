@@ -12,7 +12,7 @@
 	<description>Rimworld Properlly Extended is a mod that's goal is to add in modular, enjoyable extensions. The ultimiate goal is "features that are fun, and fit in". So, it extends rimworld, but trys to keep it true to the concept of rimworld, to an extent. For a general feature summary, there is a steam discussion for that. However, if you want more info, you should check the (Work in progress) Wiki.
 
 NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any ideas for better ones, please say!
-Note 2: 1.5 has nothing, it's just a placeholder!</description>
+</description>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
@@ -62,6 +62,11 @@ Note 2: 1.5 has nothing, it's just a placeholder!</description>
 			<packageId>ebsg.aio</packageId>
 			<displayName>Expanded Biotech Style Genes - All in One</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>pathfinding.framework</packageId>
+			<displayName>Pathfinding Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3070914628</steamWorkshopUrl>
 		</li>
 
 	</modDependencies>
