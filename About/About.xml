@@ -92,6 +92,8 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<!-- obsolete: these mods are obsolete/ now cause erros. Basically, mods that have been merged into this mod -->
 		<li>tdt.morexenos</li>
 		
+		<!-- merged: mods that I have been given permission to merge into this one, leading to almost/ completly identical code, ergo incompatible -->
+		
 		<!-- other requirments add same features, so these are redundent. Technically no "errors", but... -->
 		<li>ebsg.bleeding</li>
 		<li>ebsg.sensory</li>
@@ -134,5 +136,6 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<li>morewoundhealinggenes.mod</li>
 		<li>ebsg.biomes</li>
 		<li>ebsg.food</li>
+		<li>ebsg.slayer</li>
 	</incompatibleWith>
 </ModMetaData>
