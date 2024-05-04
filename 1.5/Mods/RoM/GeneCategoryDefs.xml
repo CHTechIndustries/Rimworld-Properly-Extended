@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<GeneCategoryDef>
+		<defName>RoM</defName>
+		<label>RoM Classes</label>
+		<displayPriorityInXenotype>2</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	<GeneCategoryDef>
+		<defName>RoMKure</defName>
+		<label>Kure Classes</label>
+		<displayPriorityInXenotype>1</displayPriorityInXenotype>
+	</GeneCategoryDef>
+</Defs>

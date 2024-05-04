@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>Rimworld Extended: Properly</name>
 	<author>Authors: CTH2004
-Contributors: Bleeding Eyes Mcgee</author>
+Contributors: Bleeding Eyes Mcgee, Touchnir</author>
 	<packageId>CHTech.RimworldExtended.main</packageId>
 	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
 	<modVersion>2.1.0</modVersion>
@@ -16,6 +16,7 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 
 Finally, give big thanks to:
 Bleeding Eyes Mcgee, for the RoM traits section
+Touchnir, for the majority of the RoM class genes section, and it's entire basis.
 </description>
 	<modDependencies>
 		<li>
@@ -87,6 +88,7 @@ Bleeding Eyes Mcgee, for the RoM traits section
 		<!-- soft compat, adds more features -->
 		<li>torann.arimworldofmagic</li>
 		<li>aelanna.endling</li>
+		<li>kure.arom</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
@@ -100,6 +102,7 @@ Bleeding Eyes Mcgee, for the RoM traits section
 		<li>com.torodo.godlytraits</li>
 		<li>com.torodo.godlyweapons</li>
 		<li>rom.genes</li>
+		<li>all.rom.cla.genes</li>
 		
 		<!-- other requirments add same features, so these are redundent. Technically no "errors", but... -->
 		<li>ebsg.bleeding</li>

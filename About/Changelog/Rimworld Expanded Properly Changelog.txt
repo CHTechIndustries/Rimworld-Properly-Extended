@@ -75,4 +75,7 @@ added ebsg slayer gens as incompat
 fixed some requirments
 added in a few missing load order indices
 added RoM Compat
-integrated in Rimworld of Magic Genes by Bleeding Eyes Mcgee ( https://steamcommunity.com/workshop/filedetails/?id=2907470506 )
+with permision:
+	integrated in Rimworld of Magic Genes by Bleeding Eyes Mcgee ( https://steamcommunity.com/workshop/filedetails/?id=2907470506 )
+	integrated in All Rimworld of Magic Class Genes (with a few minor alterations to make it a soft compat)  Touch-nir ( https://steamcommunity.com/sharedfiles/filedetails/?id=3023584656 )
+both will be built upon to be more robust and modular, but right now they work quite well!
