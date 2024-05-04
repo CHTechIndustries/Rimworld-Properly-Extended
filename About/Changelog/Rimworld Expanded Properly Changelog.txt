@@ -71,4 +71,4 @@ Removed un-used placeholder folders from 1.4
 2.1.0
 updated about file
 added Pathfinding Framework as requirment
-added ebsg slayer gens as requirment
+added ebsg slayer gens as incompat
