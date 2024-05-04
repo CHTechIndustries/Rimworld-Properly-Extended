@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Rimworld Extended: Properly</name>
-	<author>Authors: CTH2004
-Contributors: Bleeding Eyes Mcgee, Touchnir</author>
+	<author>Authors: CTH2004</author>
 	<packageId>CHTech.RimworldExtended.main</packageId>
 	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
 	<modVersion>2.1.0</modVersion>
