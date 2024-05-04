@@ -79,3 +79,9 @@ with permision:
 	integrated in Rimworld of Magic Genes by Bleeding Eyes Mcgee ( https://steamcommunity.com/workshop/filedetails/?id=2907470506 )
 	integrated in All Rimworld of Magic Class Genes (with a few minor alterations to make it a soft compat)  Touch-nir ( https://steamcommunity.com/sharedfiles/filedetails/?id=3023584656 )
 both will be built upon to be more robust and modular, but right now they work quite well!
+
+edits to those mods during integration:
+changed to use textures of RoM, instead of haveing a copy of the images
+used a parent gene to lessen the necessary components
+did some file mergeing
+made (using the parent) kures use a "may require", so if not there it's inactive. if ROM isn't there, the whole thing is inactive. this allows my mod to work without requiring RoM or Kures, and allows me to easily add more classes in the future if necessary

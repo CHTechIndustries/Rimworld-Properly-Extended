@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
  
- <GeneDef ParentName="CHTech_RoM_class_Kure">
+ <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_RedMage_Gene</defName>
     <label>Red Mage</label>
     <description>Carrier of this gene is a Red Mage, a flourishing spellblade who weaves through combat with deadly flair.</description>
     <iconPath>Other/ClassTextures/redmagetexture</iconPath>
-
     <displayOrderInCategory>1</displayOrderInCategory>
     <forcedTraits>
       <li>
@@ -24,7 +23,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Ninja_Gene</defName>
     <label>Ninja</label>
     <description>Carrier of this gene is a Ninja, a stealthy and agile fighter with a few magical tricks up their sleeves. They excel in bringing down enemies before they even know what hit them.</description>
@@ -45,7 +44,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_ElementalGunner_Gene</defName>
     <label>Elemental Gunner</label>
     <description>Carrier of this gene is an Elemental Gunner, a magically-gifted pawn capable of imbuing their ammunition with magical power. Their magically-heightened awareness allows them to shoot at frightening speeds. They specialize in laying down sustained suppressive fire.</description>
@@ -66,7 +65,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Bombardier_Gene</defName>
     <label>Bombardier</label>
     <description>Carrier of this gene is a Bombardier, a fighter specializing in long-range explosive weaponry. They are experts at siege warfare, and can fire explosives over walls from behind cover.</description>
@@ -89,7 +88,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Railbreaker_Gene</defName>
     <label>Railbreaker</label>
     <description>Carrier of this gene is a Railbreaker, a reckless melee brawler equipped with extremely dangerous augments that allow them to create explosions at will, which they fire at point-blank range. They are unmatched in firepower, but their greatest weakness is the recoil from their own moves.</description>
@@ -110,7 +109,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Samurai_Gene</defName>
     <label>Samurai</label>
     <description>Carrier of this gene is a Samurai, a wandering swordsman who specializes in Iai.</description>
@@ -131,7 +130,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Gadgeteer_Gene</defName>
     <label>Gadgeteer</label>
     <description>Carrier of this gene is a Gadgeteer, an eccentric inventor who carries around numerous gadgets and tools to assist them in daily life.</description>
@@ -152,7 +151,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_WindMage_Gene</defName>
     <label>Wind Mage</label>
     <description>Carrier of this gene is a Wind Mage, capable of bending the very air itself to their will.</description>
@@ -173,7 +172,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Medic_Gene</defName>
     <label>Medic</label>
     <description>Carrier of this gene is a Medic, a dedicated doctor with an array of powerful utility abilities that they can support their allies with. They are very poor direct combatants, however.</description>
@@ -194,7 +193,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_ChromaMage_Gene</defName>
     <label>Chroma Mage</label>
     <description>Carrier of this gene is a Chroma Mage, a versatile spellcaster capable of undertaking numerous paths of mastery. Carrier of this gene can learn any of several powerful spells, but they will never master them all. Their maximum level is 30.</description>
@@ -215,7 +214,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Harbinger_Gene</defName>
     <label>Harbinger</label>
     <description>Carrier of this gene is a Harbinger, a mage whose presence always signals death and destruction. They are capable of tapping into dark forces to curse their enemies, corrupting their body and soul. Due to their unique link with their victims, most of their spells do not require line of sight to cast.</description>
@@ -236,7 +235,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Reaper_Gene</defName>
     <label>Reaper</label>
     <description>No one knows of Carrier of this gene's true origins, but in battle they seem more a demon than anything else. They are capable of flying directly into enemy positions unbidden and warping the minds of their enemies, causing discord and destruction.</description>
@@ -257,7 +256,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Berserker_Gene</defName>
     <label>Berserker</label>
     <description>Carrier of this gene is a Berserker, a rampaging fighter who lives to kill or be killed.</description>
@@ -278,7 +277,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Scion_Gene</defName>
     <label>Scion</label>
     <description>Carrier of this gene is a Scion, a melee fighter that channels the aspects of ancient spirits to aid them both in combat and and in daily life.</description>
@@ -299,7 +298,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Plaguedoctor_Gene</defName>
     <label>Plaguedoctor</label>
     <description>Carrier of this gene is a Plaguedoctor, a half-crazed medieval physician who delights in poisons and disease. They are capable of performing uniquely terrifying surgical procedures on both allies and enemies.</description>
@@ -321,7 +320,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Cleric_Gene</defName>
     <label>Cleric</label>
     <description>Carrier of this gene is a Cleric, a versatile mid-line healer capable of quickly healing and cleansing their allies.</description>
@@ -342,7 +341,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Arbormancer_Gene</defName>
     <label>Arbormancer</label>
     <description>Carrier of this gene is an Arbormancer, a mage whose magic power is derived from living plants. They are not necessarily allies of the wood, however. They often earn the ire of Rangers and Druids through their wanton mistreatment of nature.</description>
@@ -363,7 +362,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Chainwarden_Gene</defName>
     <label>Chainwarden</label>
     <description>Carrier of this gene is a Chainwarden, a fighter that has mastered the usage of chains as a combat weapon. They excel at controlling enemy movements and dealing with multiple opponents at once.</description>
@@ -384,7 +383,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Ambusher_Gene</defName>
     <label>Ambusher</label>
     <description>Carrier of this gene is an Ambusher, a fighter that lies in cold wait for their enemies with traps and devastating close-range abilities.</description>
@@ -405,7 +404,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Saboteur_Gene</defName>
     <label>Saboteur</label>
     <description>Carrier of this gene is a Saboteur, a fighter that specializes in going behind enemy lines and disabling key enemy buildings and defenses.</description>
@@ -426,7 +425,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Keeper_Gene</defName>
     <label>Keeper</label>
     <description>Carrier of this gene is a Keeper, a mage that specializes in base defense.</description>
@@ -447,7 +446,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Pridestalker_Gene</defName>
     <label>Pridestalker</label>
     <description>Carrier of this gene is a Pridestalker, a fighter that combines bow and magic to turn any fight into a deadly hunt.</description>
@@ -469,7 +468,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Starseeker_Gene</defName>
     <label>Starseeker</label>
     <description>Carrier of this gene is a Starseeker, a fledgling mage with incredible potential.</description>
@@ -490,7 +489,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Aspirant_Gene</defName>
     <label>Aspirant</label>
     <description>Carrier of this gene is an Aspirant, a fledgling fighter with incredible potential.</description>
@@ -511,7 +510,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Hawkeye_Gene</defName>
     <label>Hawkeye</label>
     <description>Carrier of this gene is a Hawkeye, a fighter that has dedicated their life to the mastery of the bow.</description>
@@ -532,7 +531,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Atronach_Gene</defName>
     <label>Atronach</label>
     <description>Carrier of this gene is an Atronach, an anomaly among spellcasters. They are capable of casting some powerful spells, but they are completely out of tune with the flow of magic and do not regenerate mana. They must find their own sources of mana with which to fuel their spells.</description>
@@ -553,7 +552,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_SupportSpecialist_Gene</defName>
     <label>Support Specialist</label>
     <description>Carrier of this gene is a versatile, shotgun-toting combat support, capable of taking out key targets, holding the line, or supporting allies.</description>
@@ -574,7 +573,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Scrapper_Gene</defName>
     <label>Scrapper</label>
     <description>Carrier of this gene is a Scrapper, a combatant that prefers unarmed brawling. They are unmatched in single combat with their huge array of single-target takedown moves.</description>
@@ -595,7 +594,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Oracle_Gene</defName>
     <label>Oracle</label>
     <description>Astrologian, fortune-teller, seer. As an Oracle, Carrier of this gene is all of these things, and more. As a mage that draws their power from the stars themselves, they are slow, deliberate spellcasters, but they are able to affect targets from anywhere on the map with their array of supportive spells.</description>
@@ -616,7 +615,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Mystic_Gene</defName>
     <label>Mystic</label>
     <description>Carrier of this gene is a Mystic, a fighter that utilizes spiritual energy to disable and thwart their foes.</description>
@@ -637,7 +636,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Spellbreaker_Gene</defName>
     <label>Spellbreaker</label>
     <description>Carrier of this gene is a Spellbreaker, a fighter that excels at countering enemy attacks, and is adept at dealing with enemy fighters and mages.</description>
@@ -658,7 +657,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Duskbringer_Gene</defName>
     <label>Duskbringer</label>
     <description>Carrier of this gene is a Duskbringer, a combatant that has mastered the dual destructive forces of light and darkness.</description>
@@ -679,7 +678,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Thunderblessed_Gene</defName>
     <label>Thunderblessed</label>
     <description>Carrier of this gene is a fighter with an incredible affinity for the element of lightning, despite not being a mage. They are capable of executing devastating attacks, but the physical toll of harnessing such power causes them to take more damage than others.</description>
@@ -700,7 +699,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Deadeye_Gene</defName>
     <label>Deadeye</label>
     <description>Carrier of this gene is a sharpshot mercenary for hire. It's not uncommon to find their ilk in dusty rimworld bars. Their ability to take out key targets from a distance is unparalleled, but life as a contract killer has left them less than willing to perform menial labor and daily tasks. They are capable of utilizing magic to make their bullets even more deadly, but they have no inherent mana regeneration of their own.</description>
@@ -721,7 +720,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Spellthief_Gene</defName>
     <label>Spellthief</label>
     <description>Carrier of this gene is a Spellthief, a trickster mage capable of easily infiltrating and sabotaging enemies. They can copy abilities from allies and enemies.</description>
@@ -742,7 +741,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Dragoon_Gene</defName>
     <label>Dragoon</label>
     <description>Carrier of this gene is a Dragoon, an agile knight that has absorbed the power of ancient dragons into their body, granting them extreme resistance towards heat. They are capable of taking to the skies to outmaneuever and destroy their opponents.</description>
@@ -763,7 +762,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_BlackMage_Gene</defName>
     <label>Black Mage</label>
     <description>Carrier of this gene is a Black Mage, a specialized combat mage capable of unleashing unending destructive magic on their foes.</description>
@@ -784,7 +783,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Scholar_Gene</defName>
     <label>Scholar</label>
     <description>Carrier of this gene is a Scholar, a magical strategist capable of protecting their allies from harm. They are very poor direct combatants, but excel at supporting their allies in combat.</description>
@@ -805,7 +804,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Gunbreaker_Gene</defName>
     <label>Gunbreaker</label>
     <description>Carrier of this gene is a Gunbreaker, an unorthodox fighter that prefers to use ranged weaponry in melee combat. They are capable of charging up and unleashing devastating attacks in quick succession on their targets.</description>
@@ -826,7 +825,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Gunner_Gene</defName>
     <label>Gunner</label>
     <description>Carrier of this gene is a Gunner, a fighter that prefers ranged weapons with powerful single-shot capabilities. They are capable of charging up and laying down rapid bursts of suppressive fire.</description>
@@ -847,7 +846,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Warrior_Gene</defName>
     <label>Warrior</label>
     <description>Carrier of this gene is a Warrior, a melee fighter trained to survive on the front lines of battle.</description>
@@ -868,7 +867,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Nomad_Gene</defName>
     <label>Nomad</label>
     <description>Carrier of this gene is a Nomad, a resilient and versatile bow-fighter that fights at both melee and range.</description>
@@ -889,7 +888,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Guardian_Gene</defName>
     <label>Guardian</label>
     <description>Carrier of this gene is a Guardian, a stalwart protector that uses blade and magic to defend their allies.</description>
@@ -910,7 +909,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Holosmith_Gene</defName>
     <label>Holosmith</label>
     <description>Carrier of this gene is a Holosmith, an ordinary individual except for one thing -- their usage of the miraculous Photon Forge, which allows them to harness the power of light for brief periods of time, allowing them to keep up with other trained fighters.</description>
@@ -932,7 +931,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Troubadour_Gene</defName>
     <label>Troubadour</label>
     <description>Carrier of this gene is a Troubadour, an archer who supports their allies with arrow and song.</description>
@@ -953,7 +952,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Gambler_Gene</defName>
     <label>Gambler</label>
     <description>Carrier of this gene is a Gambler, a smooth-talking vagrant with a magical deck of cards. They play out their lives according to fate's whim.</description>
@@ -974,7 +973,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Chef_Gene</defName>
     <label>Chef</label>
     <description>Carrier of this gene is a Chef, a dedicated cook with abilities that can ease the burdens of their allies.</description>
@@ -995,7 +994,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Miner_Gene</defName>
     <label>Miner</label>
     <description>Carrier of this gene is a Miner, a trained specialist capable of demolishing ore and rock with ease.</description>
@@ -1016,7 +1015,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Striker_Gene</defName>
     <label>Striker</label>
     <description>Carrier of this gene is a Striker, an unarmed combatant that is an aggressive offshoot of the Monk they forsake defense and healing in exchange for a swift and offensive combat style.</description>
@@ -1037,7 +1036,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_RuneKnight_Gene</defName>
     <label>Rune Knight</label>
     <description>Carrier of this gene is a Rune Knight, a specialized combat mage that compresses mana into runes to use at a later time, allowing them to prepare for future encounters. They have access to offensive, defensive, and healing magic.</description>
@@ -1059,7 +1058,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_BlossomBlader_Gene</defName>
     <label>Blossom Blader</label>
     <description>Carrier of this gene is a Blossom Blader, a graceful bladedancer with close ties to nature. They are capable of rapidly assaulting their targets with debilitating attacks. Their abilities are fueled by herbs gathered over time by interacting with plants.</description>
@@ -1080,7 +1079,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Ravenous_Gene</defName>
     <label>Ravenous</label>
     <description>Carrier of this gene is a Ravenous. No one knows how these disturbing creatures come into existence - freak of nature, biological experimentation, or magical anomaly? The only thing anyone knows for sure is that these creatures must feed, on anything and everything. Despite not being properly trained, they are capable of learning fighter and mage abilities. Perhaps they devoured the knowledge from some unfortunate soul...</description>
@@ -1101,7 +1100,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_MechHunter_Gene</defName>
     <label>Mech Hunter</label>
     <description>Some do it for vengeance, others do it for pay. Whatever the reason, Carrier of this gene is a Mech Hunter, a fighter that has dedicated their life to eradicating the Mechanoid threat.</description>
@@ -1123,7 +1122,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Gunslinger_Gene</defName>
     <label>Gunslinger</label>
     <description>Carrier of this gene is a Gunslinger, a mobile ranged attacker capable of blanketing the battlefield with suppressive fire.</description>
@@ -1145,7 +1144,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Shadowbringer_Gene</defName>
     <label>Shadowbringer</label>
     <description>Carrier of this gene is a Shadowbringer, a melee fighter that utilizes the power of darkness to annihilate their foes.</description>
@@ -1166,7 +1165,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Warden_Gene</defName>
     <label>Warden</label>
     <description>Carrier of this gene is a Warden, an offshoot of the Geomancer that has received training as a battlemage and prefers to be in the thick of combat.</description>
@@ -1187,7 +1186,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Chempunk_Gene</defName>
     <label>Chempunk</label>
     <description>No one belongs to a Rimworld more than Carrier of this gene - no stranger to pollution, poison, drugs, or violence, they have augmented their body to allow them to process dangerous drugs in combat, allowing them to use their very body as a poisonous weapon.</description>
@@ -1209,7 +1208,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Explorer_Gene</defName>
     <label>Explorer</label>
     <description>Carrier of this gene is an Explorer. Their travels through the land have granted them insight into numerous schools of both magic and might -- they are capable of learning abilities from almost any mage or fighter scroll. However, they possess no innate abilities of their own.</description>
@@ -1230,7 +1229,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_Kure">
+  <GeneDef ParentName="CHTech_RoM_class_Kure" MayRequire="kure.arom">
     <defName>TM_Architect_Gene</defName>
     <label>Architect</label>
     <description>Carrier of this gene is an Architect, a mage that applies their magic to structures, allowing them to raise or destroy buildings at a moment's whim. Architects rarely directly engage their foes, they prefer to shape the landscape itself to be inhospitable to their enemies. Most of their spells can be cast from anywhere on the map.</description>
