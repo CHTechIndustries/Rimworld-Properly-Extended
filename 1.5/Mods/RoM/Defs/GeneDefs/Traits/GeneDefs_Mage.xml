@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<GeneDef>
+	<GeneDef ParentName="CHTech_RoM_trait_mage">
     <defName>TM_Gifted_Gene</defName>
     <label>Magically Gifted</label>
     <description>Carriers of this gene have a magical gift. They can harness this gift to become a mage by studying the mysterious secrets within an arcane script.</description>
-    <iconPath>Textures/GeneIcons/RoM_Genes/TraitsMages</iconPath>
-    <displayCategory>RoM-Mage</displayCategory>
+
     <displayOrderInCategory>1</displayOrderInCategory>
     <forcedTraits>
       <li>
@@ -26,12 +25,11 @@
     </symbolPack>
   </GeneDef>
 
-  <GeneDef>
+  <GeneDef ParentName="CHTech_RoM_trait_mage">
     <defName>TM_ArcaneConduitTD_Gene</defName>
     <label>Arcane Conduit</label>
     <description>Carriers of this gene are abnormally receptive to the ebb and flow of mana, they will gain mana 40% faster than normal but their maximum mana capacity is reduced by 20.</description>
-    <iconPath>Textures/GeneIcons/RoM_Genes/TraitsMages</iconPath>
-    <displayCategory>RoM-Mage</displayCategory>
+
     <displayOrderInCategory>2</displayOrderInCategory>
     <forcedTraits>
       <li>
@@ -52,12 +50,11 @@
     </symbolPack>
   </GeneDef>
 
-  <GeneDef>
+  <GeneDef ParentName="CHTech_RoM_trait_mage">
     <defName>TM_ManaWellTD_Gene</defName>
     <label>Mana Well</label>
     <description>Carriers of this gene have an increased resistance to the ebb and flow of mana which allows them to hold an additional 40 mana, but reduces their mana regeneration by 20%.</description>
-    <iconPath>Textures/GeneIcons/RoM_Genes/TraitsMages</iconPath>
-    <displayCategory>RoM-Mage</displayCategory>
+
     <displayOrderInCategory>3</displayOrderInCategory>
     <forcedTraits>
       <li>
@@ -78,12 +75,11 @@
     </symbolPack>
   </GeneDef>
 
-  <GeneDef>
+  <GeneDef ParentName="CHTech_RoM_trait_mage">
     <defName>TM_FaeBloodTD_Gene</defName>
     <label>Fae Blood</label>
     <description>Carriers of this gene are descendants of fae folk and have a natural connection to the arcane. Their arcane resistance is reduced by 40% but mana regeneration and maximum mana is increased by 20%. Spell costs are reduced by 10%.</description>
-    <iconPath>Textures/GeneIcons/RoM_Genes/TraitsMages</iconPath>
-    <displayCategory>RoM-Mage</displayCategory>
+
     <displayOrderInCategory>4</displayOrderInCategory>
     <forcedTraits>
       <li>
@@ -101,12 +97,11 @@
     </symbolPack>
   </GeneDef>
 
-  <GeneDef>
+  <GeneDef ParentName="CHTech_RoM_trait_mage">
     <defName>TM_EnlightenedTD_Gene</defName>
     <label>Enlightened</label>
     <description>Carriers of this gene are blessed by magic, able to harness its power without suffering the full side-effects. Psychic sensitivity is increased by 50% and any magic ability used only incurs half the normal arcane weakness.</description>
-    <iconPath>Textures/GeneIcons/RoM_Genes/TraitsMages</iconPath>
-    <displayCategory>RoM-Mage</displayCategory>
+
     <displayOrderInCategory>5</displayOrderInCategory>
     <forcedTraits>
       <li>
@@ -124,12 +119,11 @@
     </symbolPack>
   </GeneDef>
 
-  <GeneDef>
+  <GeneDef ParentName="CHTech_RoM_trait_mage">
     <defName>TM_CursedTD_Gene</defName>
     <label>Cursed</label>
     <description>Carriers of this gene are cursed by magic - tormented by the constant, burning rush of power through their being, and can only gain relief by expending arcane energy. They will slowly accumulate arcane weakness up until they would become catatonic, and may become catatonic at any point while at this threshold. Using magical abilities that would normally incur arcane weakness will instead proportionally reduce arcane weakness, as well as the effects of the curse.</description>
-    <iconPath>Textures/GeneIcons/RoM_Genes/TraitsMages</iconPath>
-    <displayCategory>RoM-Mage</displayCategory>
+
     <displayOrderInCategory>6</displayOrderInCategory>
     <forcedTraits>
       <li>
