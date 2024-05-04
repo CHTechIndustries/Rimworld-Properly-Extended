@@ -12,7 +12,6 @@
 		<li IfModActive="sarg.alphagenesvfei">1.5/Defs/XenotypeDefs/Mod_Dependent/AlphaGenes_Insectoid</li>
 		<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
 		<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li>
-		<li IfModActive="kure.arom">1.5/Mods/RoM/RoM_Kure</li>
 		<!-- <li IfModActive="biotexpans.mammalia">1.5/Mods/BiotechExpansion_Mammalia</li> -->
 		<!-- <li IfModActive="biotexpans.mythic">1.5/Mods/BiotechExpansion_Mythic</li> -->
 		<!-- <li IfModActive="vanillaracesexpanded.archon">1.5/Mods/VanillaRacesExpanded_Archon</li> -->
