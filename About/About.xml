@@ -81,6 +81,7 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<li>superherogenesbase.mod</li>
 		
 		<!-- soft compat, adds more features -->
+		<li>torann.arimworldofmagic</li>
 		<li>aelanna.endling</li>
 	</loadAfter>
 	<loadBefore>
