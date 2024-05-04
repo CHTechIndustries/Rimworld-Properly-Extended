@@ -75,4 +75,3 @@ added ebsg slayer gens as incompat
 fixed some requirments
 added in a few missing load order indices
 added RoM Compat
-integrated in Rimworld of Magic Genes by Bleeding Eyes Mcgee ( https://steamcommunity.com/workshop/filedetails/?id=2907470506 )
