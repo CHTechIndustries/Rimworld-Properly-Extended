@@ -74,3 +74,4 @@ added Pathfinding Framework as requirment
 added ebsg slayer gens as incompat
 fixed some requirments
 added in a few missing load order indices
+added RoM Compat
