@@ -14,8 +14,8 @@
 NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any ideas for better ones, please say!
 
 Finally, give big thanks to:
-Bleeding Eyes Mcgee, for the RoM traits section, almost used it identically!
-Touchnir, for making the original RoM Classes mod. I used it as a basis to bypass some of the tedium of making hundreds of genes.
+	Bleeding Eyes Mcgee, for the RoM traits section, which has been merged into here!
+	Touchnir, for making the original RoM Classes mod. I used it as a basis for the class genes in this mod
 </description>
 	<modDependencies>
 		<li>
@@ -92,6 +92,7 @@ Touchnir, for making the original RoM Classes mod. I used it as a basis to bypas
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
 	</loadBefore>
 	<incompatibleWith>
 		<!-- obsolete: these mods are obsolete/ now cause erros. Basically, mods that have been merged into this mod -->
