@@ -90,3 +90,7 @@ made (using the parent) kures use a "may require", so if not there it's inactive
 made What's that Mod always load lower than this mod
 improved load order so all the "commented out" ones are one comment, as they are commented out for the same reason. Now I can collapse them all at once if desired!
 due to someones comment elsewhere, was inspired to put the RoM genes into the 1.4 folder, so technically another 1.4 update!
+
+2.1.1
+re-wrote description from the ground-up
+added in a tabula-rasa based changelog
