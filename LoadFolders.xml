@@ -11,7 +11,6 @@
 		<li>/</li>
 		<li>1.5</li>
 		<li>Common</li>
-		<li>Common/Changelog</li> <!-- changelog using Tabula Rausa. very important. doesn't use "may reqrie" as this mod requries a mod which requires tabula rausa -->
 		
 		<!-- content adding things -->
 		<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
