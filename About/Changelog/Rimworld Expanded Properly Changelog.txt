@@ -87,7 +87,7 @@ used a parent gene to lessen the necessary components
 did some file mergeing
 made (using the parent) kures use a "may require", so if not there it's inactive. if ROM isn't there, the whole thing is inactive. this allows my mod to work without requiring RoM or Kures, and allows me to easily add more classes in the future if necessary
 =======
-re-wrote description from the ground-up
-added in a tabula-rasa based changelog too
 made What's that Mod always load lower than this mod
 improved load order so all the "commented out" ones are one comment, as they are commented out for the same reason. Now I can collapse them all at once if desired!
+
+due to someones comment elsewhere, was inspired to put the RoM genes into the 1.4 folder, so technically another 1.4 update!
