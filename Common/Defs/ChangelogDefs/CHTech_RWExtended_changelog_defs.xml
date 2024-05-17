@@ -33,513 +33,312 @@ notes:
 
 <!-- version 1.0.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_log_20231126_1</defName>
-		<date>2023/11/26</date>
+		<defName>CHTech_RW_expanded_20231214_1</defName>
+		<date>2023/12/14</date>
 		<banner />
 		<contentList>
 			<li>
 				<header>Released</header>
-				<text>Uploaded, base file structure and about folder set up, nothing else there as that's all of import that there is</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 1.0.1 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20231126_2</defName>
-		<date>2023/11/26</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Minor Format</header>
-				<text>Removed core as requirment. I think that means I used to have my mod require "core", but it no longer does? not possitive, been a while</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 1.0.2 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20231126_3</defName>
-		<date>2023/11/26</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Minor Format</header>
-				<text>Put changelog in
-				
-edited publisher+ XML
-
-corrected location of changelog</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 1.1.0 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20231127</defName>
-		<date>2023/11/27</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>DLC's</header>
-				<text>Removed Ideology, Biotech, and Royalty as reqruiments. Basically "offloaded" them to where my mods that need those DLC's will load them, and the core will dynamicaly utilize them</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>	
-<!-- version 1.1.1 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20231202_1</defName>
-		<date>2023/12/02</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Background</header>
-				<text>Made the mod properly enforce mod orders
-Added in rimpy lists of what I'm using to test my mods, so anyone can access them if desired, and as a note for myself</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-	<!-- version 1.1.2 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20231202_2</defName>
-		<date>2023/12/02</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Pre-Reqs</header>
-				<text>added XML Extensions as a mod reqreuiment</text>
-			</li>
-			<li>
-				<header>About File</header>
-				<text>removed SuperEngine and DopeUnicorn909 as "authors", as they haven't done anything, and had been put there as I figured they will eventually. WIll put them back in if needed
-fixed about file to include a link to github wiki (I think)
-fixed mod version in the file</text>
-			</li>
-			<li>
-				<header>Mod Page</header>
-				<text>dramatically improved steam description</text>
-			</li>
-			<li>
-				<header>background(mod folder)</header>
-				<text>improved folder structure</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-
-<!-- version 1.2.0 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240311_1</defName>
-		<date>2024/03/11</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Pre-Reqs</header>
-				<text>added XML Extensions as a mod reqreuiment</text>
-			</li>
-			<li>
-				<header>About File</header>
-				<text>removed SuperEngine and DopeUnicorn909 as "authors", as they haven't done anything, and had been put there as I figured they will eventually. WIll put them back in if needed
-fixed about file to include a link to github wiki (I think)
-fixed mod version in the file</text>
-			</li>
-			<li>
-				<header>Mod Page</header>
-				<text>dramatically improved steam description</text>
-			</li>
-			<li>
-				<header>background(mod folder)</header>
-				<text>improved folder structure</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 1.2.1 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240311_2</defName>
-		<date>2024/03/11</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Minor Fix</header>
-				<text>Added a folder that should make future updates easier, should have no effect on ya'll but, who knows
-fixed the rimpy lists
-published it correctly using Publisher Plush, as some genius (not going to name names CTH2004) forgot to check if it was enabled
-				</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-
-<!-- version 2.0.0 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240324</defName>
-		<date>2024/03/24</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>1.5?</header>
-				<text>added "1.5" to compatible versions. nothing in there yet, but it's prepared. 
-changed the ID, which could easily break things	</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-
-<!-- version 2.0.1 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240412_1</defName>
-		<date>2024/04/12</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Minor Changes</header>
-				<text>Updated some reqruiments
-removed outdated reqruiment
-put better mod in place of another for a reqruiment
-started moveing some things around in the background
+				<text>Uploaded base file.
 </text>
 			</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
-<!-- version 2.0.2 -->
+<!-- version 1.0.1 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240412_2</defName>
+		<defName>CHTech_RW_expanded_20231214_2</defName>
+		<date>2023/12/14</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>1.0.1</header>
+				<text>Wrote desciption
+modified about file
+made FAQ section 
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.0.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20231216</defName>
+		<date>2023/12/16</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>1.0.2</header>
+				<text>Improved description more
+improved FAQ
+Made Public
+Altered Xenotypes expanded and More to fit this better (description, FAQ, and requirments)
+made it use Super Hero Genes: Base
+added incompatibilities
+
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.1.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20231221</defName>
+		<date>2023/12/21</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>1.1.0</header>
+				<text>Improved about files
+added a note about placeholder icons (I put it on the steam description well before this update, so it's more like "V 1.0.2-b"
+Added my first custom gene-set ("Bio-Stability")
+Added some more to steam description
+Updated FAQ
+Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.1.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20231222</defName>
+		<date>2023/12/22</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>1.1.1</header>
+				<text>Added "Endling" gene for the Endling: Last of their kind mod
+
+Started work on Wiki
+Mentioned Wiki on About File
+Made sure link worked
+Add "feature summary" discussion to steam
+Add link to said summary in steam
+Completely re-designed discussion
+Made a document to store ideas for improvments to the steam discussions
+
+Decreased size of some icons that where the wrong size
+Put all those into "Base Icons"
+Moved "Endling" into it's own "base icon" folder. Not sure if it's a benificial change, might be changed one day
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.1.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20240115</defName>
+		<date>2024/01/15</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>1.1.2</header>
+				<text>Found out I forgot to update the version number. Well, changeing it is a new version, so... it's fixed in 1.1.2
+Added a ".branch log" folder so I can keep track of changes done in seperate beta branches, without messing with the changelog
+added in folders that will be needed in the future, to allow easier mergeing
+made description also mention the steam changelog
+added in a debug category for me to easily access genes I'm working on. Hopefully that helps development some
+Fixed author to include the The Dynamic Trio
+Removed the entire EBSG series as a requirment, as I'm not using those genes as much as I thought. THey are still going to be the most integrated of mods, so... definitly a 100% recommendation!
+Altered FAQ and Description to match requirment changes
+Added a discussion that is just a list of optional dependencies
+Modified the other mod to require the EBSG series
+Integrated with Visual Studio for easier coding and updates
+Made a note of Vanilla Expanded
+
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.2.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20240324</defName>
+		<date>2024/03/24</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>1.2.0</header>
+				<text>Last "major" update for 1.4 (most likley)
+Added in the folder for 1.5 (albiet with nothing but a text file)
+Transfered in the xenos from my other mod, mergeing the two into one!
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 2.0.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20240412</defName>
 		<date>2024/04/12</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>2.02</header>
-				<text>Updated other mods to 1.5, added to the lsits
-fixed a link
-remembered to change the version number (so it basically skipped one, going from 2.0.0 to 2.0.2 in the about file
-fixed a file namefixed a mistype that broke the mod
-remembered to update changelog</text>
+				<header>2.0.0</header>
+				<text>Updated to 1.5 (not compatible with 1.4)
+Changed ID's of features (hence the 1.4 incompatibilities)
+Changed ID
+fixed name issues
+changed description, as the goal for this mod has been refined
+removed Royalty as a hard compat, as really Biotech is the only DLC I'm using as a "core" component, the rest should be able to be made as either
+	A) Soft compat
+	B) In extreme cases, addon mod
+fixed an indent (format issue)
+Removed un-used placeholder folders from 1.4
+</text>
 			</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
-<!-- version 2.0.3 -->
+<!-- version 2.1.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240412_3</defName>
-		<date>2024/04/12</date>
+		<defName>CHTech_RW_expanded_20240506</defName>
+		<date>2024/05/06</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>v2.0.3</header>
-				<text>put half-finished mods in here to slowly transfer around to where they should go
-finished mod lists</text>
-			</li>
+				<header>changes</header>
+				<text>updated about file
+added Pathfinding Framework as requirment
+added ebsg slayer gens as incompat
+fixed some requirments
+added in a few missing load order indices
+made What's that Mod always load lower than this mod
+improved load order so all the "commented out" ones are one comment, as they are commented out for the same reason. Now I can collapse them all at once if desired!
+</text>
+</li>
+<li>
+<header>Features</header>
+<text>added compat with Rimworld of Magic, by (with permission) integrating Rimworld of Magic Genes, and Rimworld of Magic Class Genes. Completley optional dependency
+
+P.S. due to a person commenting about issues with 1.4, I was inspired to put this into the 1.4 area as well, so technically another 1.4 update
+</text>
+</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- version 2.0.4 -->
+<!-- version 2.1.1 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240426</defName>
-		<date>2024/04/26</date>
+		<defName>CHTech_RW_expanded_20240517</defName>
+		<date>2024/05/17</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>2.0,4</header>
-				<text>added a length-checker spreadsheet (technically not impurtatnt as it's not uploaded due to publisher plus, but you never know)
-improved folder structure
-updated descriptionr
-removed grimms unlimited
-added Tweaks Galore and Tabula Rasa
-added frameworks into the load order for refernece of future ideas</text>
-			</li>
+				<header>changes</header>
+				<text>continued on new description (hopefully it will be done before the next update
+added in tabula Rasa based changelog
+</text>
+</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 2.0.5 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240427_1</defName>
-		<date>2024/04/27</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>2.0.5</header>
-				<text>removed tabula Rasa
-drastically improved description
-slightly altered CE mention in FAQ
-added tabula rausa to "recommended mods"
-added mod icon
-found publisher plus didin't work, tryed to get it to work</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 2.0.6 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240427_2</defName>
-		<date>2024/04/27</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>2.0.7</header>
-				<text>fixed with publisher plus. stupid msitake on my part</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 2.0.7 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240501</defName>
-		<date>2025/05/01</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>2.0.7</header>
-				<text>modified about file to have less extraneus parts
-mentioned un-un-limmited and recommended it
-put un-un-limmited in order</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 2.0.8 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240503</defName>
-		<date>2024/05/03</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>2.0.8</header>
-				<text>added in the code of Un-Un-Limmited (with permission and credit)
-removed tweaks galore (will be soft compat)
-altered about file to have credit to the author of un-un-limmited
-altered description for the same reason
-removed unescessary "do not upload" entry
-fixed a gramaticall errorcodemade incompatible with Un-Limmited and Un-Unlimmited as they are similar, and could cause errors</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>Un-Un-Limmited's Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3235289492</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 2.0.9 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTechCore_20240509</defName>
-		<date>2024/05/09</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Version 2.0.9</header>
-				<text>Made it load "What's That Mod" bellow itself
-added a Tabula Rasa Based Changelog (your reading it)
-made it reqrire Tabula Rasa. sorry, too many features for my to not
-slightly modified about file
-started using "releases" in github</text>
-			</li>
-			<li>
-				<header>Soon</header>
-				<text>there will be a delay before the description changes to match some of the alterations from 2.0.9. The description should be adjusted within 2 weeks (about)</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
