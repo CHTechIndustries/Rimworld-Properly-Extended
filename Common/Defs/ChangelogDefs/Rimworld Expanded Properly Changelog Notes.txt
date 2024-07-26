@@ -94,3 +94,7 @@ due to someones comment elsewhere, was inspired to put the RoM genes into the 1.
 2.1.1
 re-wrote description from the ground-up
 added in a tabula-rasa based changelog
+
+2.1.2
+added in infastructure (not the content, but the infastructure, so adding the content will be easier) for the soft compat with OP Thingamajings Pack
+updated about file with better wording
