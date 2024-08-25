@@ -1,8 +1,34 @@
-Rimworld genes expanded does, get this, add new genes!
+[h1]Rimworld Extended: Properly[/h1]
+[hr][/hr]
+This mod has the deceptivly "semi-simple" goal of [u]Extending Rimworld[/u] and other [u]Rimworld Mods[/u], how [i]we[/i] think it should be done!
 
-Now, this mod adds both genes of my own design, and genes that require other mods and work with them. The whole mod is designed to (try) to fit in easily, as well as be both simple, [i]and[/i] complex. Because of that, the features are already too much too write. So, I put a (summary) of the features in [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4034726898984604842/]This discussion[/url]. If you have any questions, don't hesitate to ask. While anywhere works, that summary discussion is also designed as the questions discussion, so I will be checking it more. (still will look at the comments though). It is also highly compatible with all of the Biotech Style Genes mods by Alite (look at [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4034727620345270147/]"Compatible Mods"[/url]). Not the indipendent ones, as that could cause duplicates and errors, so it's only compatible with the All in One's
+So, what does that entail? Glad you asked[olist]
+[*]New Genes
+[*]Soft Compatibility with many a mod
+[*]more (takeing all suggestions!)
+[/olist]
+[hr][/hr]
+So, there are a lot of things in this mod, and there's not enough space. To give you a gist and show you what mods are optional dependencies (see the[url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4034727620345270147/]Compatible Mods[/url] for details)
+
+Okay, what was I saying? oh, right, soft compatibilities: [olist]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3011354315]Endling (Last Of Their Kind)[/url]- adds a gene for it
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1201382956]A RimWorld of Magic[/url]- class genes, and trait genes
+	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236103336]Kure's Rimworld of Magic Class Expansion Pack[/url]- class genes
+[*]And more comming soon![/olist]
+[hr][/hr]
+Do note, some of the content is not 100% my own, so, credit where credit is due: [olist]
+[*]Bleeding Eyes for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2907470506]RoM Genes[/url]. It's ported in [i]almost[/i] one-for-one
+[*]Touch-nir for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3023584656]All Rimworld of Magic Class Genes[/url], which I used as a basis for my class genes (although mine are soft requriments)
+[*]A RimWorld of Magic, which I am directly use the textures of for the genes mentioned in items 1 and 2, so I don't need to include those textures too
+[/olist]
+
+
+
+So, there is a lot of things in this mod, and not enough room on the Workshop Item Page (that's why there is a discusion specifically for a[url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4034726898984604842/]general summary[/url] of info, as well as an (eternally WIP) [url=https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki]Github-based wiki[/url] (also has stuff on notes for this mod, for those who want to extend the extension. Just do it [i]properly[/i], okay?) If you have any questions, don't hesitate to ask. While anywhere works, that summary discussion is also designed as the questions discussion, so I will be checking it more. (still will look at the comments though). 
+
+). Not the indipendent ones, as that could cause duplicates and errors, so it's only compatible with the All in One's
 If you want a more in-depth explanation/ description, check out the (highly Work in Progress) [url=https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki]Rimworld Genes Extended[/url] wiki. 
-As for a changelog, you can check out the steam changelog [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3114130835]Here[/url]. however, the wiki contains a [i]much[/i] better [url=https://github.com/Dynamic-Trio/Rimworld-Genes-Extended/wiki/Changelog]Changelog[/url].
+As for a changelog, you can check out the steam changelog [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3114130835]Here[/url], or subscribe to[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094]Tabula-Rasa[/url] for an in-game, more in-depth update log!
 
 Now, for the the general, long-term plan for this mod seris is to have it multi-part, going like this:
 [olist]
@@ -24,13 +50,7 @@ Now, for the the general, long-term plan for this mod seris is to have it multi-
 [*]More?
 [/olist]
 
-Currently, some of the features that are in the works include: [olist]
-[*]genes for the mod "Godly Trait Genes".
-[*]simple genes for Super Hero Genes. That quite possibly will also be my first "Rimworld Genes Integrated" module
-[/olist]
+
 And, here's the [url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4032474633912009568/]FAQ[/url] (don't worry. I made it [i]quite[/i] enjoyable to read, imo.
 
-[strike]Also, if you want more xenos based off of this mod, look no further than [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url], the first mod to use this as a requirment! It is not as high a priority update-wise, but it shall still be updated to utilize new features from any and all these mods, as well as many others![/strike] Now Integrated!
-
-[b]NOTE: THE ICONS IN THIS MOD ARE [i]PLACEHOLDERS[/i], UNTILL I CAN FIGURE OUT HOW TO MAKE "GOOD" ICONS, AND HAVE TIME TO DO THAT[/b]
-P.S. one of the more recent recent updates has caused some red errors. They appear to be harmless. I think... 
+[b]NOTE: THE ICONS IN THIS MOD ARE [i]PLACEHOLDERS[/i], UNTILL I CAN FIGURE OUT HOW TO MAKE "GOOD" ICONS, AND HAVE TIME (and the desire) TO DO THAT[/b] 

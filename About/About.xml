@@ -4,7 +4,7 @@
 	<author>CTH2004</author>
 	<packageId>CHTech.RimworldExtended.main</packageId>
 	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
-	<modVersion>2.1.0</modVersion>
+	<modVersion>2.1.2</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 		<li>1.5</li>
@@ -12,6 +12,12 @@
 	<description>Rimworld Properlly Extended is a mod that's goal is to add in modular, enjoyable extensions. The ultimiate goal is "features that are fun, and fit in". So, it extends rimworld, but trys to keep it true to the concept of rimworld, to an extent. For a general feature summary, there is a steam discussion for that. However, if you want more info, you should check the (Work in progress) Wiki.
 
 NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any ideas for better ones, please say!
+
+Credit:
+	1. Bleeding Eyes Mcgee, for the RoM traits section, which has been merged into here
+	2. Touchnir, for making the original RoM Classes mod, which was used as a basis (very few edits) for my version.
+	3. Alite for the More Biotech Style Genes
+
 </description>
 	<modDependencies>
 		<li>
@@ -81,11 +87,15 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<li>superherogenesbase.mod</li>
 		
 		<!-- soft compat, adds more features -->
+		<li>torann.arimworldofmagic</li>
 		<li>aelanna.endling</li>
+		<li>kure.arom</li>
+		<li>chtech.opthings.pack</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
 	</loadBefore>
 	<incompatibleWith>
 		<!-- obsolete: these mods are obsolete/ now cause erros. Basically, mods that have been merged into this mod -->
@@ -94,6 +104,8 @@ NOTE: THE (majority of) ICONS IN THIS MOD ARE PLACEHOLDERS, if you have any idea
 		<!-- merged: mods that I have been given permission to merge into this one, leading to almost/ completly identical code, ergo incompatible -->
 		<li>com.torodo.godlytraits</li>
 		<li>com.torodo.godlyweapons</li>
+		<li>rom.genes</li>
+		<li>all.rom.cla.genes</li>
 		
 		<!-- other requirments add same features, so these are redundent. Technically no "errors", but... -->
 		<li>ebsg.bleeding</li>
