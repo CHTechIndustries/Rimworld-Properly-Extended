@@ -343,4 +343,64 @@ added in tabula Rasa based changelog
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- version 2.1.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20240517</defName>
+		<date>2024/05/17</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>changes</header>
+				<text>continued on new description (hopefully it will be done before the next update
+added in tabula Rasa based changelog
+</text>
+</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+	<!-- 2.2.0 -->
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20241124</defName>
+		<date>2024/11/24</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Integrated Gender Ratio Genes</header>
+				<text>With the authors permission, the mod Gender Ratio Genes (which I ported a while ago, and is linked in this changenote), has been integrated in
+the ID's where kept the same, so they are also marked as incompatible.
+</text>
+		</li>
+		<li>
+			<header>Other Changes</header>
+			<text>I also modified the about file to mention the author of Gender Ratio Genes as an author, and edited it some more</text>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>Workshop of Ported Mod</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
