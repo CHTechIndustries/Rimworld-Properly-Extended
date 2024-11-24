@@ -1,1 +1,1 @@
-remember: gender ratio genes should be in here. figure out reason it isn't, and fix
+as the error was related to something else, checking to see if moveing these back to my organization strategy is safe.
