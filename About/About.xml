@@ -80,7 +80,7 @@ Credit:
 			<packageId>ebs.abilities</packageId>
 			<displayName>Expanded Biotech Style Abilities</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3355669039</steamWorkshopUrl>
-
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>CHTech.devOrder</li>
