@@ -74,6 +74,12 @@ Credit:
 			<displayName>Pathfinding Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3070914628</steamWorkshopUrl>
 		</li>
+		
+		<!-- only 1.5+, might make it so that in 1.4 it won't ask for these mods -->
+		<li>
+			<packageId>ebs.abilities</packageId>
+			<displayName>Expanded Biotech Style Abilities</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3355669039</steamWorkshopUrl>
 
 	</modDependencies>
 	<loadAfter>
