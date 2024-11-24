@@ -33,6 +33,10 @@ Note from the porter 3: as this is a 1-for-1 port, I will only be fixing any bug
 		<li>neronix17.toolbox</li>
 	</loadAfter>
 	<incompatibleWith>
+<<<<<<< Updated upstream
+=======
+		<li>chtech.rimworldextended.main</li>
+>>>>>>> Stashed changes
 	</incompatibleWith>
 </ModMetaData>
 
@@ -42,4 +46,8 @@ Note from the porter 3: as this is a 1-for-1 port, I will only be fixing any bug
 		3. made harmony reqruiered by the mods about file as well
 		4. Made biotech reqrired by the mods about file
 		5. add a "mod version"
+<<<<<<< Updated upstream
+=======
+		6. made incompatible with my main mod, as they have officially been unofficially merged
+>>>>>>> Stashed changes
 	-->
