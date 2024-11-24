@@ -4,7 +4,7 @@
 	<author>CTH2004, Tuarre</author>
 	<packageId>CHTech.RimworldExtended.main</packageId>
 	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
-	<modVersion>2.1.2</modVersion>
+	<modVersion>2.2.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 		<li>1.5</li>
@@ -17,6 +17,7 @@ Credit:
 	1. Bleeding Eyes Mcgee, for the RoM traits section, which has been merged into here
 	2. Touchnir, for making the original RoM Classes mod, which was used as a basis (very few edits) for my version.
 	3. Alite for the More Biotech Style Genes
+	4. Tuarre for Gender Ratio Genes, and permission to implement it into my mod!
 
 </description>
 	<modDependencies>
