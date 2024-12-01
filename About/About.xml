@@ -17,6 +17,7 @@ Credit:
 	1. Bleeding Eyes Mcgee, for the RoM traits section, which has been merged into here
 	2. Touchnir, for making the original RoM Classes mod, which was used as a basis (very few edits) for my version.
 	3. Alite for the More Biotech Style Genes
+		3b. the patch that my Piercing Spine patch is based off of, and the concept that will one day be applied to it
 	4. Tuarre for Gender Ratio Genes, and permission to implement it into my mod!
 
 </description>
@@ -98,6 +99,7 @@ Credit:
 		<li>aelanna.endling</li>
 		<li>kure.arom</li>
 		<li>chtech.opthings.pack</li>
+		<li>winglessflight.gene</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
