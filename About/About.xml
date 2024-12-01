@@ -4,7 +4,7 @@
 	<author>CTH2004, Tuarre</author>
 	<packageId>CHTech.RimworldExtended.main</packageId>
 	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
-	<modVersion>2.2.0</modVersion>
+	<modVersion>2.2.1</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 		<li>1.5</li>
@@ -158,5 +158,6 @@ Credit:
 		<li>ebsg.food</li>
 		<li>ebsg.slayer</li>
 		<li>tuarre.gengenderratio</li>
+		<li>sniperspine.mod</li>
 	</incompatibleWith>
 </ModMetaData>
