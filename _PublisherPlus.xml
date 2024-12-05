@@ -7,7 +7,5 @@
 	<exclude>SECURITY.md</exclude>
 	<exclude>About\Incomplete</exclude>
 	<exclude>Textures\.baseIcons</exclude>
-	<exclude>INTEGRATION\Partially Integrated<exclude>
-	<exclude>INTEGRATION\Conceptual</exclude>
   </Excluded>
 </Configuration>
