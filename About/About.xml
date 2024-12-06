@@ -83,6 +83,8 @@ Credit:
 			<displayName>Expanded Biotech Style Abilities</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3355669039</steamWorkshopUrl>
 		</li>
+		<!-- big and small genes -->
+		<!-- better gene inheritance -->
 	</modDependencies>
 	<loadAfter>
 		<li>CHTech.devOrder</li>
