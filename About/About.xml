@@ -83,7 +83,11 @@ Credit:
 			<displayName>Expanded Biotech Style Abilities</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3355669039</steamWorkshopUrl>
 		</li>
-		<!-- big and small genes -->
+		<li>
+			<packageId>redmattis.bigsmall.core</packageId>
+			<displayName>Big and Small - Genes & More</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2920751126</steamWorkshopUrl>
+		</li>
 		<!-- better gene inheritance -->
 	</modDependencies>
 	<loadAfter>
@@ -96,7 +100,6 @@ Credit:
 		<li>superherogenes.villains</li>
 		<li>superherogenesbase.mod</li>
 		<li>redmattis.bettergeneinheritance</li>
-		<li>redmattis.bigsmall.core</li>
 		
 		<!-- soft compat, adds more features -->
 		<li>torann.arimworldofmagic</li>
