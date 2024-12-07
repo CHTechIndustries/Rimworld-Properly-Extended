@@ -83,6 +83,12 @@ Credit:
 			<displayName>Expanded Biotech Style Abilities</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3355669039</steamWorkshopUrl>
 		</li>
+		<!-- big and small genes -->
+		<li>
+			<packageId>redmattis.bettergeneinheritance</packageId>
+			<displayName>Better Gene Inheritance</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3046776238</steamWorkshopUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>CHTech.devOrder</li>
