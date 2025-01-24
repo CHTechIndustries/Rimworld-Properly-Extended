@@ -51,11 +51,11 @@ Credit:
 			<displayName>Big and Small + Prerequisites Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl>
 		</li>
-		<li>
+		<!-- <li>
 			<packageId>redmattis.bettergeneinheritance</packageId>
 			<displayName>Better Gene Inheritance</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3046776238</steamWorkshopUrl>
-		</li>
+		</li> -->
 		<li>
 			<packageId>sarg.alphagenes</packageId>
 			<displayName>Alpha Genes</displayName>
