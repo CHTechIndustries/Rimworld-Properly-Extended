@@ -343,34 +343,8 @@ added in tabula Rasa based changelog
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- version 2.1.1 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20240517</defName>
-		<date>2024/05/17</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>changes</header>
-				<text>continued on new description (hopefully it will be done before the next update
-added in tabula Rasa based changelog
-</text>
-</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
 	<!-- 2.2.0 -->
-		<TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef>
 		<defName>CHTech_RW_expanded_20241124</defName>
 		<date>2024/11/24</date>
 		<banner />
@@ -384,6 +358,7 @@ the ID's where kept the same, so they are also marked as incompatible.
 		<li>
 			<header>Other Changes</header>
 			<text>I also modified the about file to mention the author of Gender Ratio Genes as an author, and edited it some more</text>
+		</li>
 		</contentList>
 		<links>
 			<li>
@@ -398,7 +373,37 @@ the ID's where kept the same, so they are also marked as incompatible.
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- 2.2.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250124</defName>
+		<date>2025/01/24</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>changes</header>
+				<text>removed pathfinding framework as a requirment as it's causeing errors, and isn't needed
+fixed an error in the changelog that was causeing errors
+</text>
+</li>
+		<li>
+			<header>Possible Change</header>
+			<text>There is a feature i'm working on, and I am not sure if it got merged. It wasn't the finished one, so... well, who knows, you might get a surprise feature</text>
+		</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
