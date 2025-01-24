@@ -71,11 +71,6 @@ Credit:
 			<displayName>Expanded Biotech Style Genes - All in One</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>pathfinding.framework</packageId>
-			<displayName>Pathfinding Framework</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3070914628</steamWorkshopUrl>
-		</li>
 		
 		<!-- only 1.5+, might make it so that in 1.4 it won't ask for these mods -->
 		<li>
