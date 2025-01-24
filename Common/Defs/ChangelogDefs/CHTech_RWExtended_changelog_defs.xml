@@ -403,4 +403,30 @@ the ID's where kept the same, so they are also marked as incompatible.
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+<!-- 2.2.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250124</defName>
+		<date>2025/01/24</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>changes</header>
+				<text>continued on new description (hopefully it will be done before the next update
+added in tabula Rasa based changelog
+</text>
+</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
