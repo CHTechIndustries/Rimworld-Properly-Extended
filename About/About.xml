@@ -96,7 +96,7 @@ Credit:
 		<li>redmattis.bettergeneinheritance</li>
 		<li>redmattis.bigsmall.core</li>
 		
-		<!-- soft compat, adds more features -->
+		<!-- soft compat, adds more features (or will) -->
 		<li>torann.arimworldofmagic</li>
 		<li>aelanna.endling</li>
 		<li>kure.arom</li>
@@ -117,6 +117,8 @@ Credit:
 		<li>com.torodo.godlyweapons</li>
 		<li>rom.genes</li>
 		<li>all.rom.cla.genes</li>
+		<li>tuarre.gengenderratio</li>
+
 		
 		<!-- other requirments add same features, so these are redundent. Technically no "errors", but... -->
 		<li>ebsg.bleeding</li>
@@ -161,7 +163,6 @@ Credit:
 		<li>ebsg.biomes</li>
 		<li>ebsg.food</li>
 		<li>ebsg.slayer</li>
-		<li>tuarre.gengenderratio</li>
 		<li>sniperspine.mod</li>
 	</incompatibleWith>
 </ModMetaData>
