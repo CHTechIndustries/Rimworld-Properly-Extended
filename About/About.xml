@@ -91,7 +91,7 @@ Credit:
 		<li>petre27.biotechcapacitorgenes</li>
 		<li>petre27.biotechcapacitorgenesextra</li>
 		<li>mlem.metaadjusternew</li>
-		<li>superherogenes.villains</li>
+
 		<li>superherogenesbase.mod</li>
 		<li>redmattis.bettergeneinheritance</li>
 		<li>redmattis.bigsmall.core</li>
@@ -107,6 +107,7 @@ Credit:
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
 		<li>co.uk.epicguru.whatsthatmod</li>
+		<li>gege.customxenotypeexportertoolreupload</li> <!-- the custom xenotype uploader 1.5 port -->
 	</loadBefore>
 	<incompatibleWith>
 		<!-- obsolete: these mods are obsolete/ now cause erros. Basically, mods that have been merged into this mod -->
