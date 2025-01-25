@@ -51,6 +51,11 @@ Credit:
 			<displayName>Big and Small + Prerequisites Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl>
 		</li>
+		<!-- <li>
+			<packageId>redmattis.bettergeneinheritance</packageId>
+			<displayName>Better Gene Inheritance</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3046776238</steamWorkshopUrl>
+		</li> -->
 		<li>
 			<packageId>sarg.alphagenes</packageId>
 			<displayName>Alpha Genes</displayName>
@@ -71,11 +76,6 @@ Credit:
 			<displayName>Expanded Biotech Style Genes - All in One</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>pathfinding.framework</packageId>
-			<displayName>Pathfinding Framework</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3070914628</steamWorkshopUrl>
-		</li>
 		
 		<!-- only 1.5+, might make it so that in 1.4 it won't ask for these mods -->
 		<li>
@@ -93,8 +93,10 @@ Credit:
 		<li>mlem.metaadjusternew</li>
 		<li>superherogenes.villains</li>
 		<li>superherogenesbase.mod</li>
+		<li>redmattis.bettergeneinheritance</li>
+		<li>redmattis.bigsmall.core</li>
 		
-		<!-- soft compat, adds more features -->
+		<!-- soft compat, adds more features (or will) -->
 		<li>torann.arimworldofmagic</li>
 		<li>aelanna.endling</li>
 		<li>kure.arom</li>
@@ -115,6 +117,8 @@ Credit:
 		<li>com.torodo.godlyweapons</li>
 		<li>rom.genes</li>
 		<li>all.rom.cla.genes</li>
+		<li>tuarre.gengenderratio</li>
+
 		
 		<!-- other requirments add same features, so these are redundent. Technically no "errors", but... -->
 		<li>ebsg.bleeding</li>
@@ -159,7 +163,6 @@ Credit:
 		<li>ebsg.biomes</li>
 		<li>ebsg.food</li>
 		<li>ebsg.slayer</li>
-		<li>tuarre.gengenderratio</li>
 		<li>sniperspine.mod</li>
 	</incompatibleWith>
 </ModMetaData>
