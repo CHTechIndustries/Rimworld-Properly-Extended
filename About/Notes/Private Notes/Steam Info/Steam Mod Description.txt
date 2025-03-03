@@ -8,9 +8,19 @@ This mod has the deceptivly "semi-simple" goal of [u]Extending Rimworld[/u] and 
 So, what does that entail? Glad you asked[olist]
 [*]New Genes
 [*]Soft Compatibility with many a mod
-[*]more (takeing all suggestions!)
+[*]more (takeing any [i]and[/i] all suggestions!)
 [/olist]
+[hr][/hr]
+Oh, you want more? well, okay, [i]fine[/i]. I'll give you a summary, that's all! 
+[list]
+[*]There are the Bio-Stabilizer genes, which weaken all stats by "x", except for 1. That other stat is increased, but capped at 100. That way, it takes a lot more to drop it to bellow 100! So, you wanted a functional colonist with a very damaged brain? No? well, now you can!
+[*]There are some genes manipulateing the psyfocus costs with Vanilla Psycasts Expanded
+[*]If you have Endling: Last of their Kind, a gene that adds that. Now you can have kids inherit haveing no liveing family!
+[*]Pierceing Spine has an increased range
+[*]that's all (For now)...
+[/list]
 
+Oh, still not enough? Well, there's no room here, so... uh, [strike][url=https://steamcommunity.com/workshop/filedetails/discussion/3114130835/4034726898984604842/]try here[/url][/strike] [b]Coming Soon-ish[/b]
 [hr][/hr]
 Now, I must admit, some of the content is not 100% my ownsome of the content is not 100% my own, so, credit where credit is due: [olist]
 [*]Bleeding Eyes for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2907470506]RoM Genes[/url]. It's ported in [i]almost[/i] one-for-one
