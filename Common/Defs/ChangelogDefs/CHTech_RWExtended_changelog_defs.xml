@@ -417,11 +417,12 @@ fixed an error in the changelog that was causeing errors
 			<li>
 				<header>Workshop</header>
 				<text>Finally updated the steam workshop page
+				Along with that, updated the FAQ page
 </text>
 </li>
 		<li>
-			<header>Possible Change</header>
-			<text>There is a feature i'm working on, and I am not sure if it got merged. It wasn't the finished one, so... well, who knows, you might get a surprise feature</text>
+			<header>VPE Psyfocus Cost Gones</header>
+			<text>Integrated in code based off of GetDonkOn's mod "VPE psycastfocus cost genes", implementing them in my mod</text>
 		</li>
 		</contentList>
 		<links>
