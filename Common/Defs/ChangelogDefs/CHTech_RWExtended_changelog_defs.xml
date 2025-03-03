@@ -415,9 +415,8 @@ fixed an error in the changelog that was causeing errors
 		<banner />
 		<contentList>
 			<li>
-				<header>changes</header>
-				<text>removed pathfinding framework as a requirment as it's causeing errors, and isn't needed
-fixed an error in the changelog that was causeing errors
+				<header>Workshop</header>
+				<text>Finally updated the steam workshop page
 </text>
 </li>
 		<li>
