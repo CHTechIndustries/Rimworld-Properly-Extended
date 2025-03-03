@@ -410,8 +410,8 @@ fixed an error in the changelog that was causeing errors
 	</TabulaRasa.UpdateDef>
 <!-- 2.2.2 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_202503dd</defName>
-		<date>2025/03/dd</date>
+		<defName>CHTech_RW_expanded_20250303</defName>
+		<date>2025/03/03</date>
 		<banner />
 		<contentList>
 			<li>
