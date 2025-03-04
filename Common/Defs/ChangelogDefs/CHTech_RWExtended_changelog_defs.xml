@@ -402,11 +402,6 @@ fixed an error in the changelog that was causeing errors
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
-				<linkLabel>Original Psyfocus Cost Genes</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3048020073</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
 				<linkLabel>GitHub</linkLabel>
 				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
@@ -422,15 +417,19 @@ fixed an error in the changelog that was causeing errors
 			<li>
 				<header>Workshop</header>
 				<text>Finally updated the steam workshop page
-				Along with that, updated the FAQ page
-</text>
-</li>
-		<li>
-			<header>VPE Psyfocus Cost Gones</header>
-			<text>Integrated in code based off of GetDonkOn's mod "VPE psycastfocus cost genes", implementing them in my mod (it requires vanilla psycasts expanded)</text>
-		</li>
+				Along with that, updated the FAQ page</text>
+			</li>
+			<li>
+				<header>VPE Psyfocus Cost Gones</header>
+				<text>Integrated in code based off of GetDonkOn's mod "VPE psycastfocus cost genes", implementing them in my mod (it requires vanilla psycasts expanded)</text>
+			</li>
 		</contentList>
 		<links>
+			<li>
+				<linkLabel>Original Psyfocus Cost Genes</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3048020073</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
 				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
