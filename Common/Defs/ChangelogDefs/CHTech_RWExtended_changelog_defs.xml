@@ -402,11 +402,6 @@ fixed an error in the changelog that was causeing errors
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
-				<linkLabel>Original Psyfocus Cost Genes</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3048020073</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
 				<linkLabel>GitHub</linkLabel>
 				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
@@ -430,6 +425,11 @@ fixed an error in the changelog that was causeing errors
 			</li>
 		</contentList>
 		<links>
+			<li>
+				<linkLabel>Original Psyfocus Cost Genes</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3048020073</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
 				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
