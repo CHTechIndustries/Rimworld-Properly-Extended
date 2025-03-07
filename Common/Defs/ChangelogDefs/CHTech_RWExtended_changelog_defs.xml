@@ -442,4 +442,36 @@ fixed an error in the changelog that was causeing errors
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+<!-- 2.2.3. -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250303</defName>
+		<date>2025/03/03</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Update</header>
+				<text>Fixed some "minor" issues that prevented the genes from working at all
+				
+</text>
+			</li>
+			<li>
+				<header>Fix Changelog</header>
+				<text>Fixed a minor-ish issue in the previous changelog entry (I forgot to putt the source link in)
+				
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.3</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
