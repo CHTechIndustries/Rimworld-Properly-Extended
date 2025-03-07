@@ -1,4 +1,3 @@
 not working; ideas:
 
-1. I'm subscribed to the original mod, which has the same ID's
 2. an issue in the Load Order folder
