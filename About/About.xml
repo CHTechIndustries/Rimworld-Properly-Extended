@@ -111,7 +111,9 @@ Credit where Credit is due:
 		<li>aelanna.endling</li>
 		<li>kure.arom</li>
 		<li>chtech.opthings.pack</li>
-		<li>winglessflight.gene</li
+		<li>winglessflight.gene</li>
+		
+		<li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
