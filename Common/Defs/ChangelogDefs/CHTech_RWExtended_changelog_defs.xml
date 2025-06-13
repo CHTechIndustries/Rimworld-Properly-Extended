@@ -403,7 +403,7 @@ fixed an error in the changelog that was causeing errors
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.2</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -437,7 +437,36 @@ fixed an error in the changelog that was causeing errors
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.1</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.2</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- 2.2.3. -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250412</defName>
+		<date>2025/04/12</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Update Psyfocus Cost Genes</header>
+				<text>Fixed some "minor" issues that prevented the genes from working at all, by altering the path in the load folder</text>
+				<text>Fixed a minor-ish issue in the previous changelog entry (I forgot to put the source link in)</text>
+			</li>
+			<li>
+				<header>Background</header>
+				<text>decreased extraneus and outdated files</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.3</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
