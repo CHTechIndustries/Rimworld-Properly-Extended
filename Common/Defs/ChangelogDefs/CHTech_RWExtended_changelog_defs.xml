@@ -444,24 +444,27 @@ fixed an error in the changelog that was causeing errors
 	</TabulaRasa.UpdateDef>
 <!-- 2.2.3. -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20250412</defName>
-		<date>2025/04/12</date>
+		<defName>CHTech_RW_expanded_202503dd</defName>
+		<date>2025/03/dd</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>Update Psyfocus Cost Genes</header>
-				<text>Fixed some "minor" issues that prevented the genes from working at all, by altering the path in the load folder</text>
-				<text>Fixed a minor-ish issue in the previous changelog entry (I forgot to put the source link in)</text>
+				<header>Update</header>
+				<text>Fixed some "minor" issues that prevented the genes from working at all
+				
+</text>
 			</li>
 			<li>
-				<header>Background</header>
-				<text>decreased extraneus and outdated files</text>
+				<header>Fix Changelog</header>
+				<text>Fixed a minor-ish issue in the previous changelog entry (I forgot to put the source link in)
+				
+</text>
 			</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=311413083</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
