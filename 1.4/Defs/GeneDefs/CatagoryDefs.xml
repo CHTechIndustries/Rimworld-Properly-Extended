@@ -5,9 +5,4 @@
         <label>Bio-Stabilizer</label>
         <displayPriorityInXenotype>499.999</displayPriorityInXenotype>
     </GeneCategoryDef>
-	<GeneCategoryDef>
-        <defName>TdT_Test</defName>
-        <label>Test Genes</label>
-        <displayPriorityInXenotype>10000</displayPriorityInXenotype>
-    </GeneCategoryDef>
 </Defs>
