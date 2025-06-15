@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-  <GeneDef ParentName="CHTech_RoM_class_base">
+  <GeneDef ParentName="CHTech_RoM_class_base"> 
     <defName>TM_SuperSoldier_Gene</defName>
     <label>Super Soldier</label>
     <description>Carriers of this gene are a highly trained Soldiers, specializing in pistol, shotgun, or rifle weapons.</description>
