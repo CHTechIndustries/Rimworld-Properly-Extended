@@ -1,2 +1,3 @@
 prototype
 	-comment out: commenting out the part that needs to be transfered, just to make sure it's the right part
+	-manualy add: manually put exclusion tags into the bottomost bases (what the genes directly connect to), to make sure that haveing tags there will work
