@@ -533,6 +533,14 @@ fixed an error in the changelog that was causeing errors
 				<header>Better Gene Inheritance</header>
 				<text>Now requires better gene inheritance. Yes, it's another reqrirment, but trust me, this one is worth it!</text>
 			</li>
+			<li>
+				<header>Remove Uneeded Files</header>
+				<text>some uneeded files have been removed, (hopefully) decreaseing the size</text>
+			</li>
+			<li>
+				<header>Tracking spine</header>
+				<text>finalized the integration of Tracking Spine. A sort of 1.0 implimentation, it just "never misses" (which is apparently the vanilla behaviour). Later on perhaps some swarming... </text>
+			</li>
 		</contentList>
 		<links>
 			<li>
