@@ -533,6 +533,10 @@ fixed an error in the changelog that was causeing errors
 				<header>Better Gene Inheritance</header>
 				<text>Now requires better gene inheritance. Yes, it's another reqrirment, but trust me, this one is worth it!</text>
 			</li>
+			<li>
+				<header>Remove Uneeded Files</header>
+				<text>some uneeded files have been removed, (hopefully) decreaseing the size</text>
+			</li>
 		</contentList>
 		<links>
 			<li>
