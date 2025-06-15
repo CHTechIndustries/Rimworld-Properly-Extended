@@ -247,7 +247,7 @@
     </symbolPack>
   </GeneDef>
   
-  <GeneDef ParentName="CHTech_RoM_class_base">
+  <GeneDef ParentName="CHTech_RoM_class_base"> <!-- Wayfarer -->
     <defName>TM_Wayfarer_Gene</defName>
     <label>Wayfarer</label>
     <description>carrier of this gene is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. carrier of this gene carefree personality has kept carrier of this gene from developing class abilities. Instead, carrier of this gene has learned to improve a vast number of utility abilities that allow carrier of this gene to adapt to any situation. Wayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long.</description>
@@ -289,7 +289,7 @@
     </symbolPack>
   </GeneDef>
  
- <GeneDef ParentName="CHTech_RoM_class_base">
+ <GeneDef ParentName="CHTech_RoM_class_base"> <!-- Wanderer -->
     <defName>TM_Wanderer_Gene</defName>
     <label>Wanderer</label>
     <description>carrier of this gene is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. carrier carefree personality has kept carrier from developing class abilities. Instead, carrier of this gene has learned to improve on a vast number of utility abilities that allow carrier of this gene to adapt to any situation. Wanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long.</description>
