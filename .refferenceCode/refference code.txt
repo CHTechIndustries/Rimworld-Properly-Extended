@@ -1,1 +1,2 @@
 links to places that have refference code (such as mods I have integrated with permission. the code is in my mod, but links (shortcuts) to those mods are here)
+	note: need to find a better way to integrate into the mod, so shortcuts aren't here (or at least don't publish them). Untill then, this note stays
