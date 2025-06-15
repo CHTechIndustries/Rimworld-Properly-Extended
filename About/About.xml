@@ -93,6 +93,20 @@ Credit where Credit is due:
 			<displayName>Expanded Biotech Style Abilities</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3355669039</steamWorkshopUrl>
 		</li>
+
+		<!-- better inheritance -->
+		<li>
+			<packageId>redmattis.bettergeneinheritance</packageId>
+			<displayName>Better Gene Inheritance</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3046776238</steamWorkshopUrl>
+		</li>
+
+		<!-- big and small genes -->
+	<!--	<li>
+			<packageId>redmattis.bigsmall.core</packageId>
+			<displayName>Big and Small - Genes & More</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2920751126</steamWorkshopUrl>
+		</li> -->
 	</modDependencies>
 	<loadAfter>
 		<li>CHTech.devOrder</li>
@@ -103,7 +117,6 @@ Credit where Credit is due:
 		<li>mlem.metaadjusternew</li>
 
 		<li>superherogenesbase.mod</li>
-		<li>redmattis.bettergeneinheritance</li>
 		<li>redmattis.bigsmall.core</li>
 		
 		<!-- soft compat, adds more features (or will) -->
