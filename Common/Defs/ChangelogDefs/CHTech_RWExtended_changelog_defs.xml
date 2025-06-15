@@ -523,4 +523,28 @@ fixed an error in the changelog that was causeing errors
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+			<!-- 2.3.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250615b</defName>
+		<date>2025/06/15</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Better Gene Inheritance</header>
+				<text>Now requires better gene inheritance. Yes, it's another reqrirment, but trust me, this one is worth it!</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.3.2</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
