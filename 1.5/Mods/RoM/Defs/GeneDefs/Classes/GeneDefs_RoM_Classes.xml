@@ -317,12 +317,16 @@
     <iconPath>Other/ClassTextures/wayfarerFlame</iconPath> <!-- icon plan: make one that has both the wayfarer and the wanderer flame on it, for now this is fine-ish -->
 
     <displayOrderInCategory>12</displayOrderInCategory>
-    <forcedTraits>
-      <li>
-        <def>TM_Wayfarer</def>
-		<def>TM_Wanderer</def>
-		<def>Abrasive</def>
-      </li>
+	<forcedTraits>
+		<li>
+			<def>TM_Wayfarer</def>
+		</li>
+		<li>
+			<def>TM_Wanderer</def>
+		</li>
+		<li>
+			<def>Abrasive</def>
+		</li>
     </forcedTraits>
     <biostatMet>-5</biostatMet>
 
