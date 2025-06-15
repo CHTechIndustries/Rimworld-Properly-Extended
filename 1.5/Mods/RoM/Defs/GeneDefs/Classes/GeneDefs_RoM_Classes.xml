@@ -313,7 +313,7 @@
     <GeneDef ParentName="CHTech_RoM_class_base"> <!-- Wayfarer + Wanderer -->
     <defName>TM_dualCantrp_Gene</defName>
     <label>Dual</label>
-    <iconPath>Other/ClassTextures/wayfarerFlame</iconPath> <!-- icon plan: make one that has both the wayfarer and the wanderer flame on it, for now this is fine-ish -->
+    <iconPath>Other/ClassTextures/wandererFlame</iconPath> <!-- icon plan: make one that has both the wayfarer and the wanderer flame on it, for now this is fine-ish -->
     <description>This person is a "Dual", a person of extrodinary potential who is similar to a Wanderer, in that they can easily use magic cantrips, as well as enhance them. But, they also excel at fighting and trickery, just like a Wayfarer. But, despite all this, their carefree spirit prevents them from learning class abilities. On top of that, with great power comes great arrogance!</description>
 
     <displayOrderInCategory>12</displayOrderInCategory>
@@ -332,7 +332,7 @@
 
     <symbolPack>
       <prefixSymbols>
-        <li><symbol>wander</symbol></li>
+        <li><symbol>war</symbol></li>
       </prefixSymbols>
     </symbolPack>
   </GeneDef>
