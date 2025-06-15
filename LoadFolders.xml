@@ -15,8 +15,10 @@
 		<!-- content adding things -->
 		<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
 		<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li>
-		<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li>
+		<li IfModActive="kure.arom">1.5/Mods/RoM_Addons/kure</li> 		
+		<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li> <!-- nothing yet -->
 		<li IfModActive="vanillaexpanded.vpsycastse">1.5/Mods/VPE/</li>
+		
 		
 		<!-- future content adding mods 
 		
