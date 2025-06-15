@@ -471,4 +471,32 @@ fixed an error in the changelog that was causeing errors
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- 2.3.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250614</defName>
+		<date>2025/06/14</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Fix Rimworld of Magic</header>
+				<text>fixed a few minor issues with the Rimworld of Magic compat</text>
+			</li>
+			<li>
+				<header>Fix Game-Breaking Kure bugs</header>
+				<text>deleted and fixed game breaking bugs from the this addon. There are still some bugs (a few genes have missing textures, and if you look at them they error), but it's not game-breaking</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.3.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
