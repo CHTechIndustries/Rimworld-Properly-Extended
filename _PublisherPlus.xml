@@ -7,5 +7,6 @@
 	<exclude>SECURITY.md</exclude>
 	<exclude>About\Incomplete</exclude>
 	<exclude>Textures\.baseIcons</exclude>
+	<exclude>About\sort</exclude>
   </Excluded>
 </Configuration>
