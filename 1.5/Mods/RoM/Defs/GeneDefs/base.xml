@@ -2,9 +2,6 @@
 <Defs>
 	<!-- the very basis -->
 	<GeneDef Name="CHTech_RoM_gene_base" Abstract="True">
-		<exclusionTags>
-			<li>RoM_genes</li>
-		</exclusionTags>
 	</GeneDef>
 	
 	<!-- the genes for classes -->
