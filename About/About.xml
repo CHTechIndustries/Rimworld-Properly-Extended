@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Rimworld Extended: Properly</name>
 	<author>CTH2004, Tuarre</author>
@@ -112,6 +112,8 @@ Credit where Credit is due:
 		<li>kure.arom</li>
 		<li>chtech.opthings.pack</li>
 		<li>winglessflight.gene</li>
+		
+		<!-- <li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li> -->
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
