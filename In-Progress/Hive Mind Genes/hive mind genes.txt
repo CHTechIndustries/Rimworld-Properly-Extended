@@ -1,1 +1,0 @@
-due to githubs, well, just github, this is a seperate folder. the plan is to use this folder as a transfer. A single commit that is universal between the 3 points of integration, to allow seamless (I hope) mergeing

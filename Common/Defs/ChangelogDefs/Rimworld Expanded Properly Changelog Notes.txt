@@ -98,3 +98,18 @@ added in a tabula-rasa based changelog
 2.1.2
 added in infastructure (not the content, but the infastructure, so adding the content will be easier) for the soft compat with OP Thingamajings Pack
 updated about file with better wording
+
+v2.2.0
+integrated in gender ratio genes
+
+v2.2.1
+remove pathfinding framework as it's causeing errors, and isn't needed
+added in better gene inheritance as a reqriment, but commented it out. that way it's ready for the future
+fixed a major issue with the changelog
+possibly added something else (I honestly don't know, it may have gotten merged into main, or it may not have)
+
+v2.2.2
+add psyfocus cost genes with permission (will change some with archive versions later)
+
+v2.2.3
+fixed load folder so the genes appear
