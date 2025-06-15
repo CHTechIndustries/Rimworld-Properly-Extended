@@ -321,6 +321,7 @@
       <li>
         <def>TM_Wayfarer</def>
 		<def>TM_Wanderer</def>
+		<def>Abrasive</def>
       </li>
     </forcedTraits>
     <biostatMet>-5</biostatMet>
