@@ -499,4 +499,60 @@ fixed an error in the changelog that was causeing errors
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+		<!-- 2.3.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250615</defName>
+		<date>2025/06/15</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Improvements to Rimworld of Magic</header>
+				<text>just a couple of minor improvments, primarilly to how the exclusion system works</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.3.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+			<!-- 2.3.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250615b</defName>
+		<date>2025/06/15</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Better Gene Inheritance</header>
+				<text>Now requires better gene inheritance. Yes, it's another reqrirment, but trust me, this one is worth it!</text>
+			</li>
+			<li>
+				<header>Remove Uneeded Files</header>
+				<text>some uneeded files have been removed, (hopefully) decreaseing the size</text>
+			</li>
+			<li>
+				<header>Tracking spine</header>
+				<text>finalized the integration of Tracking Spine. A sort of 1.0 implimentation, it just "never misses" (which is apparently the vanilla behaviour). Later on perhaps some swarming... </text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.3.2</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
