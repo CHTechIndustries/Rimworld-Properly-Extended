@@ -5,6 +5,7 @@
 		<li>/</li>
 		<li>Common</li>
 
+		<!-- version speciofic -->
 		<li>1.4</li>
 		<li IfModActive="aelanna.endling">1.4/Mods/Endling</li>
 		<li IfModActive="torann.arimworldofmagic">1.4/Mods/RoM/</li>		
@@ -14,8 +15,9 @@
 		<li>/</li>
 		<li>Common</li>
 		
-		<!-- content adding things -->
+		<!-- version speciofic -->
 		<li>1.5</li>
+		
 		<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
 		<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li>
 		<li IfModActive="kure.arom">1.5/Mods/RoM_Addons/kure</li> 		
