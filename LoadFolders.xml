@@ -29,4 +29,17 @@
 			
 		and more, this is just the ones that, at least some of, the framework is setup -->
 	</v1.5>
+	<v1.6>
+		<!-- base stuff (things that are almost the same each version) -->
+		<li>/</li>
+		<li>1.6</li>
+		<li>Common</li>
+		
+		<!-- content adding things -->
+		<li IfModActive="aelanna.endling">1.6/Mods/Endling</li>
+		<li IfModActive="torann.arimworldofmagic">1.6/Mods/RoM/</li>
+		<li IfModActive="kure.arom">1.6/Mods/RoM_Addons/kure</li> 		
+		<li IfModActive="chtech.opthings.pack">1.6/Mods/OpThingAMajing</li> <!-- nothing yet -->
+		<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li>
+	<v1.6>
 </loadFolders>
