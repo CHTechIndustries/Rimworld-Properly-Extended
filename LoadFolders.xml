@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <loadFolders>
-	<v1.4>
+	<v1.4> <!--version 1.4 only -->
 		<li>/</li>
 		<li>1.4</li>
 		<li IfModActive="aelanna.endling">1.4/Mods/Endling</li>
