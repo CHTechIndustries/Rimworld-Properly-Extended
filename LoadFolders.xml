@@ -19,15 +19,5 @@
 		<li IfModActive="kure.arom">1.5/Mods/RoM_Addons/kure</li> 		
 		<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li> <!-- nothing yet -->
 		<li IfModActive="vanillaexpanded.vpsycastse">1.5/Mods/VPE/</li>
-		
-		
-		<!-- future content adding mods 
-		
-			<li IfModActive="biotexpans.mammalia">1.5/Mods/BiotechExpansion_Mammalia</li> 
-			<li IfModActive="biotexpans.mythic">1.5/Mods/BiotechExpansion_Mythic</li> 
-			<li IfModActive="vanillaracesexpanded.archon">1.5/Mods/VanillaRacesExpanded_Archon</li> 
-			<li IfModActive="vanillaracesexpanded.lycanthrope">1.5/Mods/VanillaRacesExpanded_Lycan</li>
-			
-		and more, this is just the ones that, at least some of, the framework is setup -->
 	</v1.5>
 </loadFolders>
