@@ -360,4 +360,52 @@ Start work on icons and begining scenario. Possibly, this might be finished with
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+		<!-- 1.0.0-g -->
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250705</defName>
+		<date>2025/07/01</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Transfer to fork</header>
+				<text>Transfered the mod itself into a fork of my main mod, to allow compat and possible mergeing</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario-2/releases/tag/v1.0.0g</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+	
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250705_1</defName>
+		<date>2025/07/01</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Minor enhancments</header>
+				<text>Minor Enhancments</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario-2/releases/tag/v1.0.1g</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
