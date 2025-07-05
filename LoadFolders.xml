@@ -32,7 +32,7 @@
 			
 		<!-- version specific -->
 			<li>1.6</li>
-		<!-- content adding things -->
+		<!-- 1.6 soft compat -->
 			<li IfModActive="aelanna.endling">1.6/Mods/Endling</li>
 			<li IfModActive="torann.arimworldofmagic">1.6/Mods/RoM/</li>
 			<li IfModActive="kure.arom">1.6/Mods/RoM_Addons/kure</li> 		
