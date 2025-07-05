@@ -1,3 +1,0 @@
-many of the folders are compatible, and will just add.
-
-this branch will replace them completly, but in a way to allow their mergeing later
