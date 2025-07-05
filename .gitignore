@@ -14,7 +14,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+
 
 # Fortran module files
 *.mod
@@ -30,6 +30,6 @@
 *.exe
 *.out
 *.app
-
-#Folders
-PersonalLinks/*.lnk
+About/New folder/GeneDefs.lnk
+*.vsidx
+/.transfer
