@@ -1,3 +1,0 @@
-this is  to make a new repository for Gestalt Engine Scenario.
-
-it currently has identical contents, but is actually a fork of Rimworld Extend properly, and thus ready to be merged at a moments notice. 
