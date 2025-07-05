@@ -2,19 +2,19 @@
 <loadFolders>
 	<v1.4> <!--version 1.4 only -->
 		<!-- base stuff (same each version) -->
-		<li>/</li>
-		<li>Common</li>
+			<li>/</li>
+			<li>Common</li>
 
 		<!-- version speciofic -->
-		<li>1.4</li>
+			<li>1.4</li>
 		<!-- 1.4 soft compat -->
 			<li IfModActive="aelanna.endling">1.4/Mods/Endling</li>
 			<li IfModActive="torann.arimworldofmagic">1.4/Mods/RoM/</li>		
 	</v1.4>
 	<v1.5>
 		<!-- base stuff (same each version) -->
-		<li>/</li>
-		<li>Common</li>
+			<li>/</li>
+			<li>Common</li>
 		
 		<!-- version speciofic -->
 		<li>1.5</li>
