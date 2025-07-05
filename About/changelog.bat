@@ -1,1 +1,0 @@
-@start "" "..\Common\Defs\ChangelogDefs"
