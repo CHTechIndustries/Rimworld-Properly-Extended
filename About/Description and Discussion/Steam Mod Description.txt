@@ -1,19 +1,17 @@
-note[h1]THIS MOD IS QUITE COMPLEX AND A MAJOR WORK IN PROGRESS[/h1]
-[h2]What that means[/h2]
+[h1]THIS MOD IS QUITE COMPLEX AND A MAJOR WORK IN PROGRESS[/h1]
+That means:
 [b][olist]
 [*]Updates will be semi-sporiadic due to complexity and necessary breaks
+[*]There will be very little "polish" (for instance, no preview image)
 [*]For modders, ID's might change as I re-design the mod from scratch over and over...
-[*]The description here is an even more major WIP
-[/olist][/b]
-[h2]Why Then[/h2]
-I used to have this unlisted, but I realized something: I was struggling with figuring out [i]how[/i] to make it have good mechanics. So, I needed a soloution. Well, gave me many ideas, and I realized that I needed as many suggestions as possible.
-To that end, I changed it from "unlisted" to "public", and just mentioned it was an extreme alpha in the name. So, well, let's just say:
-[b][u]YOU HAVE BEEN WARNED![/u][/b]
-[h1]Description[/h1]
+[/olist]
+
+[u]YOU HAVE BEEN WARNED[/u]
+[/b]
 [hr][/hr]
 Okay, now that the warning is over let's get on with the mod description!
 
-So, there is [i]one[/i] thing missing from our good friend the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047]Reinforced Mechanoids 2[/url]. That is: a scenario built around the Gestalt Engine!
+So, there is [i]one[/i] thing missing from our good friend the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691]Gestalt Engine Mod[/url]. That is: a scenario!
 
 So, a while back, I mentioned "I'm beginning to get into modding, I'll look into it". I then forgot, luckilly the person who inspired it didin't. After a "few" reminders, I started working on it. First they uploaded a prototype scenario, which I used as a basis. I then started editing the scenario, by doing things such as adding background features to let it work better! So, anyways, thank you to [url=https://steamcommunity.com/profiles/76561198366165786]Breadmond[/url], for:
 [list]
@@ -23,15 +21,18 @@ So, a while back, I mentioned "I'm beginning to get into modding, I'll look into
 [*]Pestering me to make sure I didin't forget (honestly, only sure-fire way to remind me)
 [/list]
 
-But, I apparently was wrong on the simplicity of this idea (it turned out the answer is "not at all"), so even more people ended up helping, and therefore deserve credit:
+But, I aparently was wrong on the simplicity of this idea (it turned out the answer is "not at all"), so even more people ended up helping, and therefore deserve credit:
 [list]
 [*][url=https://steamcommunity.com/profiles/76561198366165786]Breadmond[/url] (for the reasons mentioned above_
-[*][url=https://steamcommunity.com/id/nirahiel]Niraheil[/url], without whom I couldn't have even begun to do the necessary C# code, nor realize that this mod would reqrire code! He described a good algorithim for the system, and the holography is based on his idea! (coming soon tm)
-[*][url=https://steamcommunity.com/profiles/76561198005703509]Ullthar[/url] for many ideas, which quite frankly is necessary for a mod when the author has no idea where to start on the mod!
+[*][url=https://steamcommunity.com/id/nirahiel]Niraheil[/url], without whom I couldn't have even begun to do the necessary C# code, nor realize that this mod would reqrire code! He described a good algorithim for the system, and the holography is based on his idea!
 [/list]
 
 and, while he didin't directly help, thank you to [url=https://steamcommunity.com/id/Helixien/myworkshopfiles/?appid=294100]Helixien[/url] for making [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691]Gestalt Engine[/url] mod, without which this mod wouldn't be possible!
 
 [hr][/hr]
-Now, at the moment it only includes scenarios and plans, but as time goes on...
-and, to ensure infinite power, [strike]as well as some other nice features, I "might" have made it connect to Save our Ship 2. Assuming you can [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901]Extricate my Ship[/url], that is![/strike], it's a good idea to use Reinforced Mechanoids 2, not Gestalt Engine. Even though this was originaly built around Gestalt engine, when Milie made a continued version, he also made a continued reinforced mechanoids 2, with a gestalt engine in it!
+[h2]Progress[/h2]
+Holography: 0%
+Gestalt Engine Avatar: 0%
+Subcore Production: 8%
+Research: 39%
+Scenarios: 3%

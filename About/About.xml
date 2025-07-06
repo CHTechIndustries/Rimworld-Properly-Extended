@@ -4,7 +4,7 @@
 	<author>CTH2004, Breadmond</author>
 	<packageId>CHTech.GeS</packageId>
 	<url>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/wiki</url>
-	<modVersion>1.0.1-g</modVersion>
+	<modVersion>0.10.1</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
