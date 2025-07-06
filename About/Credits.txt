@@ -15,9 +15,5 @@ Thanks to:
 13. Tuarre for Gender Ratio Genes, as well as permission to merge it into mine (and port it, which I did earlier)
 14. GetDonkedOn for "VPE psycastfocus cost genes", which he kindly let me use as a basis for some content in this mod
 
-10. Breadmond for a prototype (see folder "prototype". Only applicable if subscribed)
-11. Helxien for Gestalt Engine
-12. Helxien for the image sources
-
 
 too many others to list!
