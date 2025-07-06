@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <loadFolders>
-	<v1.4>
-		<!-- base stuff (same each version) -->
-		<li>/</li>
-		<li>Common</li>
-
-		<!-- version speciofic -->
-		<li>1.4</li>
-		<!-- 1.4 soft compat -->
-			<li IfModActive="aelanna.endling">1.4/Mods/Endling</li>
-			<li IfModActive="torann.arimworldofmagic">1.4/Mods/RoM/</li>		
-	</v1.4>
 	<v1.5>
-		<!-- base stuff (same each version) -->
 		<li>/</li>
-		<li>Common</li>
-		
-		<!-- version speciofic -->
 		<li>1.5</li>
-		<!-- 1.5 soft compat -->
-			<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
-			<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li>
-			<li IfModActive="kure.arom">1.5/Mods/RoM_Addons/kure</li> 		
-			<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li> <!-- nothing yet -->
-			<li IfModActive="vanillaexpanded.vpsycastse">1.5/Mods/VPE/</li>
-	</v1.5>
-	<v1.6>
-		<!-- base stuff (things that are almost the same each version) -->
-		<li>/</li>
-		<li>1.6</li>
+		<li IfModActive="cedaro.infinitegestaltengine">1.5/Mods/InfiniGest</li>
 		<li>Common</li>
-		
-		<!-- content adding things -->
-		<li IfModActive="aelanna.endling">1.6/Mods/Endling</li>
-		<!-- <li IfModActive="torann.arimworldofmagic">1.6/Mods/RoM/</li> -->
-		<!-- <li IfModActive="kure.arom">1.6/Mods/RoM_Addons/kure</li> 		-->
-		<li IfModActive="chtech.opthings.pack">1.6/Mods/OpThingAMajing</li> <!-- nothing yet -->
-		<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li>
-	<v1.6>
+	</v1.5>
 </loadFolders>
