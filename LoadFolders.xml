@@ -24,6 +24,7 @@
 			<li IfModActive="kure.arom">1.5/Mods/RoM_Addons/kure</li> 		
 			<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li> <!-- nothing yet -->
 			<li IfModActive="vanillaexpanded.vpsycastse">1.5/Mods/VPE/</li>
+			gestalt
 	</v1.5>
 	<v1.6>
 		<!-- base stuff (things that are almost the same each version) -->
@@ -37,5 +38,6 @@
 		<!-- <li IfModActive="kure.arom">1.6/Mods/RoM_Addons/kure</li> 		-->
 		<li IfModActive="chtech.opthings.pack">1.6/Mods/OpThingAMajing</li> <!-- nothing yet -->
 		<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li>
+		gestalt
 	<v1.6>
 </loadFolders>
