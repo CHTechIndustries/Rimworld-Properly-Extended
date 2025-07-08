@@ -41,7 +41,8 @@
 		<li IfModActive="chtech.opthings.pack">1.6/Mods/OpThingAMajing</li> <!-- nothing yet -->
 		<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li>
 		
-		<li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li>
+		<!-- <li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> -->
+			<!-- commented out until this mod is updated to 1.6 -->
 		<!-- if reinforced mechanoids 2 is there, add scenario (used to be another mod) -->			
 	<v1.6>
 </loadFolders>
