@@ -2,3 +2,6 @@ endling mod
 
 Rimworld of Magic (when applicable)
 Kures Classes (when applicable)
+
+in-progress soft compat:
+reinforced mechanoids 2
