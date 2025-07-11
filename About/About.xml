@@ -130,6 +130,8 @@ Credit where Credit is due:
 		<li>kure.arom</li>
 		<li>chtech.opthings.pack</li>
 		<li>winglessflight.gene</li>
+		<li>mlie.reinforcedmechanoid2</li>
+		
 		
 		<!-- <li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li> -->
 	</loadAfter>
@@ -196,5 +198,7 @@ Credit where Credit is due:
 		<li>ebsg.slayer</li>
 		<li>sniperspine.mod</li>
 		<li>getdonkedon.psycostgenes</li>
+		
+		<li>mlie.gestaltengine</li>
 	</incompatibleWith>
 </ModMetaData>
