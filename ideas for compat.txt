@@ -3,3 +3,5 @@ actually functional compat?
 			<li IfModActive="biotexpans.mythic">1.5/Mods/BiotechExpansion_Mythic</li> 
 			<li IfModActive="vanillaracesexpanded.archon">1.5/Mods/VanillaRacesExpanded_Archon</li> 
 			<li IfModActive="vanillaracesexpanded.lycanthrope">1.5/Mods/VanillaRacesExpanded_Lycan</li>
+
+more?
