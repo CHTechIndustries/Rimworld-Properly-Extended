@@ -32,15 +32,17 @@
 	<v1.6>
 		<!-- base stuff (things that are almost the same each version) -->
 		<li>/</li>
-		<li>1.6</li>
 		<li>Common</li>
+
+		<!-- version specific -->
+		<li>1.6</li>
 		
 		<!-- content adding things -->
 		<li IfModActive="aelanna.endling">1.6/Mods/Endling</li>
 		<!-- <li IfModActive="torann.arimworldofmagic">1.6/Mods/RoM/</li> -->
 		<!-- <li IfModActive="kure.arom">1.6/Mods/RoM_Addons/kure</li> 		-->
 		<li IfModActive="chtech.opthings.pack">1.6/Mods/OpThingAMajing</li> <!-- nothing yet -->
-		<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li>
+		<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li> <!-- vanilla psycasts expanded compat -->
 		
 		<!-- <li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> -->
 			<!-- commented out until this mod is updated to 1.6 -->
