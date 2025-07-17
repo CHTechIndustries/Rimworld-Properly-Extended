@@ -35,22 +35,20 @@
 			<li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> <!-- if reinforced mechanoids 2 is there, add scenario (used to be another mod) -->			
 	</v1.5>
 	<v1.6>
-		<!-- base stuff (things that are almost the same each version) -->
+		<!-- base stuff (same each version) -->
 		<li>/</li>
 		<li>Common</li>
-
-		<!-- version specific -->
+		
+		<!-- version speciofic -->
+		
 		<li>1.6</li>
-		
-		<!-- content adding things -->
-		<li IfModActive="aelanna.endling">1.6/Mods/Endling</li>
-		<!-- <li IfModActive="torann.arimworldofmagic">1.6/Mods/RoM/</li> -->
-		<!-- <li IfModActive="kure.arom">1.6/Mods/RoM_Addons/kure</li> 		-->
-		<li IfModActive="chtech.opthings.pack">1.6/Mods/OpThingAMajing</li> <!-- nothing yet -->
-		<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li> <!-- vanilla psycasts expanded compat -->
-		
-		<!-- <li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> -->
-			<!-- commented out until this mod is updated to 1.6 -->
-		<!-- if reinforced mechanoids 2 is there, add scenario (used to be another mod) -->			
+		<!-- 1.6 soft compat -->
+			<li IfModActive="aelanna.endling">1.6/Mods/Endling</li> <!--endling compat -->
+			<li IfModActive="torann.arimworldofmagic">1.6/Mods/RoM/</li> <!-- Rimworld of Magic compat -->
+			<li IfModActive="kure.arom">1.6/Mods/RoM_Addons/kure</li> 		<!-- kurea compat -->
+			<li IfModActive="chtech.opthings.pack">1.6/Mods/OpThingAMajing</li> <!-- nothing yet -->
+			<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li> <!-- vanilla psycasts expanded compat -->
+			
+			<li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> <!-- if reinforced mechanoids 2 is there, add scenario (used to be another mod) -->	
 	<v1.6>
 </loadFolders>
