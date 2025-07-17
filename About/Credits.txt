@@ -16,7 +16,7 @@ Thanks to:
 14. GetDonkedOn for "VPE psycastfocus cost genes", which he kindly let me use as a basis for some content in this mod
 15. Gege for Xenotype Exporter
 16. Breadmond for a prototype (see folder "prototype" inside about folder. Only applicable if subscribed)
-17. Helxien for Gestalt Engine
+17. Helxien for Gestalt Engine, and before that Reinforced Mechanoids 2
 18. Helxien for the image sources
 19. Milie for continueing Gestalt Engine after it was abandoned, and then mergeing it back into Reinforced Mechanoids 2 (which he continued after it was abandoned
 

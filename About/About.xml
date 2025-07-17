@@ -4,7 +4,7 @@
 	<author>CTH2004, Tuarre, Breadmond</author>
 	<packageId>CHTech.RimworldExtended.main</packageId>
 	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
-	<modVersion>3.0.0</modVersion>
+	<modVersion>3.1.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 		<li>1.5</li>
@@ -25,6 +25,10 @@ Credit where Credit is due:
 	5. GetDonkedOn for "VPE psycastfocus cost genes", which he kindly let me use as a basis for some content in this mod
 	6. Neronix17 for Tabula Rausa, which makes the in-game changelog possible
 	8. Ludeon for the game RimWorld
+	9. Helixien for Reinforced Mechanoids 2
+		10. Milie for continueing said mod
+	11. Breadmond for reminding me about the scenario, without him I never would have remembered
+		11-a: also for makeing a prototype. If you want to see it, check the about folder
 	
 	- and all the people who I should have put here but forgot
 <!-- images
@@ -126,6 +130,8 @@ Credit where Credit is due:
 		<li>kure.arom</li>
 		<li>chtech.opthings.pack</li>
 		<li>winglessflight.gene</li>
+		<li>mlie.reinforcedmechanoid2</li>
+		
 		
 		<li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li>
 	</loadAfter>
@@ -192,5 +198,7 @@ Credit where Credit is due:
 		<li>ebsg.slayer</li>
 		<li>sniperspine.mod</li>
 		<li>getdonkedon.psycostgenes</li>
+		
+		<li>mlie.gestaltengine</li>
 	</incompatibleWith>
 </ModMetaData>
