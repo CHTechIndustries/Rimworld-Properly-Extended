@@ -8,8 +8,8 @@
 		<!-- version speciofic -->
 		<li>1.4</li>
 		<!-- 1.4 soft compat -->
-			<li IfModActive="aelanna.endling">1.4/Mods/Endling</li>
-			<li IfModActive="torann.arimworldofmagic">1.4/Mods/RoM/</li>
+			<li IfModActive="aelanna.endling">1.4/Mods/Endling</li> <!--endling compat -->
+			<li IfModActive="torann.arimworldofmagic">1.4/Mods/RoM/</li> <!-- Rimworld of Magic compat, with inate kurea compat -->
 			<li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> <!-- if reinforced mechanoids 2 is there, add scenario (used to be another mod) -->			
 	</v1.4>
 	<v1.5>
