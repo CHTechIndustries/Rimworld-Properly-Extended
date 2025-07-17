@@ -18,13 +18,14 @@
 		<li>Common</li>
 		
 		<!-- version speciofic -->
+		
 		<li>1.5</li>
 		<!-- 1.5 soft compat -->
-			<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
-			<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li>
-			<li IfModActive="kure.arom">1.5/Mods/RoM_Addons/kure</li> 		
+			<li IfModActive="aelanna.endling">1.5/Mods/Endling</li> <!--endling compat -->
+			<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li> <!-- Rimworld of Magic compat -->
+			<li IfModActive="kure.arom">1.5/Mods/RoM_Addons/kure</li> 		<!-- kurea compat -->
 			<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li> <!-- nothing yet -->
-			<li IfModActive="vanillaexpanded.vpsycastse">1.5/Mods/VPE/</li>
+			<li IfModActive="vanillaexpanded.vpsycastse">1.5/Mods/VPE/</li> <!-- vanilla psycasts expanded compat -->
 			
 			<li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> <!-- if reinforced mechanoids 2 is there, add scenario (used to be another mod) -->			
 	</v1.5>
