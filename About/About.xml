@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Rimworld Extended: Properly</name>
-	<author>CTH2004, Tuarre</author>
+	<author>CTH2004, Tuarre, Breadmond</author>
 	<packageId>CHTech.RimworldExtended.main</packageId>
 	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
-	<modVersion>2.3.2</modVersion>
+	<modVersion>3.1.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>Rimworld Properlly Extended is a mod with a deceptivly simple goal. That goal is to is to add in features that are fun. So, it extends rimworld, but trys to keep it true to the concept of rimworld, to an extent. For a general feature summary, there is a steam discussion for that. However, if you want more info, you should check the (Work in progress) Wiki.
 
@@ -24,6 +25,10 @@ Credit where Credit is due:
 	5. GetDonkedOn for "VPE psycastfocus cost genes", which he kindly let me use as a basis for some content in this mod
 	6. Neronix17 for Tabula Rausa, which makes the in-game changelog possible
 	8. Ludeon for the game RimWorld
+	9. Helixien for Reinforced Mechanoids 2
+		10. Milie for continueing said mod
+	11. Breadmond for reminding me about the scenario, without him I never would have remembered
+		11-a: also for makeing a prototype. If you want to see it, check the about folder
 	
 	- and all the people who I should have put here but forgot
 <!-- images
@@ -61,11 +66,6 @@ Credit where Credit is due:
 			<displayName>Big and Small + Prerequisites Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl>
 		</li>
-		<!-- <li>
-			<packageId>redmattis.bettergeneinheritance</packageId>
-			<displayName>Better Gene Inheritance</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3046776238</steamWorkshopUrl>
-		</li> -->
 		<li>
 			<packageId>sarg.alphagenes</packageId>
 			<displayName>Alpha Genes</displayName>
@@ -93,8 +93,6 @@ Credit where Credit is due:
 			<displayName>Expanded Biotech Style Abilities</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3355669039</steamWorkshopUrl>
 		</li>
-
-		<!-- better inheritance -->
 		<li>
 			<packageId>redmattis.bettergeneinheritance</packageId>
 			<displayName>Better Gene Inheritance</displayName>
@@ -125,6 +123,8 @@ Credit where Credit is due:
 		<li>kure.arom</li>
 		<li>chtech.opthings.pack</li>
 		<li>winglessflight.gene</li>
+		<li>mlie.reinforcedmechanoid2</li>
+		
 		
 		<!-- <li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li> -->
 	</loadAfter>
@@ -191,5 +191,7 @@ Credit where Credit is due:
 		<li>ebsg.slayer</li>
 		<li>sniperspine.mod</li>
 		<li>getdonkedon.psycostgenes</li>
+		
+		<li>mlie.gestaltengine</li>
 	</incompatibleWith>
 </ModMetaData>
