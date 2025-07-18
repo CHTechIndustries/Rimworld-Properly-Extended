@@ -66,11 +66,6 @@ Credit where Credit is due:
 			<displayName>Big and Small + Prerequisites Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl>
 		</li>
-		<!-- <li>
-			<packageId>redmattis.bettergeneinheritance</packageId>
-			<displayName>Better Gene Inheritance</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3046776238</steamWorkshopUrl>
-		</li> -->
 		<li>
 			<packageId>sarg.alphagenes</packageId>
 			<displayName>Alpha Genes</displayName>
@@ -98,8 +93,6 @@ Credit where Credit is due:
 			<displayName>Expanded Biotech Style Abilities</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3355669039</steamWorkshopUrl>
 		</li>
-
-		<!-- better inheritance -->
 		<li>
 			<packageId>redmattis.bettergeneinheritance</packageId>
 			<displayName>Better Gene Inheritance</displayName>
@@ -126,11 +119,11 @@ Credit where Credit is due:
 		
 		<!-- soft compat, adds more features (or will) -->
 		<li>torann.arimworldofmagic</li>
-		<li>aelanna.endling</li>
+		<li>aelanna.endling</li> <!-- a gene -->
 		<li>kure.arom</li>
 		<li>chtech.opthings.pack</li>
 		<li>winglessflight.gene</li>
-		<li>mlie.reinforcedmechanoid2</li>
+		<li>mlie.reinforcedmechanoid2</li> <!-- the gestalt engine scenario -->
 		
 		
 		<!-- <li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li> -->
