@@ -55,9 +55,5 @@
 		</li>
 
 	</modDependencies>
-	<loadAfter>
-		<li>tdt.core</li>
-		<li>TdT.devOrder</li>
-	</loadAfter>
 	<description>Expiriments with uploading to steam</description>
 </ModMetaData>
