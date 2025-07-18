@@ -6,7 +6,6 @@
 	<supportedVersions>
 		<li>1.6</li> 
 	</supportedVersions>
-	<description>Rimworld Genes Extended is a mod that enhances Expanded Biotech Style Genes, extents on other mods genes, and makes new genes.</description>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
@@ -67,4 +66,5 @@
 	<incompatibleWith>
 
 	</incompatibleWith>
+	<description>Expiriments with uploading to steam</description>
 </ModMetaData>
