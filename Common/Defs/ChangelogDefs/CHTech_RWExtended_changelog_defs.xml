@@ -582,8 +582,8 @@ fixed an error in the changelog that was causeing errors
 	</TabulaRasa.UpdateDef>
 	<!-- 3.1.0 -->
 		<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20250711</defName>
-		<date>2025/07/11</date>
+		<defName>CHTech_RW_expanded_20250718</defName>
+		<date>2025/07/18</date>
 		<banner />
 		<contentList>
 			<li>
@@ -594,7 +594,12 @@ That means, if you have Reinforced Mechanoids 2, you will get the scenario. No s
 			</li>
 			<li>
 				<header>Modify Compats</header>
-				<text>Some of the mods with soft compatibility aren't updated yet. So, I have temporarilly disabled them for 1.6 </text>
+				<text>Some of the mods with soft compatibility aren't updated yet. So, I have temporarilly disabled them for 1.6
+And yes, this update was supposed to come out a week ago</text>
+			</li>
+			<li>
+				<header>Improve Folders</header>
+				<text>Remember thos "find some things that could be optimized"? Well, they have been. It was less than I thought, but still</text>
 			</li>
 		</contentList>
 		<links>
