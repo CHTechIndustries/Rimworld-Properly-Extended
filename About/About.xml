@@ -2,7 +2,6 @@
 <ModMetaData>
 	<name>Upload Expiriments</name>
 	<author>CTH2004</author>
-	<modVersion>1.0.0</modVersion>
 	<packageId>steamID.tests</packageId>
 	<supportedVersions>
 		<li>1.6</li> 
