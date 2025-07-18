@@ -63,8 +63,5 @@
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
 	</loadBefore>
-	<incompatibleWith>
-
-	</incompatibleWith>
 	<description>Expiriments with uploading to steam</description>
 </ModMetaData>
