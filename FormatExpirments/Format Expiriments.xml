@@ -1,0 +1,21 @@
+trying to add additional formatting to about file, results of expirments here:
+
+1. Test 1: fail
+	[hr][/hr]
+		didin't work
+
+2. bb code test 1: fail
+	[hr][/hr]
+		Showed text, supposed to be horrizontal rule
+	he site [url]https://www.bbcode.org[/url]
+		showed text, supposed to be link
+	----
+		just a random test (was the format on the wiki for a horizontal rule), showed text (expected result)
+
+3. HTML 1: fail
+	<hr>
+		didin't work. showed XML error, didin't even try to see if text occured, as an error was bad enough
+
+4. HTML 2: fail
+	<hr></hr>
+		didin't work, semi-random errors and made entire description disapear.
