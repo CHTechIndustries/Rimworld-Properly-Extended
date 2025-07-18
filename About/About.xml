@@ -59,9 +59,5 @@
 		<li>tdt.core</li>
 		<li>TdT.devOrder</li>
 	</loadAfter>
-	<loadBefore>
-		<li>gege.exportedxenotypestoragemodfolder</li>
-		<li>smashphil.xmlpatchhelper</li>
-	</loadBefore>
 	<description>Expiriments with uploading to steam</description>
 </ModMetaData>
