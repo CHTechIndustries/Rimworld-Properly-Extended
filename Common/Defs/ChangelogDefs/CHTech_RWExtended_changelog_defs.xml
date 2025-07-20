@@ -622,9 +622,8 @@ And yes, this update was supposed to come out a week ago</text>
 		<banner />
 		<contentList>
 			<li>
-				<header>Sucsesfully Transfer Gestalt</header>
-				<text>It's official, the gestalt engine scenario is now here as a soft compat!
-That means, if you have Reinforced Mechanoids 2, you will get the scenario. No second mod needed!
+				<header>ID Experiments</header>
+				<text>Expiriment with trying to make mods with a fully custom workshop ID. Didin't work, see linked releases for info
 </text>
 			</li>
 		</contentList>
