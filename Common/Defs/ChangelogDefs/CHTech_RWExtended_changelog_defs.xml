@@ -617,8 +617,8 @@ And yes, this update was supposed to come out a week ago</text>
 	</TabulaRasa.UpdateDef>
 		<!-- 3.1.1 -->
 		<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20250718</defName>
-		<date>2025/07/18</date>
+		<defName>CHTech_RW_expanded_20250720</defName>
+		<date>2025/07/20</date>
 		<banner />
 		<contentList>
 			<li>
