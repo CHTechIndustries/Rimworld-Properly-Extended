@@ -615,4 +615,44 @@ And yes, this update was supposed to come out a week ago</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+		<!-- 3.1.1 -->
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250718</defName>
+		<date>2025/07/18</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Sucsesfully Transfer Gestalt</header>
+				<text>It's official, the gestalt engine scenario is now here as a soft compat!
+That means, if you have Reinforced Mechanoids 2, you will get the scenario. No second mod needed!
+</text>
+			</li>
+			<li>
+				<header>Modify Compats</header>
+				<text>Some of the mods with soft compatibility aren't updated yet. So, I have temporarilly disabled them for 1.6
+And yes, this update was supposed to come out a week ago</text>
+			</li>
+			<li>
+				<header>Improve Folders</header>
+				<text>Remember thos "find some things that could be optimized"? Well, they have been. It was less than I thought, but still</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub: Base Expirment</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.0-a</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
