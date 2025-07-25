@@ -32,8 +32,10 @@
 	<v1.6>
 		<!-- base stuff (things that are almost the same each version) -->
 		<li>/</li>
-		<li>1.6</li>
 		<li>Common</li>
+
+		<!-- version specific -->
+		<li>1.6</li>
 		
 		<!-- content adding things -->
 		<li IfModActive="aelanna.endling">1.6/Mods/Endling</li>
