@@ -45,5 +45,5 @@
 		<!-- <li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> -->
 			<!-- commented out until this mod is updated to 1.6 -->
 		<!-- if reinforced mechanoids 2 is there, add scenario (used to be another mod) -->			
-	<v1.6>
+	</v1.6>
 </loadFolders>
