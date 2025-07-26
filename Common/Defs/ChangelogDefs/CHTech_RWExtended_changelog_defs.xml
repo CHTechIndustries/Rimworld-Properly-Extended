@@ -615,4 +615,34 @@ And yes, this update was supposed to come out a week ago</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+		<!-- 3.1.1 -->
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250720</defName>
+		<date>2025/07/20</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>ID Experiments</header>
+				<text>Expiriment with trying to make mods with a fully custom workshop ID. Didin't work, see linked releases for info
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub: Base Expirment</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.0-a</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
