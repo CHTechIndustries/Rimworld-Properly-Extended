@@ -645,4 +645,34 @@ And yes, this update was supposed to come out a week ago</text>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- 3.1.2 -->
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250726</defName>
+		<date>2025/07/26</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Update Rimworld of Magic</header>
+				<text>Updated Rimworld of Magic to include rimworld 1.6
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub: Base Expirment</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.0-a</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
