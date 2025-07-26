@@ -665,12 +665,7 @@ And yes, this update was supposed to come out a week ago</text>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.1</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub: Base Expirment</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.0-a</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
