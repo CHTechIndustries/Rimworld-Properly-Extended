@@ -653,7 +653,9 @@ And yes, this update was supposed to come out a week ago</text>
 		<contentList>
 			<li>
 				<header>Update Rimworld of Magic</header>
-				<text>Updated Rimworld of Magic to include rimworld 1.6
+				<text>Updated Rimworld of Magic to include rimworld 1.6, as well as (hopefully) un-removed an old optional compat
+				
+Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you know, work
 </text>
 			</li>
 		</contentList>
