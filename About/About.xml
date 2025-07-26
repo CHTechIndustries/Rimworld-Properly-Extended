@@ -126,7 +126,7 @@ Credit where Credit is due:
 		<li>mlie.reinforcedmechanoid2</li> <!-- the gestalt engine scenario -->
 		
 		
-		<li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li>
+		<!-- <li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li> -->
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
