@@ -125,6 +125,8 @@ Credit where Credit is due:
 		<li>winglessflight.gene</li>
 		<li>mlie.reinforcedmechanoid2</li> <!-- the gestalt engine scenario -->
 		
+		<li>ferny.progressionworlds</li> <!-- for additional worlds -->
+		
 		
 		<!-- <li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li> -->
 	</loadAfter>
