@@ -20,9 +20,5 @@ Thanks to:
 18. Helxien for the image sources
 19. Milie for continueing Gestalt Engine after it was abandoned, and then mergeing it back into Reinforced Mechanoids 2 (which he continued after it was abandoned
 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> parent of c092f42 (spaceing)
 too many others to list!
