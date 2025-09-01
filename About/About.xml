@@ -41,7 +41,11 @@ And, credit where credit is due:
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1909914131</steamWorkshopUrl>
 			<downloadUrl>https://github.com/KentHaeger/SaveOurShip2</downloadUrl>
 		</li>
-		
+		<li>
+			<packageId>vanillaexpanded.vchemfuele</packageId>
+			<displayName>Vanilla Chemfuel Expanded</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2792917473</steamWorkshopUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>
