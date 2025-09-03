@@ -102,7 +102,7 @@ added {redacted}
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- version 2.0.0 -->
+<!-- version 2.0.0-a -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechEmS_log_20250901</defName>
 		<date>2025/09/01</date>
@@ -126,6 +126,7 @@ added {redacted}
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
+<!-- version 2.0.0 - b -->
 	</TabulaRasa.UpdateDef>
 		<TabulaRasa.UpdateDef>
 		<defName>CHTechEmS_log_20250901_1</defName>
