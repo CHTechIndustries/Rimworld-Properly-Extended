@@ -110,7 +110,7 @@ added {redacted}
 		<contentList>
 			<li>
 				<header>Updated to 1.6</header>
-				<text>As save our ship is nop updated for Rimworld 1.6, this mod is updated. More features to come (tm)
+				<text>As save our ship is now updated for Rimworld 1.6, this mod is updated. More features to come (tm)
 				</text>
 			</li>
 		</contentList>
@@ -122,9 +122,8 @@ added {redacted}
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.0.0</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.0.0-2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-	</TabulaRasa.UpdateDef>
 </Defs>
