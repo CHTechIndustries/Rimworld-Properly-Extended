@@ -4,7 +4,7 @@
 	<author>CHTech</author>
 	<packageId>chtech.EmS</packageId> 
 	<url>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core/wiki</url>
-	<modVersion>1.0.1</modVersion>
+	<modVersion>2.0.0</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
 		<li>1.6</li>
@@ -27,7 +27,6 @@ And, credit where credit is due:
 	Thank you @HRG164hjo for Save our Ship Fuel Pipenet, which both inspired this mod and is the source of some of the textures
 	Thank you @Cruel Moose for SOS2 Exotic Pipes, which aided both with textures and code
 </description>
-
 	<modDependencies>
 		<li>
 			<packageId>chtech.core</packageId>
