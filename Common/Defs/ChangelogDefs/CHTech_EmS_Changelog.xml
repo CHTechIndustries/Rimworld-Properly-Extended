@@ -102,13 +102,40 @@ added {redacted}
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- version 2.0.0-a -->
+<!-- version 2.0.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTechEmS_log_20250901</defName>
 		<date>2025/09/01</date>
 		<banner />
 		<contentList>
 			<li>
+				<header>Updated to 1.6</header>
+				<text>As save our ship is nop updated for Rimworld 1.6, this mod is updated. More features to come (tm)
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.0.0-2</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 2.1.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechEmS_log_20250903</defName>
+		<date>2025/09/03</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Actually Update</header>
+				<text>Come to think of it, maybe I should actually modify the mod so the stuff, you know, appears...
 				<header>Updated to 1.6</header>
 				<text>As save our ship is now updated for Rimworld 1.6, this mod is updated. More features to come (tm)
 				</text>
@@ -122,7 +149,7 @@ added {redacted}
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.0.0-2</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.1.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
