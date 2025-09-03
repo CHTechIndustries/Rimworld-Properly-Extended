@@ -109,8 +109,33 @@ added {redacted}
 		<banner />
 		<contentList>
 			<li>
-				<header>Updated to 1.6</header>
-				<text>As save our ship is nop updated for Rimworld 1.6, this mod is updated. More features to come (tm)
+				<header>Actually Update</header>
+				<text>Come to think of it, maybe I should actually modify the mod so the stuff, you know, appears...
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.0.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 2.1.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechEmS_log_20250903</defName>
+		<date>2025/09/03</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Actually Update</header>
+				<text>Come to think of it, maybe I should actually modify the mod so the stuff, you know, appears...
 				</text>
 			</li>
 		</contentList>
