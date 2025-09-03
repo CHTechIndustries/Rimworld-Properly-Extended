@@ -27,7 +27,6 @@ And, credit where credit is due:
 	Thank you @HRG164hjo for Save our Ship Fuel Pipenet, which both inspired this mod and is the source of some of the textures
 	Thank you @Cruel Moose for SOS2 Exotic Pipes, which aided both with textures and code
 </description>
-
 	<modDependencies>
 		<li>
 			<packageId>chtech.core</packageId>
