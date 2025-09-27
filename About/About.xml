@@ -152,7 +152,6 @@ Credit where Credit is due:
 		<!-- load after miscilaneus gene mods -->
 		<li>elsov.highborn</li>
 		
-		
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
