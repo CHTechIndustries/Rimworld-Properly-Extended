@@ -143,6 +143,9 @@ Credit where Credit is due:
 		<li>kentington.saveourship2</li>
 		
 		
+		<li>oels.vehiclemapframework</li> <!-- framework for vehicles to have structures on them -->
+		<li>chaotic.rvinterior</li> <!-- framework for vehicles to have structures in them -->
+		
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
