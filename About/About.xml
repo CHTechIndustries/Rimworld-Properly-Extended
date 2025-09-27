@@ -135,6 +135,7 @@ Credit where Credit is due:
 		
 		<!-- load after miscilaneus gene mods -->
 		<li>oels.vehiclemapframework</li>
+		<li>chaotic.rvinterior</li>
 		
 	</loadAfter>
 	<loadBefore>
