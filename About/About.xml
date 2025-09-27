@@ -130,6 +130,29 @@ Credit where Credit is due:
 		
 		
 		<!-- load after any and all Vanilla Races Expanded mods -->
+		<li>vanillaracesexpanded.insector</li>
+		<li>vanillaracesexpanded.android</li>
+		<li>vanillaracesexpanded.archon</li>
+		<li>vanillaracesexpanded.fungoid</li>
+		<li>vanillaracesexpanded.hussar</li>
+		<li>vanillaracesexpanded.phytokin</li>
+		<li>vanillaracesexpanded.pigskin</li>
+		<li>vanillaracesexpanded.sanguophage</li>
+		<li>vanillaracesexpanded.saurid</li>
+		<li>vanillaracesexpanded.starjack</li>
+		<li>vanillaracesexpanded.waster</li>
+		<li>vanillaracesexpanded.genie</li>
+		<li>vanillaracesexpanded.highmate</li>
+		<li>vanillaracesexpanded.lycanthrope</li>
+		
+		<!-- load after any and all re-splice mods -->
+		<li>resplice.xotr.core</li>
+		<li>resplice.xotr.charmweavers</li>
+		
+		<!-- load after miscilaneus gene mods -->
+		<li>elsov.highborn</li>
+		
+		
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
