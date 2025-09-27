@@ -130,6 +130,11 @@ Credit where Credit is due:
 		
 		
 		<!-- load after any and all Vanilla Races Expanded mods -->
+		
+		<!-- load after any and all re-splice mods -->
+		
+		<!-- load after miscilaneus gene mods -->
+		
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
