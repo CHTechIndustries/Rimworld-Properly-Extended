@@ -146,6 +146,8 @@ Credit where Credit is due:
 		<li>vanillaracesexpanded.lycanthrope</li>
 		
 		<!-- load after any and all re-splice mods -->
+		<li>resplice.xotr.core</li>
+		<li>resplice.xotr.charmweavers</li>
 		
 		<!-- load after miscilaneus gene mods -->
 		
