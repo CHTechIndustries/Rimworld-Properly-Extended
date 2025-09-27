@@ -150,6 +150,7 @@ Credit where Credit is due:
 		<li>resplice.xotr.charmweavers</li>
 		
 		<!-- load after miscilaneus gene mods -->
+		<li>elsov.highborn</li>
 		
 		
 	</loadAfter>
