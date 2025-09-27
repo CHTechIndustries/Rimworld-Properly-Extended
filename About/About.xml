@@ -132,6 +132,7 @@ Credit where Credit is due:
 		<!-- load after any and all Vanilla Races Expanded mods -->
 		<li>vanillaracesexpanded.insector</li>
 		<li>vanillaracesexpanded.android</li>
+		<li>vanillaracesexpanded.archon</li>
 		
 		<!-- load after any and all re-splice mods -->
 		
