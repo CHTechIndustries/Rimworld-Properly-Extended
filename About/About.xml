@@ -130,6 +130,7 @@ Credit where Credit is due:
 		
 		
 		<!-- load after any and all Vanilla Races Expanded mods -->
+		<li>vanillaracesexpanded.insector</li>
 		
 		<!-- load after any and all re-splice mods -->
 		
