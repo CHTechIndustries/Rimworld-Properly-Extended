@@ -148,10 +148,17 @@ Credit where Credit is due:
 		<!-- load after any and all re-splice mods -->
 		<li>resplice.xotr.core</li>
 		<li>resplice.xotr.charmweavers</li>
-		
+
 		<!-- load after miscilaneus xeno mods -->
 		<li>elsov.highborn</li>
 		
+		<!-- load after miscilaneus other mods -->
+		<li>zandern.zealousinnocenceredux</li>
+		<li>kentington.saveourship2</li>
+		
+		
+		<li>oels.vehiclemapframework</li> <!-- framework for vehicles to have structures on them -->
+		<li>chaotic.rvinterior</li> <!-- framework for vehicles to have structures in them -->	
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
