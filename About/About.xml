@@ -134,6 +134,7 @@ Credit where Credit is due:
 		<!-- load after any and all re-splice mods -->
 		
 		<!-- load after miscilaneus gene mods -->
+		<!-- load after miscilaneus other mods -->
 		
 	</loadAfter>
 	<loadBefore>
