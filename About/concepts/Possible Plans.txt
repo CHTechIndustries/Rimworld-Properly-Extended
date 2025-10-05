@@ -1,0 +1,14 @@
+gene for being out of phase?
+gene for inate shield? multiple types of shield?
+abilities that require archites? (pawn can absorb archites, then use them)
+random teleport while moveing
+
+Added in a gene that makes the comfortable tempature 0 degrees
+Added a gene that inverts the comfortable tempatures
+a category for "impossible" genes (like the 3 following ones)
+	-a gene to make the base comfortable tempature precisly 0
+	-a gene that multiples comfortable tempature by 0, so no matter what, only 0 degrees is comfortable
+	-invert comfortable tempatures, so there is literally no comfortable temp (an example of a result is the tempature must be bellow -30 and above 8 (in which case without that gene it would be above -8 and bellow 30)
+
+sitting pot, based on the fact I saw a "sitting spot" mod and thought it said sitting pot. Make soft compat?
+https://steamcommunity.com/sharedfiles/filedetails/?id=3236014306&searchtext=
