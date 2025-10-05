@@ -672,28 +672,4 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- _____ -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_yyyymmdd</defName>
-		<date>yyyy/mm/dd/mm/dd</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Refference Ressourses</header>
-				<text>This transfered in a lot of older files that had useful information.</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/ _____</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
 </Defs>
