@@ -155,10 +155,6 @@ Credit where Credit is due:
 		<!-- load after miscilaneus other mods -->
 		<li>zandern.zealousinnocenceredux</li>
 		<li>kentington.saveourship2</li>
-		
-		
-		<li>oels.vehiclemapframework</li> <!-- framework for vehicles to have structures on them -->
-		<li>chaotic.rvinterior</li> <!-- framework for vehicles to have structures in them -->	
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
