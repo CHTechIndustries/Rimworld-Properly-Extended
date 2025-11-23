@@ -75,8 +75,8 @@
     <forcedTraits>
       <li>
         <def>TM_Bombardier</def>
+		<degree>4</degree>
       </li>
-	  <degree>4</degree>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
 
