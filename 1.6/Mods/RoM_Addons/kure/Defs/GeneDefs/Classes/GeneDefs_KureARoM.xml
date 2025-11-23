@@ -76,6 +76,7 @@
       <li>
         <def>TM_Bombardier</def>
       </li>
+	  <degree>4</degree>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
 
@@ -99,6 +100,7 @@
       <li>
         <def>TM_Railbreaker</def>
       </li>
+	  <degree>4</degree>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
 
@@ -414,7 +416,8 @@
     <forcedTraits>
       <li>
         <def>TM_Saboteur</def>
-      </li>
+		<degree>4</degree>
+	  </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
 
