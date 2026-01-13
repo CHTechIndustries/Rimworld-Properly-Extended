@@ -678,6 +678,11 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 		<date>2026/01/13</date>
 		<banner />
 		<contentList>
+			<li>
+				<header>Update Rimworld of Magic</header>
+				<text>Fixed an error in the wording of some of the defs
+</text>
+			</li>
 		</contentList>
 		<links>
 			<li>
