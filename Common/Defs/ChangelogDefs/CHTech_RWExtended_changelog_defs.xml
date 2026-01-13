@@ -674,5 +674,20 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 	</TabulaRasa.UpdateDef>
 		<!-- 3.1.3 -->
 		<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20260113</defName>
+		<date>2026/01/13</date>
+		<banner />
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.3</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
 	</TabulaRasa.UpdateDef>
 </Defs>
