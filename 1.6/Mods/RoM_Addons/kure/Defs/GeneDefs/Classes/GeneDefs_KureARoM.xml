@@ -10,6 +10,7 @@
     <forcedTraits>
       <li>
         <def>TM_RedMage</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -33,6 +34,7 @@
     <forcedTraits>
       <li>
         <def>TM_Ninja</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -54,6 +56,7 @@
     <forcedTraits>
       <li>
         <def>TM_ElementalGunner</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -75,6 +78,7 @@
     <forcedTraits>
       <li>
         <def>TM_Bombardier</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -98,6 +102,7 @@
     <forcedTraits>
       <li>
         <def>TM_Railbreaker</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -119,6 +124,7 @@
     <forcedTraits>
       <li>
         <def>TM_Samurai</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -140,6 +146,7 @@
     <forcedTraits>
       <li>
         <def>TM_Gadgeteer</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -161,6 +168,7 @@
     <forcedTraits>
       <li>
         <def>TM_WindMage</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -182,6 +190,7 @@
     <forcedTraits>
       <li>
         <def>TM_Medic</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -203,6 +212,7 @@
     <forcedTraits>
       <li>
         <def>TM_ChromaMage</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -224,6 +234,7 @@
     <forcedTraits>
       <li>
         <def>TM_Harbinger</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -245,6 +256,7 @@
     <forcedTraits>
       <li>
         <def>TM_Reaper</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -266,6 +278,7 @@
     <forcedTraits>
       <li>
         <def>TM_Berserker</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -287,6 +300,7 @@
     <forcedTraits>
       <li>
         <def>TM_Scion</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -308,6 +322,7 @@
     <forcedTraits>
       <li>
         <def>TM_Plaguedoctor</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -330,6 +345,7 @@
     <forcedTraits>
       <li>
         <def>TM_Cleric</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -351,6 +367,7 @@
     <forcedTraits>
       <li>
         <def>TM_Arbormancer</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -372,6 +389,7 @@
     <forcedTraits>
       <li>
         <def>TM_Chainwarden</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -393,6 +411,7 @@
     <forcedTraits>
       <li>
         <def>TM_Ambusher</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -412,9 +431,10 @@
 
     <displayOrderInCategory>20</displayOrderInCategory>
     <forcedTraits>
-      <li>
-        <def>TM_Saboteur</def>
-      </li>
+		<li>
+			<def>TM_Saboteur</def>
+			<degree>4</degree>
+		</li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
 
@@ -435,6 +455,7 @@
     <forcedTraits>
       <li>
         <def>TM_Keeper</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -456,6 +477,7 @@
     <forcedTraits>
       <li>
         <def>TM_Pridestalker</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -478,6 +500,7 @@
     <forcedTraits>
       <li>
         <def>TM_Starseeker</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -499,6 +522,7 @@
     <forcedTraits>
       <li>
         <def>TM_Aspirant</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -520,6 +544,7 @@
     <forcedTraits>
       <li>
         <def>TM_Hawkeye</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -541,6 +566,7 @@
     <forcedTraits>
       <li>
         <def>TM_Atronach</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -562,6 +588,7 @@
     <forcedTraits>
       <li>
         <def>TM_SupportSpecialist</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -583,6 +610,7 @@
     <forcedTraits>
       <li>
         <def>TM_Scrapper</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -604,6 +632,7 @@
     <forcedTraits>
       <li>
         <def>TM_Oracle</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -625,6 +654,7 @@
     <forcedTraits>
       <li>
         <def>TM_Mystic</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -646,6 +676,7 @@
     <forcedTraits>
       <li>
         <def>TM_Spellbreaker</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -667,6 +698,7 @@
     <forcedTraits>
       <li>
         <def>TM_Duskbringer</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -688,6 +720,7 @@
     <forcedTraits>
       <li>
         <def>TM_Thunderblessed</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -709,6 +742,7 @@
     <forcedTraits>
       <li>
         <def>TM_Deadeye</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -730,6 +764,7 @@
     <forcedTraits>
       <li>
         <def>TM_Spellthief</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -751,6 +786,7 @@
     <forcedTraits>
       <li>
         <def>TM_Dragoon</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -772,6 +808,7 @@
     <forcedTraits>
       <li>
         <def>TM_BlackMage</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -793,6 +830,7 @@
     <forcedTraits>
       <li>
         <def>TM_Scholar</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -814,6 +852,7 @@
     <forcedTraits>
       <li>
         <def>TM_Gunbreaker</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -835,6 +874,7 @@
     <forcedTraits>
       <li>
         <def>TM_Gunner</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -856,6 +896,7 @@
     <forcedTraits>
       <li>
         <def>TM_Warrior</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -877,6 +918,7 @@
     <forcedTraits>
       <li>
         <def>TM_Nomad</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -898,6 +940,7 @@
     <forcedTraits>
       <li>
         <def>TM_Guardian</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -919,6 +962,7 @@
     <forcedTraits>
       <li>
         <def>TM_Holosmith</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -941,6 +985,7 @@
     <forcedTraits>
       <li>
         <def>TM_Troubadour</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -962,6 +1007,7 @@
     <forcedTraits>
       <li>
         <def>TM_Gambler</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -983,6 +1029,7 @@
     <forcedTraits>
       <li>
         <def>TM_Chef</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1004,6 +1051,7 @@
     <forcedTraits>
       <li>
         <def>TM_Miner</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1025,6 +1073,7 @@
     <forcedTraits>
       <li>
         <def>TM_Striker</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1046,6 +1095,7 @@
     <forcedTraits>
       <li>
         <def>TM_RuneKnight</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1068,6 +1118,7 @@
     <forcedTraits>
       <li>
         <def>TM_BlossomBlader</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1089,6 +1140,7 @@
     <forcedTraits>
       <li>
         <def>TM_Ravenous</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1110,6 +1162,7 @@
     <forcedTraits>
       <li>
         <def>TM_MechHunter</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1132,6 +1185,7 @@
     <forcedTraits>
       <li>
         <def>TM_Gunslinger</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1154,6 +1208,7 @@
     <forcedTraits>
       <li>
         <def>TM_Shadowbringer</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1175,6 +1230,7 @@
     <forcedTraits>
       <li>
         <def>TM_Warden</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1196,6 +1252,7 @@
     <forcedTraits>
       <li>
         <def>TM_Chempunk</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1218,6 +1275,7 @@
     <forcedTraits>
       <li>
         <def>TM_Explorer</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
@@ -1239,6 +1297,7 @@
     <forcedTraits>
       <li>
         <def>TM_Architect</def>
+		<degree>4</degree>
       </li>
     </forcedTraits>
     <biostatMet>-2</biostatMet>
