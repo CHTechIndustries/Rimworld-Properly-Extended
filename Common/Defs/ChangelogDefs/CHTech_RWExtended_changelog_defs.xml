@@ -672,15 +672,16 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- _____ -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_yyyymmdd</defName>
-		<date>yyyy/mm/dd/mm/dd</date>
+		<!-- 3.1.3 -->
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20260113</defName>
+		<date>2026/01/13</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>Refference Ressourses</header>
-				<text>This transfered in a lot of older files that had useful information.</text>
+				<header>Update Rimworld of Magic</header>
+				<text>Fixed an error in the wording of some of the defs
+</text>
 			</li>
 		</contentList>
 		<links>
@@ -691,34 +692,9 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/ _____</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.3</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
-	<!-- 3.1.3 -->			
-	<TabulaRasa.UpdateDef>			
-		<defName>CHTech_RW_expanded_yyymmdd</defName>		
-		<date>yyyy/mm/dd</date>		
-		<banner />		
-		<contentList>		
-			<li>	
-				<header></header>
-				<text></text>
-			</li>	
-		</contentList>		
-		<links>		
-			<li>	
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>	
-			<li>	
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.3</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>	
-		</links>		
-	</TabulaRasa.UpdateDef>				
 </Defs>
