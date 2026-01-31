@@ -1,0 +1,15 @@
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/GeneDef[defName = "AG_EyeOfShubNiggurath"]</xpath>
+    <value>
+      <statOffsets>
+      </statOffsets>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/GeneDef[defName = "AG_EyeOfShubNiggurath"]/statOffsets</xpath>
+    <value>
+      <RimScent_SmellSensitivity>0.05</RimScent_SmellSensitivity>
+    </value>
+  </Operation>
+</Patch>
