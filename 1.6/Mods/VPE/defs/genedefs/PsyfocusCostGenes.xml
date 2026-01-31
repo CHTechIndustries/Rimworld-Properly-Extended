@@ -83,10 +83,10 @@
     </GeneDef>
     <GeneDef>
       <defName>VPE_CostIncreaselight</defName>
-      <label>slight focus reduction</label>
-      <labelShortAdj>slight focusreduce</labelShortAdj>
       <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
-      <description>Carriers of this gene have reduced cost for psychic abilities.</description>
+      <label>slight focus increase</label>
+      <labelShortAdj>slight focusincrease</labelShortAdj>
+      <description>Carriers of this gene have increased cost for psychic abilities.</description>
       <displayCategory>Psychic</displayCategory>
       <displayOrderInCategory>35</displayOrderInCategory>
       <statOffsets>
@@ -110,10 +110,10 @@
 
     <GeneDef>
       <defName>VPE_CostIncreaseMedium</defName>
-      <label>Medium focus reduction</label>
-      <labelShortAdj>Medium focusreduce</labelShortAdj>
       <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
-      <description>Carriers of this gene have reduced cost for psychic abilities.</description>
+      <label>Medium focus increase</label>
+      <labelShortAdj>Medium focusincrease</labelShortAdj>
+      <description>Carriers of this gene have increased cost for psychic abilities.</description>
       <displayCategory>Psychic</displayCategory>
       <displayOrderInCategory>36</displayOrderInCategory>
       <statOffsets>
@@ -137,10 +137,10 @@
 
     <GeneDef>
       <defName>VPE_CostIncreaselarge</defName>
-      <label>Large focus reduction</label>
-      <labelShortAdj>Large focusreduce</labelShortAdj>
       <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
-      <description>Carriers of this gene have reduced cost for psychic abilities.</description>
+      <label>Large focus Increase</label>
+      <labelShortAdj>Large focusincrease</labelShortAdj>
+      <description>Carriers of this gene have increased cost for psychic abilities.</description>
       <displayCategory>Psychic</displayCategory>
       <displayOrderInCategory>37</displayOrderInCategory>
       <statOffsets>
