@@ -1,0 +1,5 @@
+shield gene called Inate Shield, also bio-shield
+description:
+-These pawns have an inate energy field around them that can absorb damage
+- costs:
+	-5 met, -5 cpx
