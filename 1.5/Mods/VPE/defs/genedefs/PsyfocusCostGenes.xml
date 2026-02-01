@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
     <GeneDef>
       <defName>VPE_CostReductionslight</defName>
       <label>slight focus reduction</label>
@@ -27,7 +26,6 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
-
     <GeneDef>
       <defName>VPE_CostReductionMedium</defName>
       <label>Medium focus reduction</label>
@@ -54,7 +52,6 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
-
     <GeneDef>
       <defName>VPE_CostReductionlarge</defName>
       <label>Large focus reduction</label>
@@ -82,7 +79,6 @@
       </symbolPack>
     </GeneDef>
 	
-	
     <GeneDef>
       <defName>VPE_CostIncreaselight</defName>
       <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
@@ -109,7 +105,6 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
-
     <GeneDef>
       <defName>VPE_CostIncreaseMedium</defName>
       <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
@@ -136,7 +131,6 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
-
     <GeneDef>
       <defName>VPE_CostIncreaselarge</defName>
       <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
@@ -163,5 +157,4 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
-
 </Defs>
