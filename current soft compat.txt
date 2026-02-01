@@ -1,6 +1,6 @@
+current soft compat
 endling mod
-
-Rimworld of Magic 
+Rimworld of Magic
 Kures Classes
 
 in-progress soft compat:
