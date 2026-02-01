@@ -1,7 +1,8 @@
-endling mod
-
-Rimworld of Magic 
-Kures Classes 
+current soft compat:
+	endling mod
+	Rimworld of Magic
+	Kures Classes
+	vanilla psycasts expanded
 
 in-progress soft compat:
-reinforced mechanoids 2
+	reinforced mechanoids 2
