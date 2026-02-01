@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
     <GeneDef>
       <defName>VPE_CostReductionslight</defName>
       <label>slight focus reduction</label>
@@ -14,7 +13,7 @@
       </statOffsets>
       <biostatMet>-1</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
@@ -27,7 +26,6 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
-
     <GeneDef>
       <defName>VPE_CostReductionMedium</defName>
       <label>Medium focus reduction</label>
@@ -41,7 +39,7 @@
       </statOffsets>
       <biostatMet>-2</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
@@ -54,7 +52,6 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
-
     <GeneDef>
       <defName>VPE_CostReductionlarge</defName>
       <label>Large focus reduction</label>
@@ -68,7 +65,7 @@
       </statOffsets>
       <biostatMet>-5</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
@@ -81,6 +78,83 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
-
-
+	
+    <GeneDef>
+      <defName>VPE_CostIncreaselight</defName>
+      <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
+      <label>slight focus increase</label>
+      <labelShortAdj>slight focusincrease</labelShortAdj>
+      <description>Carriers of this gene have increased cost for psychic abilities.</description>
+      <displayCategory>Psychic</displayCategory>
+      <displayOrderInCategory>35</displayOrderInCategory>
+      <statOffsets>
+        <VPE_PsyfocusCostFactor>0.05</VPE_PsyfocusCostFactor>
+      </statOffsets>
+      <biostatMet>1</biostatMet>
+      <exclusionTags>
+        <li>VPE_CostFactor</li>
+      </exclusionTags>
+      <symbolPack>
+        <prefixSymbols>
+          <li><symbol>casting</symbol></li>
+          <li><symbol>focused</symbol></li>
+        </prefixSymbols>
+        <suffixSymbols>
+          <li><symbol>focuser</symbol></li>
+          <li><symbol>caster</symbol></li>
+        </suffixSymbols>
+      </symbolPack>
+    </GeneDef>
+    <GeneDef>
+      <defName>VPE_CostIncreaseMedium</defName>
+      <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
+      <label>Medium focus increase</label>
+      <labelShortAdj>Medium focusincrease</labelShortAdj>
+      <description>Carriers of this gene have increased cost for psychic abilities.</description>
+      <displayCategory>Psychic</displayCategory>
+      <displayOrderInCategory>36</displayOrderInCategory>
+      <statOffsets>
+        <VPE_PsyfocusCostFactor>0.1</VPE_PsyfocusCostFactor>
+      </statOffsets>
+      <biostatMet>2</biostatMet>
+      <exclusionTags>
+        <li>VPE_CostFactor</li>
+      </exclusionTags>
+      <symbolPack>
+        <prefixSymbols>
+          <li><symbol>casting</symbol></li>
+          <li><symbol>focused</symbol></li>
+        </prefixSymbols>
+        <suffixSymbols>
+          <li><symbol>focuser</symbol></li>
+          <li><symbol>caster</symbol></li>
+        </suffixSymbols>
+      </symbolPack>
+    </GeneDef>
+    <GeneDef>
+      <defName>VPE_CostIncreaselarge</defName>
+      <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
+      <label>Large focus Increase</label>
+      <labelShortAdj>Large focusincrease</labelShortAdj>
+      <description>Carriers of this gene have increased cost for psychic abilities.</description>
+      <displayCategory>Psychic</displayCategory>
+      <displayOrderInCategory>37</displayOrderInCategory>
+      <statOffsets>
+        <VPE_PsyfocusCostFactor>0.3</VPE_PsyfocusCostFactor>
+      </statOffsets>
+      <biostatMet>5</biostatMet>
+      <exclusionTags>
+        <li>VPE_CostFactor</li>
+      </exclusionTags>
+      <symbolPack>
+        <prefixSymbols>
+          <li><symbol>casting</symbol></li>
+          <li><symbol>focused</symbol></li>
+        </prefixSymbols>
+        <suffixSymbols>
+          <li><symbol>focuser</symbol></li>
+          <li><symbol>caster</symbol></li>
+        </suffixSymbols>
+      </symbolPack>
+    </GeneDef>
 </Defs>
