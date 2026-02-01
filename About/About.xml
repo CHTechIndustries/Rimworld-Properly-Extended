@@ -155,6 +155,7 @@ Credit where Credit is due:
 		<!-- load after miscilaneus other mods -->
 		<li>zandern.zealousinnocenceredux</li>
 		<li>kentington.saveourship2</li>
+		<li>dubwise.dubsbadhygiene</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
