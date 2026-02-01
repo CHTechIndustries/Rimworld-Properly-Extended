@@ -14,7 +14,7 @@
       </statOffsets>
       <biostatMet>-1</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
@@ -41,7 +41,7 @@
       </statOffsets>
       <biostatMet>-2</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
@@ -68,7 +68,7 @@
       </statOffsets>
       <biostatMet>-5</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
@@ -94,7 +94,7 @@
       </statOffsets>
       <biostatMet>1</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
@@ -121,7 +121,7 @@
       </statOffsets>
       <biostatMet>2</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
@@ -148,7 +148,7 @@
       </statOffsets>
       <biostatMet>5</biostatMet>
       <exclusionTags>
-        <li>VPE_CostReduction</li>
+        <li>VPE_CostFactor</li>
       </exclusionTags>
       <symbolPack>
         <prefixSymbols>
