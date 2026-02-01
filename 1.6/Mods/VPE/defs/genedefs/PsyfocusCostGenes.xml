@@ -81,11 +81,13 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
+	
+	
     <GeneDef>
       <defName>VPE_CostIncreaselight</defName>
+      <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
       <label>slight focus increase</label>
       <labelShortAdj>slight focusincrease</labelShortAdj>
-      <iconPath>UI/Icons/Genes/Gene_ReducedPsychicAbility</iconPath>
       <description>Carriers of this gene have increased cost for psychic abilities.</description>
       <displayCategory>Psychic</displayCategory>
       <displayOrderInCategory>35</displayOrderInCategory>
@@ -110,9 +112,9 @@
 
     <GeneDef>
       <defName>VPE_CostIncreaseMedium</defName>
+      <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
       <label>Medium focus increase</label>
       <labelShortAdj>Medium focusincrease</labelShortAdj>
-      <iconPath>UI/Icons/Genes/Gene_ReducedPsychicAbility</iconPath>
       <description>Carriers of this gene have increased cost for psychic abilities.</description>
       <displayCategory>Psychic</displayCategory>
       <displayOrderInCategory>36</displayOrderInCategory>
@@ -137,9 +139,9 @@
 
     <GeneDef>
       <defName>VPE_CostIncreaselarge</defName>
+      <iconPath>UI/Icons/Genes/Gene_EnhancedPsychicAbility</iconPath>
       <label>Large focus Increase</label>
       <labelShortAdj>Large focusincrease</labelShortAdj>
-      <iconPath>UI/Icons/Genes/Gene_ReducedPsychicAbility</iconPath>
       <description>Carriers of this gene have increased cost for psychic abilities.</description>
       <displayCategory>Psychic</displayCategory>
       <displayOrderInCategory>37</displayOrderInCategory>
