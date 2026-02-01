@@ -1,1 +1,7 @@
-endling modRimworld of MagicKures Classesin-progress soft compat:reinforced mechanoids 2
+current soft compat
+endling mod
+Rimworld of Magic
+Kures Classes
+
+in-progress soft compat:
+reinforced mechanoids 2
