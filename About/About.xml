@@ -113,7 +113,7 @@ Credit where Credit is due:
 		<li>chtech.opthings.pack</li>
 		<li>winglessflight.gene</li>
 		
-		<!-- <li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li> -->
+		<li>netzachsloth.arimworldofmagic.spacetimemageclass.revisited</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
