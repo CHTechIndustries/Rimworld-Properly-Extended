@@ -81,6 +81,8 @@
         </suffixSymbols>
       </symbolPack>
     </GeneDef>
+	
+	
     <GeneDef>
       <defName>VPE_CostIncreaselight</defName>
       <label>slight focus increase</label>
