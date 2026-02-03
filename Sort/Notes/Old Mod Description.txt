@@ -15,4 +15,4 @@ Now, there are some mods that this works very well with, and are needed to be ab
 Also, there are some that are very useful, but not truly necessary (still highly recommeneded you look at them)
 	1. Limitless Deathrest by DemonX3 for your extra-OP sangophages
 	2. Scrollable Gizmos by 2blockdude
-	3. Gendered Genes, which allows for genes to be exclusive to genders, and therefore pawns to have phenotypes (different properties for different genders). It's possible some xenos will one day need this mod, perhap even to the hard requirment level. 
+	3. Gendered Genes, which allows for genes to be exclusive to genders, and therefore pawns to have phenotypes (different properties for different genders). It's possible some xenos will one day need this mod, perhap even to the hard requirment level.
