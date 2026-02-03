@@ -6,3 +6,6 @@ Cloneing
 soft compat:
 All Big and Small Races
 All Vanilla Expanded Races
+
+sitting "pot", based on the fact I saw a "sitting spot" mod and thought it said sitting pot. Make soft compat?
+https://steamcommunity.com/sharedfiles/filedetails/?id=3236014306&searchtext=
