@@ -135,22 +135,6 @@ added {redacted}
 		<contentList>
 			<li>
 				<header>Actually Update</header>
-				<text>Come to think of it, maybe I should actually modify the mod so the stuff, you know, appears...</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.1.0</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-		
 		<!-- version n/a -->
 			<TabulaRasa.UpdateDef>
 		<defName>CHTechEmS_log_20250903</defName>
