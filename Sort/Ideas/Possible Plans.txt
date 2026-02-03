@@ -1,12 +1,3 @@
-Now, for the the general, long-term plan for this mod seris is to have it multi-part, going like this:
-[olist]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Genes Extended[/url] (this mod): adds in some new genes of my own invention, as well as genes integrated with other mods.
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3097961901]Xenotypes Expanded and Merged[/url]: New xenotypes based on this mods genes, and a few others
-[*]Rimworld Genes Integrated
-	This mod will make new genes requiring multiple mods. For instance, integration between 2 specific mods, as optional dependencies won't allow them. Examples include:[olist]
-[*]
-[*]
-
 ideas-
 Archite production
 Synthesyzing genes
