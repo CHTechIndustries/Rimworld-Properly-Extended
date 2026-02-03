@@ -1,3 +1,0 @@
-eventually modify to be tracking, and perhaps also have a miss chance.
-
-right now it literally can't miss. But, for now, that's it's way of "tracking"!
