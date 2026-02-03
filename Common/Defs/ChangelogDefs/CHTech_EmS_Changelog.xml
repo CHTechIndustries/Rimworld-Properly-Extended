@@ -135,8 +135,7 @@ added {redacted}
 		<contentList>
 			<li>
 				<header>Actually Update</header>
-		<!-- version n/a -->
-				<text>Come to think of it, maybe I should actually modify the mod so the stuff, you know, appears...
+				<text>Come to think of it, maybe I should actually modify the mod so the stuff, you know, appears...</text>
 				<header>Updated to 1.6</header>
 				<text>As save our ship is now updated for Rimworld 1.6, this mod is updated. More features to come (tm)
 				</text>
@@ -154,4 +153,5 @@ added {redacted}
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
