@@ -1,0 +1,10 @@
+a gene that makes the comfortable tempature 0 degrees
+a gene that inverts the comfortable tempatures
+a shield gene
+	something like:
+		shield gene called Inate Shield, also bio-shield
+			description:
+				-These pawns have an inate energy field around them that can absorb damage
+			- costs:
+			-5 met, -5 cpx
+	off the top of my head
