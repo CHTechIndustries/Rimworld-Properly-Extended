@@ -182,7 +182,7 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 4 -->
+<!-- 4.0.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20250901</defName>
 		<date>2025/09/01</date>
