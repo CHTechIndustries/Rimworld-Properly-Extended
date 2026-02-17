@@ -141,7 +141,7 @@ improved filestructure and moved this to acount for that
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-		<!-- 3.0.0 -->
+		<!-- version 3.0.0 -->
 	</TabulaRasa.UpdateDef>
 		<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20241124</defName>
@@ -182,7 +182,7 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 4.0.0 -->
+<!-- version 4.0.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20250901</defName>
 		<date>2025/09/01</date>
@@ -216,7 +216,7 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- 4.1.0 -->
+	<!-- version 4.1.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20260217</defName>
 		<date>2026/02/17</date>
