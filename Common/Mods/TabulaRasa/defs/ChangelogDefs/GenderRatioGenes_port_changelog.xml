@@ -216,15 +216,15 @@ added the contents of this mod to my main mod
 			</li>
 			</li>
 		</links>
-	<!-- version 4.0.1 -->
 	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
-		<defName>GenderRatioGenes_port_20250901_2</defName>
+	<!-- version 4.0.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>GenderRatioGenes_port_20250901-2</defName>
 		<date>2025/09/01</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>housecleaning & Misc.</header>
+				<header>1.6</header>
 				<text>Just some simple housecleaning for the branches and such</text>
 			</li>
 		</contentList>
@@ -251,4 +251,38 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- version 4.1.1 -->
+	<!-- <TabulaRasa.UpdateDef>
+		<defName>GenderRatioGenes_port_20250901</defName>
+		<date>2025/09/01</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>1.6</header>
+				<text></text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop (port)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>Steam Workshop (original mod)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3089173425</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub Release</linkLabel>
+				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/v4.0.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			<li>
+				<linkLabel>Steam Workshop: Main Mod</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef> -->
 </Defs>
