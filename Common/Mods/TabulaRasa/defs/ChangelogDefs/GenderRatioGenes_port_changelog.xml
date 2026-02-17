@@ -141,7 +141,7 @@ improved filestructure and moved this to acount for that
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-		<!-- 3.0.0 -->
+		<!-- version 3.0.0 -->
 	</TabulaRasa.UpdateDef>
 		<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20241124</defName>
@@ -182,9 +182,8 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- 4 -->
-	</TabulaRasa.UpdateDef>
-		<TabulaRasa.UpdateDef>
+<!-- version 4.0.0 -->
+	<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20250901</defName>
 		<date>2025/09/01</date>
 		<banner />
@@ -217,15 +216,16 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- version 4.0.1 -->
+	<!-- version 4.1.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>GenderRatioGenes_port_20250901_2</defName>
-		<date>2025/09/01</date>
+		<defName>GenderRatioGenes_port_20260217</defName>
+		<date>2026/02/17</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>housecleaning & Misc.</header>
-				<text>Just some simple housecleaning for the branches and such</text>
+				<header>Bug Fixes</header>
+				<text>Fixed a major bug that made the game crash if you had tablu rausa
+				Fixed some of the code comments</text>
 			</li>
 		</contentList>
 		<links>
@@ -241,12 +241,7 @@ added the contents of this mod to my main mod
 			</li>
 			<li>
 				<linkLabel>GitHub Release</linkLabel>
-				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/v4.0.1</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			<li>
-			<li>
-				<linkLabel>Secondary GitHub Release</linkLabel>
-				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/v4.0.1-2</linkUrl>
+				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/v4.1.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			<li>
 				<linkLabel>Steam Workshop: Main Mod</linkLabel>
