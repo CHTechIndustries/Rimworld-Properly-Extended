@@ -217,6 +217,7 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- 4.1.0 -->
 	<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20260217</defName>
 		<date>2026/02/17</date>
@@ -240,7 +241,7 @@ added the contents of this mod to my main mod
 			</li>
 			<li>
 				<linkLabel>GitHub Release</linkLabel>
-				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/v4.0.1</linkUrl>
+				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/v4.1.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			<li>
 				<linkLabel>Steam Workshop: Main Mod</linkLabel>
