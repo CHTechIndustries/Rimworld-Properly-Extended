@@ -294,6 +294,8 @@ added the contents of this mod to my main mod
 	<TabulaRasa.UpdateDef>
 		<contentList>
 			<li>
+				<header></header>
+				<text></text>
 			</li>
 		</contentList>
 	</TabulaRasa.UpdateDef>
