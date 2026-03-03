@@ -303,6 +303,9 @@ added the contents of this mod to my main mod
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
+				<linkLabel>GitHub Release</linkLabel>
+				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/v4.1.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 		</links>
 	</TabulaRasa.UpdateDef>
 </Defs>
