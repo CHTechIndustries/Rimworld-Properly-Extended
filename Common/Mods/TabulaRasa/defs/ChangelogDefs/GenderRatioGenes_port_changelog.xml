@@ -290,7 +290,7 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- correct versions (add in a version which somehow didin't exist) -->
+	<!-- version 4.1.1 -->
 	<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20260303</defName>
 		<date>2026/03/13</date>
@@ -298,9 +298,10 @@ added the contents of this mod to my main mod
 		<contentList>
 			<li>
 				<header>Minor Updates</header>
+				<text>correct versions in code comments and about file</text>
 			</li>
 			<li>
-				<header></header>
+				<header>Simple Updates</header>
 				<text></text>
 			</li>
 		</contentList>
