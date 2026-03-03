@@ -292,6 +292,11 @@ added the contents of this mod to my main mod
 	</TabulaRasa.UpdateDef>
 	<TabulaRasa.UpdateDef>
 		<links>
+			<li>
+				<linkLabel>Steam Workshop (port)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
 </Defs>
