@@ -297,6 +297,12 @@ added the contents of this mod to my main mod
 				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
+			<li>
+				<linkLabel>Steam Workshop (original mod)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3089173425</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
 		</links>
 	</TabulaRasa.UpdateDef>
 </Defs>
