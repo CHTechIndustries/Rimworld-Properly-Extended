@@ -298,9 +298,7 @@ added the contents of this mod to my main mod
 		<contentList>
 			<li>
 				<header>Minor Updates</header>
-				<text>correct versions in code comments</text>
-				<text>update version in about file</text>
-				<text>improve github versions (hopefully)</text>
+				<text>correct versions in code comments, improve github versions, and update the about file</text>
 			</li>
 			<li>
 				<header>Simple Updates</header>
