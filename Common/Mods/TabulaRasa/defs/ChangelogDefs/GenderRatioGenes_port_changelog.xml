@@ -298,7 +298,13 @@ added the contents of this mod to my main mod
 		<contentList>
 			<li>
 				<header>Minor Updates</header>
-				<text>correct versions in code comments and about file</text>
+				<text>correct versions in code comments</text>
+				<text>update version in about file</text>
+				<text>improve github versions (hopefully)</text>
+			</li>
+			<li>
+				<header>Simple Updates</header>
+				<text>clean up mod files, edit steam description</text>
 			</li>
 		</contentList>
 		<links>
