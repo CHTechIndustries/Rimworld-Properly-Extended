@@ -292,5 +292,8 @@ added the contents of this mod to my main mod
 	</TabulaRasa.UpdateDef>
 	<!-- correct versions (add in a version which somehow didin't exist) -->
 	<TabulaRasa.UpdateDef>
+	<defName>GenderRatioGenes_port_20260303</defName>
+		<date>2026/03/13</date>
+		<banner />
 	</TabulaRasa.UpdateDef>
 </Defs>
