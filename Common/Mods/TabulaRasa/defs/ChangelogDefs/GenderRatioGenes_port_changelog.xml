@@ -297,9 +297,8 @@ added the contents of this mod to my main mod
 		<banner />
 		<contentList>
 			<li>
-				<header></header>
+				<header>Minor Updates</header>
 				<text>correct versions in code comments and about file</text>
-				<text></text>
 			</li>
 		</contentList>
 		<links>
