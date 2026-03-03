@@ -291,5 +291,7 @@ added the contents of this mod to my main mod
 		</links>
 	</TabulaRasa.UpdateDef>
 	<TabulaRasa.UpdateDef>
+		<links>
+		</links>
 	</TabulaRasa.UpdateDef>
 </Defs>
