@@ -300,6 +300,7 @@ added the contents of this mod to my main mod
 				<header>Minor Updates</header>
 				<text>correct versions in code comments</text>
 				<text>update version in about file</text>
+				<text>improve github versions (hopefully)</text>
 			</li>
 			<li>
 				<header>Simple Updates</header>
