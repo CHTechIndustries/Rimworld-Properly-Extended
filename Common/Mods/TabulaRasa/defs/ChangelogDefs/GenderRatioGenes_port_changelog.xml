@@ -293,6 +293,8 @@ added the contents of this mod to my main mod
 	<!-- correct versions (add in a version which somehow didin't exist) -->
 	<TabulaRasa.UpdateDef>
 		<contentList>
+			<li>
+			</li>
 		</contentList>
 	</TabulaRasa.UpdateDef>
 </Defs>
