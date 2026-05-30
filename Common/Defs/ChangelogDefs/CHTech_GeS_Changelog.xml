@@ -470,5 +470,31 @@ only 2 updates left are to modify this to refference mine better, and add 1.6 co
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+		</TabulaRasa.UpdateDef>
+		<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20250711_1</defName>
+		<date>2025/07/11</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Integrate</header>
+				<text>Completly transfered to the new mod, used that as link bellow
+only 2 updates left are to modify this to refference mine better, and add 1.6 compat
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>New Steam Workshop</linkLabel>
+				<linkUrl>hthttps://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>New Location</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
 
