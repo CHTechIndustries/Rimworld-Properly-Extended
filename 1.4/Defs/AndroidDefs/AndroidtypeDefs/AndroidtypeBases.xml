@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>	
+	<XenotypeDef Name="VEE_AndroidXenotypeBiologicBase" Abstract="True">
+		<genes>
+			<li>VREA_MemoryProcessing</li>
+			<li>VREA_Power</li>
+			<li>VREA_SyntheticBody</li>
+			<li>VREA_NeutroCirculation</li>
+			<li>VREA_SyntheticImmunity</li>
+			<li>VREA_ComponentFreezing</li>
+			<li>VREA_ComponentOverheating</li>
+			<li>VREA_ColdTolerant</li>
+			<li>VREA_HeatTolerant</li>
+		</genes>
+	</XenotypeDef>
+</Defs>
