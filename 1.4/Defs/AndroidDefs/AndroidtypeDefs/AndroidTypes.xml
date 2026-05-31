@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>	
+	<XenotypeDef ParentName="VEE_AndroidXenotypeBiologicBase">
+		<defName>RWI_AndroidBio</defName>
+		<label>Bio-Android</label>
+		<description>Bio-Androids are made to be as close to humans as possible, meaning unless you look at them surgically, they look human.If they never get injured, then sometimes they are never aware of their synthetic nature, just knowing they have to take a pill every so often!</description>
+		<descriptionShort>When specially designed, some rare androids are almost indistinquisible from humans</descriptionShort>
+		<genes>
+			<li>VREA_ZeroWaste</li>
+			<li>VREA_SelfRecharge</li>
+			<li>VREA_NeutroSynthesis</li>
+		</genes>
+		<iconPath>UI/XenotypeIcons/Androidtype_AmIRobot</iconPath>
+	</XenotypeDef>
+</Defs>
