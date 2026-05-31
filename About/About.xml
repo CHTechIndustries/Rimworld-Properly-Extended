@@ -59,10 +59,10 @@ And, credit where credit is due:
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
 		<li>chtech.ges</li>
+		<li>chtech.rimworldextended.main</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>hrg164hjo.vfefuelpipenet.sos2</li>
 		<li>cruelmoose.sos2ep</li>
-		<li>chtech.rimworldextended.main</li>
 	</incompatibleWith>
 </ModMetaData>
