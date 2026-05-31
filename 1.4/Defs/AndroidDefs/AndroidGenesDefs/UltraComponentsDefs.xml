@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+	<VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
+		<defName>RWI_android_VanoPower</defName>
+		<label>Vanometric Power</label>
+		<description>By replacing the reactor with a vanometric generator, the neeed for energy can be nullified.</description>
+		<iconPath>UI/Icons/Genes/Hardware/Gene_Power</iconPath>
+		<displayOrderInCategory>1</displayOrderInCategory>
+		<canGenerateInGeneSet>false</canGenerateInGeneSet>
+		<biostatCpx>25</biostatCpx>
+		<biostatMet>5</biostatMet>
+		<displayCategory>RWI_androidUltra</displayCategory>
+		<disablesNeeds>
+			<li>VREA_ReactorPower</li>
+		</disablesNeeds>
+		<statFactors>
+			<MoveSpeed>1.1</MoveSpeed>
+			<WorkSpeedGlobal>1.15</WorkSpeedGlobal>
+		</statFactors>
+		<exclusionTags>
+			<li>Waste</li>
+			<li>Reactors</li>
+			<li>AndroidPowerMode</li>
+		</exclusionTags>
+		<isCoreComponent>false</isCoreComponent>
+	</VREAndroids.AndroidGeneDef>
+
+	<VREAndroids.AndroidGeneDef ParentName="VREA_HardwareBase">
+		<defName>RWI_android_SelfFormat</defName>
+		<displayCategory>RWI_androidUltra</displayCategory>
+		<label>Self Formating</label>
+		<description>By preforming a constant, minor reformating, the need to enter a reformating phase becomes a null issue</description>
+		<iconPath>UI/Icons/Genes/Hardware/Gene_MemoryProcessing</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<biostatMet>-10</biostatMet>
+		<biostatCpx>25</biostatCpx>
+		<disablesNeeds>
+			<li>VREA_MemorySpace</li>
+		</disablesNeeds>
+		<exclusionTags>
+			<li>AndroidAwakeningProtocols</li>
+			<li>AndroidRAM</li>
+		</exclusionTags>
+		<isCoreComponent>false</isCoreComponent>
+	</VREAndroids.AndroidGeneDef>
+</Defs>

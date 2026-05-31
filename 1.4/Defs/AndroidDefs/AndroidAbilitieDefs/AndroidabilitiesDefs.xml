@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <AbilityDef ParentName="AbilityTouchBase">
+    <defName>Android_Resurrect</defName>
+    <label>Resurrect</label>
+    <description>Use specially designed nanites stored in a small injector within the nutroamine steam to repair the target pawns frail body, but with a lengthy dellay. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability consumes many nanites, preventing it from being used except rarely</description>
+    <iconPath>UI/Abilities/Resurrect</iconPath>
+    <cooldownTicksRange>6840000~7560000</cooldownTicksRange> <!-- 1.9~2.1 years -->
+    <warmupMote>Mote_ResurrectAbility</warmupMote>
+    <warmupStartSound>Resurrect_Cast</warmupStartSound>
+    <category>Sanguophage</category>
+    <displayOrder>600</displayOrder>
+    <hostile>false</hostile>
+    <verbProperties>
+      <verbClass>Verb_CastAbilityTouch</verbClass>
+      <drawAimPie>false</drawAimPie>
+      <range>-1</range>
+      <warmupTime>2</warmupTime>
+      <soundCast>Resurrect_Resolve</soundCast>
+      <targetParams>
+        <canTargetPawns>false</canTargetPawns>
+        <canTargetBuildings>false</canTargetBuildings>
+        <canTargetCorpses>true</canTargetCorpses>
+        <canTargetMechs>false</canTargetMechs>
+      </targetParams>
+    </verbProperties>
+  </AbilityDef>
+</Defs>

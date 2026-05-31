@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Mild ideos -->
+  
+  <!-- Strong ideos -->
+
+  <!-- Intense ideos -->
+
+  <IdeoPresetDef>
+    <defName>Super_Removers</defName>
+    <label>Fanatic Anti-Supers</label>
+    <description>The human race is at the peak of nature and must use technology to step beyond. We do this by enhancing our bodies with technology, but we like to hear others' view on the matter.\n\nUnlocks research and production specialist roles.</description>
+    <categoryDef>Intense</categoryDef>
+    <memes>
+      <li>Transhumanist</li>
+      <li>Individualist</li>
+      <li>HumanPrimacy</li>
+    </memes>
+	<structure>
+  </IdeoPresetDef>
+  
+</Defs>
