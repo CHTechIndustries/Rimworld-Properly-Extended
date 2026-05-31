@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!-- base (more info: https://github.com/Outpost-21/Tabula-Rasa/wiki/In-Game-Updates): 
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_"yyyymmdd"</defName>
+		<date>yyyy/mm/dd</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Header</header>
+				<text>text
+text2</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+
+notes: 
+1. if multiple updates in same day, end with an "_x", where "x" is the number of releases it is from that day (so if there are 3 releases, it will be "date_1", "date_2", and "date_3"
+2. if multiple lines in single text, to /n
+-->
+
+<!-- version 0.9.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechEmS_log_20240823_1</defName>
+		<date>2024/08/23</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Semi-Release</header>
+				<text>Uploaded so it has steam link, that way actual initial release will have content...</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v0.9.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.0.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechEmS_log_20240823_2</defName>
+		<date>2024/08/23</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Setup</header>
+				<text>Added description and steam workshop link
+added {redacted}
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v1.0.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.0.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechEmS_log_20240824</defName>
+		<date>2024/08/24</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Pipes</header>
+				<text>Integrated in pipes for uranium and antimatter (exotic particles), with aid from "SOS2 Exotic Pipes" (by Cruel Moose), and
+	By aid, I mean the textures are the same (ctrl+c and ctrl+v), and the code is basicily the same.
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v1.0.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 2.0.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechEmS_log_20250901</defName>
+		<date>2025/09/01</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Updated to 1.6</header>
+				<text>As save our ship is nop updated for Rimworld 1.6, this mod is updated. More features to come (tm)
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.0.0-2</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 2.1.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechEmS_log_20250903</defName>
+		<date>2025/09/03</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Actually Update</header>
+				<text>Come to think of it, maybe I should actually modify the mod so the stuff, you know, appears...</text>
+				<header>Updated to 1.6</header>
+				<text>As save our ship is now updated for Rimworld 1.6, this mod is updated. More features to come (tm)
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip/releases/tag/v2.1.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+</Defs>
