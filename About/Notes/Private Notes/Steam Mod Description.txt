@@ -1,0 +1,33 @@
+So, who has played Save our Ship, and thought "I need more"? Well, here we are, a growing collection of [i]more[/i]
+[hr][/hr]
+So, more is, well, a bit hodgepodge, as it should be!
+[h1]What is more[/h1]
+Glad you asked! It falls into many a' category, includeing
+[h2]Minor Features[/h2]
+These are just minor features, be it a small new intermediary, a few more encounters, a scenario, ect.
+[h2]Most other stuff[/h2]
+Just additional features, and features
+[h2]Misc[/h2]
+A category that is kinda part of the one above. This is just random stuff that kinda makes sense
+[h2]Huh?![/h2]
+Features that are interesting, but don't seem to have a rhyme or reason
+[h2]There-ish[/h2]
+where most features are right now. Planned, in progress...
+[h1]Current features[/h1]
+Some of the current features include:
+[olist]
+[*]Antimatter Pipes (Based on [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3296213712]"SOS2 Exotic Pipes"[/url])
+[*]Uranium Fuel Pipes (Based on [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3066648800]Fuel Pipenet for SOS2[/url])
+[*][strike]Formgel Drive[/strike] I hope. System keeps breaking...
+[/olist]
+
+[hr][/hr]
+[h1]And, credit where credit is due[/h1]
+[olist]
+[*][url=https://steamcommunity.com/profiles/76561198015041836/myworkshopfiles/?appid=294100]Primarch XVI[/url] for {redacted} p {redacted} use {redacted}. And that's the meaning of life!
+[*]Kentington for Save our Ship 2
+[*]Ludeon for Rimworld
+[*][url=https://steamcommunity.com/profiles/76561198046681680/myworkshopfiles/?appid=294100]Cruel Moose[/url] for "SOS2 Exotic Pipes", and permission to integrate it into my mod.
+[*][url=https://steamcommunity.com/profiles/76561199122815759/myworkshopfiles/?appid=294100]HRG164hjo[/url] for Fuel Pipenet for SOS2.
+	-I used the textures precisly, if he asks me to i'll replace them.
+[/olist]

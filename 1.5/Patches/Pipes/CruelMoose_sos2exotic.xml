@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="antimatter thruster" or defName="ArchotechAntimatterReactor"]/comps</xpath>
+        <value>
+            <li Class="PipeSystem.CompProperties_RefillWithPipes">
+                <pipeNet>SoS2_ExoticNet</pipeNet>
+                <thing>exotic particles</thing>
+            </li>
+        </value>
+    </Operation>
+
+    <!-- toggable patch -->
+    <Operation Class="VFECore.PatchOperationToggableSequence">
+        <enabled>False</enabled>
+        <label>Invisible exotic pipes</label>
+        <operations>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/ThingDef[defName="SoS2_ExoticFuelPipe"]/graphicData/texPath</xpath>
+                <value>
+                    <texPath>enetinv_Atlas</texPath>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
