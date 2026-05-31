@@ -31,22 +31,12 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 
 Q: Why isn't it 1.4 compatible?
 A: Once apon a time, it was. But so many changes occured, and the 1.4 version was effectivly empty, so it was decided the best option was to remove it.
-	
-<!-- Progress:
-Progress:
-	Holography: 0%
-	Gestalt Engine Avatar: 0%
-	Subcore Production: 8%
-	Research: 39%
-	Scenarios: 3%
-	Caravans: 12% -->
 </description>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
 			<displayName>Biotech</displayName>
 		</li>
-
 		<li>
 			<packageId>chtech.core</packageId>
 			<displayName>CHTechIndustries Core</displayName>
