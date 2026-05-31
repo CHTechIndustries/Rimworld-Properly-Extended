@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+	<v1.4>
+		<li>/</li>
+		<li>1.4</li>
+		<li IfModActive="biotexpans.mammalia">1.4/Mods/BiotechExpansion_Mammalia</li>
+		<li IfModActive="biotexpans.mythic">1.4/Mods/BiotechExpansion_Mythic</li>
+		<li IfModActive="vanillaracesexpanded.archon">1.4/Mods/VanillaRacesExpanded_Archon</li>
+		<li IfModActive="sarg.alphagenesvfei">1.4/Mods/AlphaGenes_Insectoid</li>
+		<li IfModActive="vanillaracesexpanded.lycanthrope">1.4/Mods/VanillaRacesExpanded_Lycan</li>
+	</v1.4>
+</loadFolders>
