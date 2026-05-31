@@ -1,2 +1,1 @@
-# more xenos
-adds and patches many mods to improve their xenos, and make them more cohesive
+Archived, going to be (over time) added to: [Rimworld Extended: Properlly](https://github.com/CHTechIndustries/Rimworld-Extended-Properly)
