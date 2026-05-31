@@ -1,0 +1,11 @@
+1. make compat with Hermaprodite, either via soft or hard dependency
+2. same, but with toxdependency mod
+
+
+The link text is:
+
+6. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3013408395]Tox Dependency Genes[/url]
+4. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2879035868]Hermaphrodite Gene[/url]
+
+
+Decrease number of hard requirments, and make as many of these optional as possible.
