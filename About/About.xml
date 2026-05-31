@@ -2,9 +2,9 @@
 <ModMetaData>
 	<name>Rimworld Extended: Properly</name>
 	<author>CTH2004, Tuarre, Breadmond, Cruel Moose, HRG164hjo</author>
-	<packageId>CHTech.RimworldExtended.main</packageId>
-	<url>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/wiki</url>
-	<modVersion>3.1.4</modVersion>
+	<packageId>CHTech.RimworldExtended.core</packageId>
+	<url>https://github.com/CHTechIndustries/Rimworld-Extended-Properly/wiki</url>
+	<modVersion>1.0.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 		<li>1.5</li>
