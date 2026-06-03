@@ -57,6 +57,8 @@ Credit where Credit is due:
 		</li>
 	</modDependencies>
 	<loadAfter>
+		<li>chtech.EmS</li>
+	
 		<li>CHTech.devOrder</li>
 		
 		<li>petre27.biotechbalancedcapacitorgenes</li>
