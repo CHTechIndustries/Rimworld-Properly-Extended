@@ -26,8 +26,6 @@
 			<li IfModActive="kure.arom">1.5/Mods/RoM_Addons/kure</li> 		<!-- kurea compat -->
 			<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li> <!-- nothing yet -->
 			<li IfModActive="vanillaexpanded.vpsycastse">1.5/Mods/VPE/</li> <!-- vanilla psycasts expanded compat -->
-			<li IfModActive="kentington.saveourship2">1.5/Mods/SoS2/</li> <!-- Save our Ship 2 compat -->
-	
 			<li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> <!-- if reinforced mechanoids 2 is there, add scenario (used to be another mod) -->			
 	</v1.5>
 	<v1.6>
@@ -42,7 +40,6 @@
 		<li IfModActive="kure.arom">1.6/Mods/RoM_Addons/kure</li> 		
 		<li IfModActive="chtech.opthings.pack">1.6/Mods/OpThingAMajing</li> <!-- nothing yet -->
 		<li IfModActive="vanillaexpanded.vpsycastse">1.6/Mods/VPE/</li> <!-- vanilla psycasts expanded compat -->
-		<li IfModActive="kentington.saveourship2">1.6/Mods/SoS2/</li> <!-- Save our Ship 2 compat -->
 		
 		<!-- <li IfModActive="mlie.reinforcedmechanoid2">GestaltScen</li> -->
 			<!-- commented out until this mod is updated to 1.6 -->
