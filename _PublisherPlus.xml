@@ -8,5 +8,8 @@
 	<exclude>About\Incomplete</exclude>
 	<exclude>Textures\.baseIcons</exclude>
 	<exclude>About\sort</exclude>
+	<exclude>Textures\.baseIcons</exclude>
+	<exclude>.branchLog</exclude>
+	<exclude>About\Preview Source Images\Designing</exclude>
   </Excluded>
 </Configuration>
