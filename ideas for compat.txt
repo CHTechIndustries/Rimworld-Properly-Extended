@@ -1,5 +1,3 @@
-			<li IfModActive="vanillaracesexpanded.archon">1.5/Mods/VanillaRacesExpanded_Archon</li> 
-			<li IfModActive="vanillaracesexpanded.lycanthrope">1.5/Mods/VanillaRacesExpanded_Lycan</li>
 id's of mods for compat:
 
 
