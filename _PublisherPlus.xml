@@ -5,10 +5,8 @@
 	<exclude>.github</exclude>
 	<exclude>About\Notes\Private Notes</exclude>
 	<exclude>SECURITY.md</exclude>
-	<exclude>Textures\.baseIcons</exclude>
-	<exclude>.branchLog</exclude>
 	<exclude>About\Incomplete</exclude>
-	<exclude>About\Lists</exclude>
-	<exclude>PersonalLinks</exclude>
+	<exclude>Textures\.baseIcons</exclude>
+	<exclude>About\sort</exclude>
   </Excluded>
 </Configuration>
