@@ -1,4 +1,8 @@
-General Overview: type custom upload ID's to see result
+# Rimworld Extended: Properly
+
+A mod adding many features (primarilly genes right now, both 100% of my own design (albiet with frameworks), and based on/ adding onto other mods!), all of them designed to mesh well with vanilla.
+
+ General Overview: type custom upload ID's to see result
 
 Test: custom ID of 1 number
 Result: option to upload didin't appear
