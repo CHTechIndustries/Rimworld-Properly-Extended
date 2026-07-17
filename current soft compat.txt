@@ -5,4 +5,3 @@ current soft compat:
 	vanilla psycasts expanded
 
 in-progress soft compat:
-	reinforced mechanoids 2
