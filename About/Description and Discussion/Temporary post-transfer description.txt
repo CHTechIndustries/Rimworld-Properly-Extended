@@ -1,0 +1,20 @@
+[h1]THIS IDEA IS QUITE COMPLEX, AND HAS BEEN INTEGRATED INTO [URL=https://steamcommunity.com/workshop/filedetails/?id=3114130835]Rimworld Extended: Properly
+[/URL][/h1]
+[h2]Why integrate?[/h2]
+[b][olist]
+[*]Updates here where beyond semi-sporiadic, as I always would go to doing my main mod. So, now it's part of that mod
+[*]For modders, ID's might change as I re-design the mod from scratch over and over...
+[*]The description here will soon be complete (this is a simple version to describe it's movment, the future one will be better, and come with an edited about file description
+[/olist][/b]
+[h2]Why Keep[/h2]
+So, I know some people use this mod (or at least subscribed to it)
+By makeing it require the mod which has the scenario in it, people with this mod will now still get the scenario (when applicable). Basicly (once I get the prototype working)
+- install this mod: get scenario
+- install my main mod and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047]Reinforced Mechanoids 2[/url]: get scenario
+[h1]Description[/h1]
+[hr][/hr]
+[strike]Okay, now that the warning is over let's get on with the mod description![/strike]
+Simplified summary due to new porpuse
+
+So, there is [i]one[/i] thing missing from our good friend the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047]Reinforced Mechanoids 2[/url]. That is: a scenario built around the Gestalt Engine!
+This mod will cause you to install my main mod and the soft compat that will, once it works, activate the scenario
