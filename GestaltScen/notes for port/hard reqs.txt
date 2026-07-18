@@ -1,5 +1,0 @@
-		<li>
-			<packageId>mlie.reinforcedmechanoid2</packageId>
-			<displayName>Reinforced Mechanoid 2 (Continued)</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3400713047</steamWorkshopUrl>
-		</li>
