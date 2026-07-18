@@ -1,4 +1,8 @@
 id's of mods for compat:
+			<li IfModActive="biotexpans.mammalia">1.5/Mods/BiotechExpansion_Mammalia</li> 
+			<li IfModActive="biotexpans.mythic">1.5/Mods/BiotechExpansion_Mythic</li> 
+			<li IfModActive="vanillaracesexpanded.archon">1.5/Mods/VanillaRacesExpanded_Archon</li> 
+			<li IfModActive="vanillaracesexpanded.lycanthrope">1.5/Mods/VanillaRacesExpanded_Lycan</li>
 
 
 biotexpans.mammalia
@@ -6,3 +10,4 @@ Biotech Expansion Mammalia
 
 biotexpans.mythic
 Biotech Expansion Mythic
+more?
