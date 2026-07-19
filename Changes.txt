@@ -1,5 +1,0 @@
-1. Slight gramatical change
-2. ported to 1.5 as well
-3. made harmony reqruiered by the mods about file as well
-4. Made biotech reqrired by the mods about file
-5. added mod version
