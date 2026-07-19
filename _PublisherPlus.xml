@@ -9,5 +9,6 @@
 	<exclude>Textures\.baseIcons</exclude>
 	<exclude>About\sort</exclude>
 	<exclude>Prototypes</exclude>
+	<exclude>Feature Ideas</exclude>
   </Excluded>
 </Configuration>
