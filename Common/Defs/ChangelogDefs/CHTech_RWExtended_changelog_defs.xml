@@ -322,22 +322,32 @@ P.S. due to a person commenting about issues with 1.4, I was inspired to put thi
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- version 2.2.0 -->
+	<!-- 2.2.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_2024121</defName>
-		<date>2024/12/01</date>
+		<defName>CHTech_RW_expanded_20241124</defName>
+		<date>2024/11/24</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>Additions</header>
-				<text>Integrated in gender ratio genes
+				<header>Integrated Gender Ratio Genes</header>
+				<text>With the authors permission, the mod Gender Ratio Genes (which I ported a while ago, and is linked in this changenote), has been integrated in
+the ID's where kept the same, so they are also marked as incompatible.
 </text>
-</li>
+		</li>
+		<li>
+			<header>Other Changes</header>
+			<text>I also modified the about file to mention the author of Gender Ratio Genes as an author, and edited it some more</text>
+		</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
 				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>Workshop of Ported Mod</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
