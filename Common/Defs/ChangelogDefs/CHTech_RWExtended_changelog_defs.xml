@@ -64,9 +64,9 @@ notes:
 		<contentList>
 			<li>
 				<header>1.0.1</header>
-				<text>Wrote desciption
+				<text>Wrote Description
 modified about file
-made FAQ section 
+made a FAQ section
 </text>
 			</li>
 		</contentList>
@@ -91,8 +91,8 @@ made FAQ section
 		<contentList>
 			<li>
 				<header>1.0.2</header>
-				<text>Improved description more
-improved FAQ
+				<text>Improved Description
+Improved FAQ
 Made Public
 Altered Xenotypes expanded and More to fit this better (description, FAQ, and requirments)
 made it use Super Hero Genes: Base
@@ -127,9 +127,8 @@ added a note about placeholder icons (I put it on the steam description well bef
 Added my first custom gene-set ("Bio-Stability")
 Added some more to steam description
 Updated FAQ
-Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)
-</text>
-			</li>
+Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)</text>
+</li>
 		</contentList>
 		<links>
 			<li>
@@ -201,7 +200,11 @@ Added a discussion that is just a list of optional dependencies
 Modified the other mod to require the EBSG series
 Integrated with Visual Studio for easier coding and updates
 Made a note of Vanilla Expanded
-
+made .log area
+improved folder thing
+corrected version
+added correct version to about file
+mod-breaking: multiple ID changes
 </text>
 			</li>
 		</contentList>
@@ -262,7 +265,6 @@ removed Royalty as a hard compat, as really Biotech is the only DLC I'm using as
 	A) Soft compat
 	B) In extreme cases, addon mod
 fixed an indent (format issue)
-Removed un-used placeholder folders from 1.4
 </text>
 			</li>
 		</contentList>
@@ -294,6 +296,8 @@ fixed some requirments
 added in a few missing load order indices
 made What's that Mod always load lower than this mod
 improved load order so all the "commented out" ones are one comment, as they are commented out for the same reason. Now I can collapse them all at once if desired!
+continued on new description (hopefully it will be done before the next update
+added in tabula Rasa based changelog
 </text>
 </li>
 <li>
@@ -312,21 +316,20 @@ P.S. due to a person commenting about issues with 1.4, I was inspired to put thi
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.1.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- version 2.1.1 -->
+<!-- version 2.2.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20240517</defName>
-		<date>2024/05/17</date>
+		<defName>CHTech_RW_expanded_2024121</defName>
+		<date>2024/12/01</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>changes</header>
-				<text>continued on new description (hopefully it will be done before the next update
-added in tabula Rasa based changelog
+				<header>Additions</header>
+				<text>Integrated in gender ratio genes
 </text>
 </li>
 		</contentList>
@@ -338,62 +341,22 @@ added in tabula Rasa based changelog
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.2.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- 2.2.0 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20241124</defName>
-		<date>2024/11/24</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Integrated Gender Ratio Genes</header>
-				<text>With the authors permission, the mod Gender Ratio Genes (which I ported a while ago, and is linked in this changenote), has been integrated in
-the ID's where kept the same, so they are also marked as incompatible.
-</text>
-		</li>
-		<li>
-			<header>Other Changes</header>
-			<text>I also modified the about file to mention the author of Gender Ratio Genes as an author, and edited it some more</text>
-		</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>Workshop of Ported Mod</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.0</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- 2.2.1 -->
+	<!-- version 2.2.1 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTech_RW_expanded_20250124</defName>
 		<date>2025/01/24</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>changes</header>
-				<text>removed pathfinding framework as a requirment as it's causeing errors, and isn't needed
-fixed an error in the changelog that was causeing errors
+				<header>Additions</header>
+				<text>enhanced piercing spine, credit file, remove redundant, and more
 </text>
 </li>
-		<li>
-			<header>Possible Change</header>
-			<text>There is a feature i'm working on, and I am not sure if it got merged. It wasn't the finished one, so... well, who knows, you might get a surprise feature</text>
-		</li>
 		</contentList>
 		<links>
 			<li>
@@ -438,7 +401,7 @@ fixed an error in the changelog that was causeing errors
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.1</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.2.1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
