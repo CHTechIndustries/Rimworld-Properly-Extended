@@ -346,4 +346,29 @@ P.S. due to a person commenting about issues with 1.4, I was inspired to put thi
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- version 2.2.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_20250124</defName>
+		<date>2025/01/24</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Additions</header>
+				<text>enhanced piercing spine, credit file, remove redundant, and more
+</text>
+</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.2.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
