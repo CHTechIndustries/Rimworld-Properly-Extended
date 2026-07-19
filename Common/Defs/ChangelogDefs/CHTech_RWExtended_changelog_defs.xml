@@ -590,6 +590,11 @@ And yes, this update was supposed to come out a week ago</text>
 Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you know, work
 </text>
 			</li>
+			<li>
+				<header>Fix RoM Def</header>
+				<text>Fixed an error in the wording of some of the defs
+</text>
+			</li>
 		</contentList>
 		<links>
 			<li>
@@ -599,7 +604,7 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.2</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v3.1.2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
