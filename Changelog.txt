@@ -84,6 +84,8 @@ with permision:
 	integrated in Rimworld of Magic Genes by Bleeding Eyes Mcgee ( https://steamcommunity.com/workshop/filedetails/?id=2907470506 )
 	added in genes for all of the classes in RoM (and one of it's addons, based off of Touch-nir's mod, with a good amount of alterations ( https://steamcommunity.com/sharedfiles/filedetails/?id=3023584656 )
 both will be built upon to be more robust and modular, but right now they work quite well!
+transfer xenotypes
+improved names
 
 edits to those mods during integration:
 changed to use textures of RoM, instead of haveing a copy of the images
@@ -94,3 +96,4 @@ made (using the parent) kures use a "may require", so if not there it's inactive
 made What's that Mod always load lower than this mod
 improved load order so all the "commented out" ones are one comment, as they are commented out for the same reason. Now I can collapse them all at once if desired!
 due to someones comment elsewhere, was inspired to put the RoM genes into the 1.4 folder, so technically another 1.4 update!v1.1.2
+mod-breaking: multiple ID changes
