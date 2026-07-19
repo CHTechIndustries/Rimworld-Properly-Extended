@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <loadFolders>
 	<v1.4>
-		<!-- non version-specific -->
 		<li>/</li>
-		<li>Common</li>
-		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
-		
-		<!-- version specific -->
 		<li>1.4</li>
+		<li IfModActive="aelanna.endling">1.4/Mods/Endling</li>
+		<li IfModActive="torann.arimworldofmagic">1.4/Mods/RoM/</li>		
 	</v1.4>
 	<v1.5>
-		<!-- non version-specific -->
+		<!-- base stuff (things that are almost the same each version) -->
 		<li>/</li>
-		<li>Common</li>
-		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
-		
-		<!-- version specific -->
 		<li>1.5</li>
-	</v1.5>
-	<v1.6>
-		<!-- non version-specific -->
-		<li>/</li>
 		<li>Common</li>
-		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
-		<!-- version specific -->
-		<li>1.6</li>
-	</v1.6>
+		<!-- content adding things -->
+		<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
+		<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li>
+		<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li>
+		
+		<!-- future content adding mods 
+		
+			<li IfModActive="biotexpans.mammalia">1.5/Mods/BiotechExpansion_Mammalia</li> 
+			<li IfModActive="biotexpans.mythic">1.5/Mods/BiotechExpansion_Mythic</li> 
+			<li IfModActive="vanillaracesexpanded.archon">1.5/Mods/VanillaRacesExpanded_Archon</li> 
+			<li IfModActive="vanillaracesexpanded.lycanthrope">1.5/Mods/VanillaRacesExpanded_Lycan</li>
+			
+		and more, this is just the ones that, at least some of, the framework is setup -->
+	</v1.5>
 </loadFolders>

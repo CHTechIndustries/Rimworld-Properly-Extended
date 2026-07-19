@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <GeneCategoryDef>
+        <defName>TdT_BioStabilizers</defName>
+        <label>Bio-Stabilizer</label>
+        <displayPriorityInXenotype>499.999</displayPriorityInXenotype>
+    </GeneCategoryDef>
+	<GeneCategoryDef>
+        <defName>TdT_Test</defName>
+        <label>Test Genes</label>
+        <displayPriorityInXenotype>10000</displayPriorityInXenotype>
+    </GeneCategoryDef>
+	<GeneCategoryDef>
+		<defName>TdT_ShieldGenes</defName>
+		<label>Inate Shields</label>
+		<displayPriorityInXenotype>500</displayPriorityInXenotype>
+	</GeneCategoryDef>
+</Defs>
