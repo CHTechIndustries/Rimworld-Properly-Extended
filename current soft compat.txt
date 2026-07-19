@@ -3,7 +3,7 @@ current soft compat:
 	Rimworld of Magic
 	Kures Classes
 	vanilla psycasts expanded
-
-in-progress/ to start soft compat:
-	reinforced mechanoids 2
 	save our ship 2
+
+in-progress soft compat:
+	reinforced mechanoids 2
