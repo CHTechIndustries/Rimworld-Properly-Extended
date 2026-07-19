@@ -357,15 +357,17 @@ the ID's where kept the same, so they are also marked as incompatible.
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	<!-- version 2.2.1 -->
+<!-- 2.2.1 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTech_RW_expanded_20250124</defName>
 		<date>2025/01/24</date>
 		<banner />
 		<contentList>
 			<li>
-				<header>Additions</header>
-				<text>enhanced piercing spine, credit file, remove redundant, and more
+				<header>changes</header>
+				<text>removed pathfinding framework as a requirment as it's causeing errors, and isn't needed
+fixed an error in the changelog that was causeing errors
+also enhanced the piercing spine, amongst other things
 </text>
 </li>
 		</contentList>
