@@ -54,6 +54,7 @@ made .log area
 improved folder thing
 corrected version
 added correct version to about file
+mod-breaking: multiple ID changes
 
 1.2.0
 Last "major" update for 1.4 (most likley)
@@ -95,5 +96,4 @@ made (using the parent) kures use a "may require", so if not there it's inactive
 =======
 made What's that Mod always load lower than this mod
 improved load order so all the "commented out" ones are one comment, as they are commented out for the same reason. Now I can collapse them all at once if desired!
-due to someones comment elsewhere, was inspired to put the RoM genes into the 1.4 folder, so technically another 1.4 update!v1.1.2
-mod-breaking: multiple ID changes
+due to someones comment elsewhere, was inspired to put the RoM genes into the 1.4 folder, so technically another 1.4 update!
