@@ -64,9 +64,9 @@ notes:
 		<contentList>
 			<li>
 				<header>1.0.1</header>
-				<text>Wrote desciption
+				<text>Wrote Description
 modified about file
-made FAQ section 
+made a FAQ section
 </text>
 			</li>
 		</contentList>
@@ -91,8 +91,8 @@ made FAQ section
 		<contentList>
 			<li>
 				<header>1.0.2</header>
-				<text>Improved description more
-improved FAQ
+				<text>Improved Description
+Improved FAQ
 Made Public
 Altered Xenotypes expanded and More to fit this better (description, FAQ, and requirments)
 made it use Super Hero Genes: Base
@@ -127,9 +127,8 @@ added a note about placeholder icons (I put it on the steam description well bef
 Added my first custom gene-set ("Bio-Stability")
 Added some more to steam description
 Updated FAQ
-Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)
-</text>
-			</li>
+Removed the Super Hero Genes requirement (apparently, the mod "Expanded Biotech Style Genes Framework" has the same features, (Well, on a technicallity they have minute differences, but nothing of gameplay import)</text>
+</li>
 		</contentList>
 		<links>
 			<li>
@@ -201,7 +200,11 @@ Added a discussion that is just a list of optional dependencies
 Modified the other mod to require the EBSG series
 Integrated with Visual Studio for easier coding and updates
 Made a note of Vanilla Expanded
-
+made .log area
+improved folder thing
+corrected version
+added correct version to about file
+mod-breaking: multiple ID changes
 </text>
 			</li>
 		</contentList>
@@ -294,6 +297,8 @@ fixed some requirments
 added in a few missing load order indices
 made What's that Mod always load lower than this mod
 improved load order so all the "commented out" ones are one comment, as they are commented out for the same reason. Now I can collapse them all at once if desired!
+continued on new description (hopefully it will be done before the next update
+added in tabula Rasa based changelog
 </text>
 </li>
 <li>
@@ -312,33 +317,7 @@ P.S. due to a person commenting about issues with 1.4, I was inspired to put thi
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- version 2.1.1 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20240517</defName>
-		<date>2024/05/17</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>changes</header>
-				<text>continued on new description (hopefully it will be done before the next update
-added in tabula Rasa based changelog
-</text>
-</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.1.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -373,7 +352,7 @@ the ID's where kept the same, so they are also marked as incompatible.
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.0</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.2.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -388,12 +367,9 @@ the ID's where kept the same, so they are also marked as incompatible.
 				<header>changes</header>
 				<text>removed pathfinding framework as a requirment as it's causeing errors, and isn't needed
 fixed an error in the changelog that was causeing errors
+also enhanced the piercing spine, amongst other things
 </text>
 </li>
-		<li>
-			<header>Possible Change</header>
-			<text>There is a feature i'm working on, and I am not sure if it got merged. It wasn't the finished one, so... well, who knows, you might get a surprise feature</text>
-		</li>
 		</contentList>
 		<links>
 			<li>
@@ -403,7 +379,7 @@ fixed an error in the changelog that was causeing errors
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.1</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.2.1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -437,36 +413,7 @@ fixed an error in the changelog that was causeing errors
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.2</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-<!-- 2.2.3. -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20250412</defName>
-		<date>2025/04/12</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Update Psyfocus Cost Genes</header>
-				<text>Fixed some "minor" issues that prevented the genes from working at all, by altering the path in the load folder</text>
-				<text>Fixed a minor-ish issue in the previous changelog entry (I forgot to put the source link in)</text>
-			</li>
-			<li>
-				<header>Background</header>
-				<text>decreased extraneus and outdated files</text>
-			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.2.3</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.2.2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -485,29 +432,9 @@ fixed an error in the changelog that was causeing errors
 				<header>Fix Game-Breaking Kure bugs</header>
 				<text>deleted and fixed game breaking bugs from the this addon. There are still some bugs (a few genes have missing textures, and if you look at them they error), but it's not game-breaking</text>
 			</li>
-		</contentList>
-		<links>
-			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.3.0</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-		<!-- 2.3.1 -->
-	<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20250615</defName>
-		<date>2025/06/15</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Improvements to Rimworld of Magic</header>
-				<text>just a couple of minor improvments, primarilly to how the exclusion system works</text>
+						<li>
+				<header>Update</header>
+				<text>Updated a few things. and some stuff</text>
 			</li>
 		</contentList>
 		<links>
@@ -518,7 +445,7 @@ fixed an error in the changelog that was causeing errors
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.3.1</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.3.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -550,7 +477,7 @@ fixed an error in the changelog that was causeing errors
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/2.3.2</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.3.1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -575,7 +502,7 @@ fixed an error in the changelog that was causeing errors
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.0.0</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v3.0.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -587,9 +514,8 @@ fixed an error in the changelog that was causeing errors
 		<banner />
 		<contentList>
 			<li>
-				<header>Sucsesfully Transfer Gestalt</header>
-				<text>It's official, the gestalt engine scenario is now here as a soft compat!
-That means, if you have Reinforced Mechanoids 2, you will get the scenario. No second mod needed!
+				<header>Transfer Gestalt</header>
+				<text>Transfer in the basis of Gestalt Engine Scenario, so once I get said scenario working it will be part of this mod, not another seperate mod
 </text>
 			</li>
 			<li>
@@ -599,7 +525,7 @@ And yes, this update was supposed to come out a week ago</text>
 			</li>
 			<li>
 				<header>Improve Folders</header>
-				<text>Remember thos "find some things that could be optimized"? Well, they have been. It was less than I thought, but still</text>
+				<text>Remember those "find some things that could be optimized"? Well, they have been. It was less than I thought, but still</text>
 			</li>
 		</contentList>
 		<links>
@@ -610,7 +536,7 @@ And yes, this update was supposed to come out a week ago</text>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.0</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v3.1.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -644,6 +570,12 @@ And yes, this update was supposed to come out a week ago</text>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
+					<li>
+				<linkLabel>GitHub: Base Expirment</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v3.1.1</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
 	</TabulaRasa.UpdateDef>
 	<!-- 3.1.2 -->
 		<TabulaRasa.UpdateDef>
@@ -658,28 +590,8 @@ And yes, this update was supposed to come out a week ago</text>
 Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you know, work
 </text>
 			</li>
-		</contentList>
-		<links>
 			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
-				<linkTex>TabulaRasa/UI/Steam</linkTex>
-			</li>
-			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.2</linkUrl>
-				<linkTex>TabulaRasa/UI/GitHub</linkTex>
-			</li>
-		</links>
-	</TabulaRasa.UpdateDef>
-		<!-- 3.1.3 -->
-		<TabulaRasa.UpdateDef>
-		<defName>CHTech_RW_expanded_20260113</defName>
-		<date>2026/01/13</date>
-		<banner />
-		<contentList>
-			<li>
-				<header>Update Rimworld of Magic</header>
+				<header>Fix RoM Def</header>
 				<text>Fixed an error in the wording of some of the defs
 </text>
 			</li>
@@ -692,12 +604,12 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.3</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v3.1.2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-			<!-- 3.1.4 -->
+<!-- 3.1.3 -->
 		<TabulaRasa.UpdateDef>
 		<defName>CHTech_RW_expanded_20260204</defName>
 		<date>2026/02/04</date>
@@ -721,7 +633,7 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/3.1.4</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v3.1.3</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
