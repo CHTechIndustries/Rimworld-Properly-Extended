@@ -4,5 +4,6 @@ current soft compat:
 	Kures Classes
 	vanilla psycasts expanded
 
-in-progress soft compat:
+in-progress/ to start soft compat:
 	reinforced mechanoids 2
+	save our ship 2
