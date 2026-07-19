@@ -1,14 +1,7 @@
 ---
-name: Suggestion
-about: If you don't want to use discord or steam, this is the next best option!
-title: "[Suggestion]:"
-labels: enhancement
-assignees: ''
-
+name: Meta
+about: Repository, tooling, documentation, and other non-gameplay changes.
+title: ""
+labels:
+  - Meta
 ---
-
-**Suummary**
-
-**Indepth Explanation of idea**
-
-**Reasoning**
