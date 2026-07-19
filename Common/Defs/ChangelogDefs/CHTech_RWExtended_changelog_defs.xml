@@ -321,4 +321,29 @@ P.S. due to a person commenting about issues with 1.4, I was inspired to put thi
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+<!-- version 2.2.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_RW_expanded_2024121</defName>
+		<date>2024/12/01</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Additions</header>
+				<text>Integrated in gender ratio genes
+</text>
+</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Rimworld-Properly-Extended/releases/tag/v2.2.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>

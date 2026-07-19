@@ -15,6 +15,7 @@
 		<!-- content adding things -->
 		<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
 		<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li>
+		<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li>
 		
 		<!-- future content adding mods 
 		
