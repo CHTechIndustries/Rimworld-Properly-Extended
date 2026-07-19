@@ -16,6 +16,7 @@
 		<li IfModActive="aelanna.endling">1.5/Mods/Endling</li>
 		<li IfModActive="torann.arimworldofmagic">1.5/Mods/RoM/</li>
 		<li IfModActive="chtech.opthings.pack">1.5/Mods/OpThingAMajing</li>
+		<li IfModActive="vanillaexpanded.vpsycastse">1.5/Mods/VPE/defs/genedefs</li>
 		
 		<!-- future content adding mods 
 		
