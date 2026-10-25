@@ -616,10 +616,6 @@ Fixed the load folder, so rimworld 1.6 soft compatibilities would actually, you 
 		<banner />
 		<contentList>
 			<li>
-				<header>Save our Ship 2 compat</header>
-				<text>Added in soft compat for save our ship 2. In the process, also made incompatible with my mod which adds in save our ship content, makeing that mod effectivly "this mod minus most content"</text>
-			</li>
-			<li>
 				<header>Update Psycost Focus Genes</header>
 				<text>updated the psycost genes, adding in ones that increase the cost.</text>
 				<text>Due to issues, currently all the icons are the same (so the icon for increaseing cost is the same as the one for decreaseing cost, as opposed to red</text>
